@@ -1,0 +1,5 @@
+include LICENSE
+include README.rst
+include disbi/import_export/LICENSE
+recursive-include disbi/static *
+recursive-include disbi/templates *

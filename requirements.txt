@@ -1,0 +1,2 @@
+django-import-export==0.5.0
+more-itertools

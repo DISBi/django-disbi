@@ -1,0 +1,11 @@
+{% extends "admin/base.html" %}
+{% load staticfiles %}
+{% block title %}{{ title }} | DISBi site admin{% endblock %}
+
+{% block branding %}
+
+<h1 id="site-name"><a href="{% url 'admin:index' %}">DISBi administration</a></h1>
+
+{% endblock %}
+
+{% block nav-global %}{% endblock %}

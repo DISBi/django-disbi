@@ -1,0 +1,157 @@
+// Use 7-1 pattern and style guide as proposed by https://sass-guidelin.es/
+ 
+@charset 'utf-8'
+
+@import 'helpers/variables.sass'
+@import 'helpers/mixins.sass'
+@import 'helpers/placeholders.sass'
+
+@import 'layout/header.sass'
+@import 'layout/grid.sass'
+
+
+// -------------------------- GENERAL STYLES --------------------------
+// -------------------------- HTML elements ---------------------------
+body
+  font-family: "Roboto","Lucida Grande","DejaVu Sans","Bitstream Vera Sans",Verdana,Arial,sans-serif
+  margin: 0
+  padding: 0
+  padding-bottom: 30px
+
+a
+  color: $color-primary
+  text-decoration: none
+  &:hover
+    text-decoration: underline
+
+// Prettier select widgets.
+select
+  border: 1px solid #ccc
+  border-radius: 4px
+  padding: 4px 5px
+  margin: 2px 0
+  font-size: 13px
+  border-collapse: collapse
+
+// ----------------------------- Classes ------------------------------
+.warning
+  color: $color-negative
+  font-weight: bold
+
+.loading
+
+.left
+  float: left
+
+.right
+  float: right
+
+.center
+  margin: 0 auto
+
+.invisible
+  display: none
+
+// Styling for tables other than the DataTable.
+.disbi-table
+
+  table
+    border-collapse: collapse
+    width: 100%
+    margin-bottom: 40px
+
+  td, th
+    border: 1px solid #ddd
+    text-align: left
+    padding: 8px
+
+  tr
+    &:nth-child(even)
+      background-color: $color-base
+
+  th
+    padding-top: 12px
+    padding-bottom: 12px
+    background-color: $color-secondary
+    color: $color-base
+
+// Forms.
+// The filter form.  
+.input-subform 
+  float: left
+
+div[class^="form-container"]
+  // Clearfix.
+  &:after
+    content: ""
+    display: table
+    clear: both
+
+.form-field
+  float: left
+
+// Buttons.
+.action-button
+  +button($color-special)
+
+// Style the add and remove links as buttons.
+a[class^="add-row"]
+  +button($color-positive, $font-size: 20px, $padding: 0px 10px)
+  margin-top: 5px
+  // Remove the pressing effect as it looks strange on the small buttons.
+  &:active
+    box-shadow: none
+
+a[class^="delete-row"]
+  +button($color-negative,  $font-size: 20px, $padding: 0px 10px)
+  margin-left: 2px
+  // This is a hard-coded fix for vertically centering the delete button, 
+  // when the form is not in <table> as it should be.
+  margin-top: 4px
+  margin-bottom: 4px
+  // This vertically centers the delete button, when the form
+  // is rendered as a table.
+  vertical-align: middle
+  // This would be solution for centering the button without rendering 
+  // the form as a <table> but it stretches and distorts the button.
+  // Needs: display: table-row in the parent element.
+  // display: table-cell
+  // table-layout: fixed
+  // Remove the pressing effect as it looks strange on the small buttons.
+  &:active
+    box-shadow: none
+
+// Adpats the layout of the search boxes in the DataTable to the 
+// actual width of the column.
+table[class="dataTable"] tfoot input
+  width: 100%
+  padding: 3px
+  box-sizing: border-box
+
+// ----------------------- DEFINED PARTS (IDs) ------------------------
+#container
+  position: relative
+  width: 100%
+  min-width: 980px
+  padding: 0
+
+// ------------------------------ Other -------------------------------
+#experiment_toggler
+  margin-bottom: 5px
+
+#submit_button
+  +button($color-special, $font-size: 20px)
+  display: block
+  text-align: center
+
+// -------------------------- Miscellaneous ---------------------------
+// Just for making things visible in development,
+// do not use in production.
+.test
+  background-color: $color-primary
+
+
+
+
+
+

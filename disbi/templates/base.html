@@ -1,0 +1,43 @@
+<!DOCTYPE html> 
+{% load staticfiles %}
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8"></meta>
+	<meta name="viewport" content="width=device-width, initial-scale=1" >
+	<link rel="stylesheet" type="text/css" href="{% static 'disbi/css/main.css' %}">
+	<title>DISBi | {{ subheader }}</title>
+	{% block head %}{% endblock %}
+</head>
+
+<body>
+<div id="container">
+	<!-- Header -->
+	<div id="header">
+		<div id="branding">
+			<h1 id="site-name">
+				<a href="/">DISBi</a>
+			</h1>
+		</div>
+		<div id="user-tools">
+		{% if user.is_authenticated %}
+			Welcome, <strong>{{ user }}</strong>
+			/
+			<a href="{% url 'password_change' %}">Change password</a>
+			/
+			<a href="{% url 'logout' %}">log out</a>
+		{% else %}
+			<a href="{% url 'login' %}">Login</a>
+		{% endif %}
+		</div>
+	</div>
+	
+	<div class="subheader">{{ subheader }}</div>
+	<div id="content">
+	{% block content %}{% endblock %}
+	</div>
+</div> 
+
+</body>
+
+{% block scripts %}{% endblock %}
+</html>

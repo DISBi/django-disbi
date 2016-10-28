@@ -1,0 +1,74 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+
+{% block content %}
+
+<div id="input_form">
+  <form id="user_input" method="post" action="">  
+    {% csrf_token %}
+    <div id="layout-helper" class="grid grid-pad">
+      {% for formset in formset_list %}
+        <div class="input-subform">
+          {% for form in formset %}
+            {% if forloop.counter0 == 0 %}
+              {% for field in form %}
+                <div class="from-field--label">{{ field.label }}</div>
+              {% endfor %}
+            {% endif %}
+            <div class="form-container{{ forloop.parentloop.counter}}">
+              {% for field in form %}
+                <div class="form-field">{{ field }}</div>
+              {% endfor %}
+            </div>
+          {% endfor %}
+          {{ formset.management_form }}
+        </div>
+      {% endfor %}  
+    </div>
+    <div class="grid grid-pad">
+      <input id="submit_button" class="action-button invisible col-1-3 push-1-3" type="submit" value="Query database" class="button">
+    </div>
+  </form> 
+</div>
+<div class="grid grid-pad">
+  <div id="num_exps_info" class="col-1-2"></div>
+</div>
+<div class="grid grid-pad">
+  <div class="disbi-table col-12-12" id="available-exps">
+</div>
+
+{% endblock %}
+
+{% block scripts %}
+
+<!------------------------------------------------- JS scripts ---------------------------------------------->
+<!-- jQuery Framework Google CDN -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+<!-- Interface Script (load before formset.js!)-->
+<script type="text/javascript" charset="utf8"  src="{% static 'disbi/js/filter.js' %}"></script>
+<!--  Formset Script -->
+<script type="text/javascript" charset="utf8"  src="{% static 'disbi/js/jQuery.formset.js' %}"></script>
+<!-- Script for setting up the dynamic formsets. -->
+<script type="text/javascript">
+console.log( "number of forms: " + parseInt($( "#id_experiment_type-TOTAL_FORMS" ).val()) )  
+{% for formset in formset_list %}
+	
+	$(function() {
+        $('.form-container{{ forloop.counter }}').formset({
+          prefix: '{{ formset.prefix }}',
+          formCssClass: 'dynamic-formset{{ forloop.counter }}',
+          addText: '+',
+          deleteText: '&times;',  
+          addCssClass: 'add-row{{ forloop.counter }}',
+          deleteCssClass: 'delete-row{{ forloop.counter }}',
+          removed: showExperimentInfo,
+        });
+    });    
+{% endfor %}
+// Somehow the actual buttons cannot be selected at this time so the value
+// is hard coded.
+var delBtnSize = 48;
+gridify(delBtnSize);
+</script>     
+
+{% endblock %}

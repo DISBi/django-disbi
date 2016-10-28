@@ -1,0 +1,432 @@
+#header {
+  width: auto;
+  height: 40px;
+  padding: 10px 40px;
+  background: #407e97;
+  line-height: 40px;
+  color: white;
+  overflow: hidden; }
+  #header a {
+    color: white; }
+
+#branding {
+  float: left; }
+  #branding h1 {
+    padding: 0;
+    margin: 0 20px 0 0;
+    font-weight: 300;
+    font-size: 24px;
+    color: white;
+    display: block;
+    margin-left: 20px;
+    float: right; }
+  #branding img {
+    width: auto;
+    height: 45px; }
+
+#user-tools {
+  float: right;
+  padding: 0;
+  margin: 0 0 0 20px;
+  font-weight: 300;
+  font-size: 11px;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  text-align: right; }
+
+.subheader {
+  background: #8cb1c0;
+  padding: 10px 40px;
+  border: none;
+  font-size: 14px;
+  color: white;
+  text-align: left; }
+
+/* Simple Grid
+ * Project Page - http://thisisdallas.github.com/Simple-Grid/
+ * Author - Dallas Bass
+ * Site - http://dallasbass.com
+ */
+[class*='grid'], [class*='col-'], [class*='mobile-'], .grid:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+[class*='col-'] {
+  float: left;
+  min-height: 1px;
+  padding-right: 20px;
+  /* column-space */ }
+  [class*='col-'] [class*='col-']:last-child {
+    padding-right: 0; }
+
+.grid {
+  width: 100%;
+  max-width: 1140px;
+  min-width: 748px;
+  /* when using padded grid on ipad in portrait mode,
+   *width should be viewport-width - padding = (768 - 20) = 748. actually, it should be even smaller to allow for padding of grid containing element
+   */
+  margin: 0 auto;
+  overflow: hidden; }
+  .grid:after {
+    content: "";
+    display: table;
+    clear: both; }
+
+.grid-pad {
+  padding-top: 20px;
+  padding-left: 20px;
+  /* grid-space to left */
+  padding-right: 0;
+  /* grid-space to right: (grid-space-left - column-space) e.g. 20px-20px=0 */ }
+
+.push-right {
+  float: right; }
+
+/* Content Columns */
+.col-1-1 {
+  width: 100%; }
+
+.col-2-3, .col-8-12 {
+  width: 66.66%; }
+
+.col-1-2, .col-6-12 {
+  width: 50%; }
+
+.col-1-3, .col-4-12 {
+  width: 33.33%; }
+
+.col-1-4, .col-3-12 {
+  width: 25%; }
+
+.col-1-5 {
+  width: 20%; }
+
+.col-1-6, .col-2-12 {
+  width: 16.667%; }
+
+.col-1-7 {
+  width: 14.28%; }
+
+.col-1-8 {
+  width: 12.5%; }
+
+.col-1-9 {
+  width: 11.1%; }
+
+.col-1-10 {
+  width: 10%; }
+
+.col-1-11 {
+  width: 9.09%; }
+
+.col-1-12 {
+  width: 8.33%; }
+
+/* Layout Columns */
+.col-11-12 {
+  width: 91.66%; }
+
+.col-10-12 {
+  width: 83.333%; }
+
+.col-9-12 {
+  width: 75%; }
+
+.col-5-12 {
+  width: 41.66%; }
+
+.col-7-12 {
+  width: 58.33%; }
+
+/* Pushing blocks */
+.push-2-3, .push-8-12 {
+  margin-left: 66.66%; }
+
+.push-1-2, .push-6-12 {
+  margin-left: 50%; }
+
+.push-1-3, .push-4-12 {
+  margin-left: 33.33%; }
+
+.push-1-4, .push-3-12 {
+  margin-left: 25%; }
+
+.push-1-5 {
+  margin-left: 20%; }
+
+.push-1-6, .push-2-12 {
+  margin-left: 16.667%; }
+
+.push-1-7 {
+  margin-left: 14.28%; }
+
+.push-1-8 {
+  margin-left: 12.5%; }
+
+.push-1-9 {
+  margin-left: 11.1%; }
+
+.push-1-10 {
+  margin-left: 10%; }
+
+.push-1-11 {
+  margin-left: 9.09%; }
+
+.push-1-12 {
+  margin-left: 8.33%; }
+
+@media handheld, only screen and (max-width: 767px) {
+  .grid {
+    width: 100%;
+    min-width: 0;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 20px;
+    /* grid-space to left */
+    padding-right: 10px;
+    /* grid-space to right: (grid-space-left - column-space) e.g. 20px-10px=10px */ }
+
+  [class*='col-'] {
+    width: auto;
+    float: none;
+    margin: 10px 0;
+    padding-left: 0;
+    padding-right: 10px;
+    /* column-space */ }
+    [class*='col-'] [class*='col-'] {
+      padding-right: 0; }
+
+  /* Mobile Layout */
+  [class*='mobile-col-'] {
+    float: left;
+    margin: 0 0 10px;
+    padding-left: 0;
+    padding-right: 10px;
+    /* column-space */
+    padding-bottom: 0; }
+
+  .mobile-col-1-1 {
+    width: 100%; }
+
+  .mobile-col-2-3, .mobile-col-8-12 {
+    width: 66.66%; }
+
+  .mobile-col-1-2, .mobile-col-6-12 {
+    width: 50%; }
+
+  .mobile-col-1-3, .mobile-col-4-12 {
+    width: 33.33%; }
+
+  .mobile-col-1-4, .mobile-col-3-12 {
+    width: 25%; }
+
+  .mobile-col-1-5 {
+    width: 20%; }
+
+  .mobile-col-1-6, .mobile-col-2-12 {
+    width: 16.667%; }
+
+  .mobile-col-1-7 {
+    width: 14.28%; }
+
+  .mobile-col-1-8 {
+    width: 12.5%; }
+
+  .mobile-col-1-9 {
+    width: 11.1%; }
+
+  .mobile-col-1-10 {
+    width: 10%; }
+
+  .mobile-col-1-11 {
+    width: 9.09%; }
+
+  .mobile-col-1-12 {
+    width: 8.33%; }
+
+  /* Layout Columns */
+  .mobile-col-11-12 {
+    width: 91.66%; }
+
+  .mobile-col-10-12 {
+    width: 83.333%; }
+
+  .mobile-col-9-12 {
+    width: 75%; }
+
+  .mobile-col-5-12 {
+    width: 41.66%; }
+
+  .mobile-col-7-12 {
+    width: 58.33%; }
+
+  .hide-on-mobile {
+    display: none !important;
+    width: 0;
+    height: 0; } }
+body {
+  font-family: "Roboto", "Lucida Grande", "DejaVu Sans", "Bitstream Vera Sans", Verdana, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  padding-bottom: 30px; }
+
+a {
+  color: #407e97;
+  text-decoration: none; }
+  a:hover {
+    text-decoration: underline; }
+
+select {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 4px 5px;
+  margin: 2px 0;
+  font-size: 13px;
+  border-collapse: collapse; }
+
+.warning {
+  color: #be1e3c;
+  font-weight: bold; }
+
+.left {
+  float: left; }
+
+.right {
+  float: right; }
+
+.center {
+  margin: 0 auto; }
+
+.invisible {
+  display: none; }
+
+.disbi-table table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 40px; }
+.disbi-table td, .disbi-table th {
+  border: 1px solid #ddd;
+  text-align: left;
+  padding: 8px; }
+.disbi-table tr:nth-child(even) {
+  background-color: white; }
+.disbi-table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-color: #8cb1c0;
+  color: white; }
+
+.input-subform {
+  float: left; }
+
+div[class^="form-container"]:after {
+  content: "";
+  display: table;
+  clear: both; }
+
+.form-field {
+  float: left; }
+
+.action-button {
+  color: #eafde6;
+  background-color: #005374;
+  border-radius: 15px;
+  overflow: hidden;
+  padding: 0.5em 1em;
+  display: inline-block;
+  position: relative;
+  text-transform: uppercase;
+  text-decoration: none;
+  border: none;
+  font-size: 11px;
+  text-align: center; }
+  .action-button:hover {
+    background-color: #002f41; }
+  .action-button:active {
+    box-shadow: 1px 1px 3px inset; }
+
+a[class^="add-row"] {
+  color: #eafde6;
+  background-color: #4d9c89;
+  border-radius: 15px;
+  overflow: hidden;
+  padding: 0px 10px;
+  display: inline-block;
+  position: relative;
+  text-transform: uppercase;
+  text-decoration: none;
+  border: none;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 5px; }
+  a[class^="add-row"]:hover {
+    background-color: #3c7a6b; }
+  a[class^="add-row"]:active {
+    box-shadow: 1px 1px 3px inset; }
+  a[class^="add-row"]:active {
+    box-shadow: none; }
+
+a[class^="delete-row"] {
+  color: #eafde6;
+  background-color: #be1e3c;
+  border-radius: 15px;
+  overflow: hidden;
+  padding: 0px 10px;
+  display: inline-block;
+  position: relative;
+  text-transform: uppercase;
+  text-decoration: none;
+  border: none;
+  font-size: 20px;
+  text-align: center;
+  margin-left: 2px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  vertical-align: middle; }
+  a[class^="delete-row"]:hover {
+    background-color: #92172e; }
+  a[class^="delete-row"]:active {
+    box-shadow: 1px 1px 3px inset; }
+  a[class^="delete-row"]:active {
+    box-shadow: none; }
+
+table[class="dataTable"] tfoot input {
+  width: 100%;
+  padding: 3px;
+  box-sizing: border-box; }
+
+#container {
+  position: relative;
+  width: 100%;
+  min-width: 980px;
+  padding: 0; }
+
+#experiment_toggler {
+  margin-bottom: 5px; }
+
+#submit_button {
+  color: #eafde6;
+  background-color: #005374;
+  border-radius: 15px;
+  overflow: hidden;
+  padding: 0.5em 1em;
+  display: inline-block;
+  position: relative;
+  text-transform: uppercase;
+  text-decoration: none;
+  border: none;
+  font-size: 20px;
+  text-align: center;
+  display: block;
+  text-align: center; }
+  #submit_button:hover {
+    background-color: #002f41; }
+  #submit_button:active {
+    box-shadow: 1px 1px 3px inset; }
+
+.test {
+  background-color: #407e97; }
+
+/*# sourceMappingURL=main.css.map */

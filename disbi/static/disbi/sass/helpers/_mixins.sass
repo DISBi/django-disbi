@@ -1,0 +1,20 @@
+@import 'helpers/variables.sass'
+
+=button($color, $font-size: 11px, $padding: 0.5em 1em)
+  color: $base
+  background-color: $color
+  border-radius: 15px
+  overflow: hidden
+  padding: $padding
+  display: inline-block
+  position: relative	
+  text-transform: uppercase
+  text-decoration: none
+  border: none
+  font-size: $font-size
+  text-align: center
+  &:hover
+    background-color: darken($color, 10%)
+  // Give the button the impression of being pressed.
+  &:active
+    box-shadow: 1px 1px 3px inset
