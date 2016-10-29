@@ -8,13 +8,9 @@ env:
 install:
   - pip install -q $DJANGO
   - pip install -e git+https://github.com/disbi/django-disbi.git#egg=django-disbi
-  - pip install coveralls
 before_script:
   - psql -c 'create database disbidb;' -U postgres
 database:
   - postgres service
 script:
-  - coverage run tests/manage.py test core
-after_success:
-  coveralls
-
+  - python tests/manage.py test core
