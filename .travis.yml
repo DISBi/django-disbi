@@ -7,11 +7,12 @@ env:
   - DJANGO="Django==1.10"
 install:
   - pip install -q $DJANGO
-  - pip install -r requirements.txt
-  - python setup.py -q install
+  - pip install -e git+https://github.com/disbi/django-disbi.git#egg=django-disbi
 before_script:
   - psql -c 'create database disbidb;' -U postgres
 database:
   - postgres service
 script:
   - python tests/manage.py test core
+
+
