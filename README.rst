@@ -2,6 +2,10 @@
 DISBi
 =====
 
+.. image:: https://readthedocs.org/projects/django-disbi/badge/?version=latest
+:target: http://django-disbi.readthedocs.io/en/latest/?badge=latest
+:alt: Documentation Status
+
 DISBi is a framework to build Django apps for managing and integrating 
 Sytems Biology data.
 
