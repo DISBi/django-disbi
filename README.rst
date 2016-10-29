@@ -2,6 +2,10 @@
 DISBi
 =====
 
+.. image:: https://img.shields.io/pypi/v/django-disbi.svg
+   :target: https://pypi.python.org/pypi/django-disbi
+   :alt: Current version on PyPi
+    
 .. image:: https://readthedocs.org/projects/django-disbi/badge/?version=latest
    :target: http://django-disbi.readthedocs.io/en/latest/?badge=latest
    :alt: Documentation Status
