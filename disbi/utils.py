@@ -70,10 +70,10 @@ def get_choices(choice_tup, style='db'):
         raise ValueError
     
     # check whether the tuple contains extra optgroup
-    if isinstance(choice_tup[0][1][0], str):
-        optgroup = False
-    else:
+    if isinstance(choice_tup[0][1], tuple):
         optgroup = True
+    else:
+        optgroup = False
         
     output_choices = []
             

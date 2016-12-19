@@ -14,7 +14,7 @@ from django.db.models.fields.related import ForeignKey
 from django.utils.translation import ugettext_lazy as _
 
 # DISBi
-from disbi.utils import camelize, construct_none_displayer
+from disbi.utils import camelize, construct_none_displayer, get_choices
 
 
 # ----------------------------- functions -----------------------------
@@ -27,6 +27,7 @@ def make_ChoiceField(model, attribute, label=None, empty_choice=None):
     Addtionally a NULL option is inserted as first choice.
     
     Args:
+        model (Model): The model from which the field should be constructed.
         attribute (Field): The attribute of the model. 
         label (str): The label used when displaying the form (default None).
         empty_choice (tuple): 2-tuple of a value label pair, used for enabling
@@ -42,11 +43,18 @@ def make_ChoiceField(model, attribute, label=None, empty_choice=None):
     
     try:
         entries = model.objects.values_list(attribute, flat=True).distinct()
-        
         max_num = len(entries)
-       
+        model_field = model._meta.get_field(attribute)
         # Format human-readable label according to type
-        if isinstance(entries[0], str):
+        if model_field.choices:
+            # The field is a choice field. Use DB and display names as 
+            # specified in the models.
+            choices = list(zip(get_choices(model_field.choices, style='db'), 
+                               get_choices(model_field.choices, style='display')))
+        
+        
+        elif isinstance(entries[0], str):
+            # The field is a free form string field.
             # Split on SEPARATOR, flatten list and make it unique.
             entries = [e.split(settings.DISBI['SEPARATOR']) for e in entries if e]
             entries = sum(entries, [])
@@ -57,6 +65,7 @@ def make_ChoiceField(model, attribute, label=None, empty_choice=None):
                        for e in entries if e]
             
         else:
+            # The field is something else. DB and display values are the same.
             choices = [(e, e) for e in entries if e]
         
         if empty_choice is not None:
@@ -135,8 +144,8 @@ def construct_modelfieldsform(model, exclude=['id'], direct_select=False):
             # Construct class name and form label.
             cls_name = camelize(field.name) + 'Form'
             mylabel = field.verbose_name\
-                    if field.verbose_name != field.name.replace('_', ' ')\
-                    else None
+                      if field.verbose_name != field.name.replace('_', ' ')\
+                      else None
             # If dealing with a foreign key field, get the related objects.
             if isinstance(field, ForeignKey):
                 myselect_field, mymax_num = construct_foreign_select_field(model, field)
