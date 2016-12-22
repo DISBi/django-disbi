@@ -91,9 +91,9 @@ def inline_factory(proxy, inline_type='tabular'):
     
 
 # --------------------------- Admin classes ---------------------------    
-class DisbiDataAdmin(RelatedImportExportModelAdmin):
+class DisbiMeasurementAdmin(RelatedImportExportModelAdmin):
     """
-    Allow experimental data models to be filtered by their related experiments.
+    Allow measurement models to be filtered by their related experiments.
     """
     filter_for_extended_form = None
                                
