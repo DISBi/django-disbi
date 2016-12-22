@@ -60,9 +60,7 @@ def make_ChoiceField(model, attribute, label=None, empty_choice=None):
             entries = sum(entries, [])
             entries = list(unique_everseen(entries))
             entries = [e for e in entries if e != settings.DISBI['EMPTY_STR']]
-            # Capitalize first letter, ignore empty string
-            choices = [(e, e.capitalize()) if e == e.lower() else (e, e) 
-                       for e in entries if e]
+            choices = [(e, e) for e in entries if e]
             
         else:
             # The field is something else. DB and display values are the same.
