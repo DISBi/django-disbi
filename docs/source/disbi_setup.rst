@@ -282,8 +282,7 @@ of a reaction. This is a many-to-many relation:
         
     class Metabolite(BiologicalModel):
         name = dmodels.CharField(max_length=512, unique=True, di_show=True,
-                                 di_display_name='metabolite_name', 
-                                 di_show=True)
+                                 di_display_name='metabolite_name')
         
         def __str__(self):
             return self.name

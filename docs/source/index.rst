@@ -26,11 +26,11 @@ types of projects. DISBi is open source and freely available.
 * Preliminary analysis directly in the browser. Fold changes can be calculated
   and exported with the rest of the data. Histograms of the distributions of
   data and scatter plots comparing experiments can be generated with
-  a one button press.
+  one button press.
 * Flexible abstract data model. Specify a data model that meets the
-  requirement of your project. DISBi will figure the relations between
+  requirement of your project. DISBi will figure out the relations between
   the models and necessary steps to integrate the data at runtime.
-* Adapt the admin to handle large datasets. With the DISBi framework
+* Adapt the admin interface to handle large datasets. With the DISBi framework
   the admin can be easily configured to allow uploads and export
   of large datasets using common formats such as CSV or Excel.
   
