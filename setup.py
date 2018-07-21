@@ -20,12 +20,12 @@ setup(
     author='Rüdiger Frederik Busche',
     author_email='ruedigerbusche@web.de',
     install_requires=[
-        'django>=1.9',
+        'django>=1.9,<2',
         'django-import-export==0.5.0',
         'numpy>=1.11.0',
-        'matplotlib>=1.5.1',
+        'matplotlib>=1.5.1,<2',
         'more-itertools',
-        'psycopg2>=2.6',
+        'psycopg2-binary',
     ],
     classifiers=[
         'Environment :: Web Environment',
