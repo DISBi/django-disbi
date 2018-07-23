@@ -1,0 +1,33 @@
+version: "3.1"
+services:
+  db:
+    image: postgres:10
+    restart: always
+    env_file: .env
+    expose:
+      - 5432
+    networks:
+      - disbi_net
+    restart: always
+
+  web:
+    build: ./example_disbi_project
+    ports:
+      - 8000:8000
+    env_file: .env    
+    depends_on:
+      - db
+    networks:
+      - disbi_net
+    restart: always
+
+  adminer:
+    image: adminer
+    ports:
+      - 8080:8080
+    networks:
+      - disbi_net
+    restart: always
+
+networks:
+  disbi_net:

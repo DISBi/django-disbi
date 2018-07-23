@@ -1,0 +1,992 @@
+Biomass                                                                                                         : 0.00587329 dGMP + 0.0105384 dAMP + 0.0105384 dTMP + 0.00587329 dCMP + 0.0509702 AMP + 0.0286278 GMP + 0.0515166 UMP + 0.0284903 CMP + 0.216324 L-proline + 0.266288 L-aspartate + 0.436349 L-lysine + 0.386098 L-glutamate + 0.365316 glycine + 0.587444 L-leucine + 0.42246 L-valine + 0.119235 L-glutamine + 0.0733894 L-histidine + 0.273427 L-tyrosine + 0.124839 L-methionine + 0.251495 L-phenylalanine + 0.380966 L-serine + 0.282307 L-asparagine + 0.0595077 L-tryptophan + 0.0350743 L-cysteine + 0.538865 L-isoleucine + 0.268535 L-threonine + 0.265678 L-arginine + 0.318868 L-alanine + 0.00324411 NAD+ + 0.000149155 UDP-alpha-N-acetyl-D-glucosamine + 0.000149155 NADH + 0.00158663 L-homocysteine + 0.000149155 thiamin_diphosphate + 0.000771875 phosphoenolpyruvate + 0.000149155 pyridoxal_5'-phosphate + 2.27274e-05 propanoyl-CoA + 6.00347e-05 shikimate + 0.0348089 tetrahydrosulfopterin + 0.000210681 sn-glycerol-3-phosphate + 0.000596618 NADPH + 0.00693569 coenzyme_B12 + 0.000149155 NADP+ + 0.00119176 trehalose + 0.000149155 coenzyme_A + 1.86443e-05 FAD + 0.00294824 saturated_inositolglycolipidcaldarchaeol + 0.00515942 saturated_calditolcaldarchaeol + 0.00982746 2,3-bis-O-phytanyl-sn-glycerol + 0.00147412 representative_quinone + 0.00221118 saturated_glycolipidcaldarchaeol + 0.00294824 saturated_inositolcaldarchaeol + 0.0206377 saturated_inositolcalditolcaldarchaeol + 0.00393099 saturated_sulfoglycolipidcaldarchaeol + 0.542048 glycogen + 0.000686854 putrescine + 0.00309084 norspermine + 0.00274741 norspermidine + 0.0116765 spermidine --> 5.67246 H2O + 1 Biomass_Sulfolobus
+Biomass-fucose                                                                                                  : 0.00612358 dGMP + 0.0109875 dAMP + 0.0109875 dTMP + 0.00612358 dCMP + 0.0510275 AMP + 0.0286599 GMP + 0.0515744 UMP + 0.0285223 CMP + 0.219926 L-proline + 0.270721 L-aspartate + 0.443613 L-lysine + 0.392525 L-glutamate + 0.371398 glycine + 0.597224 L-leucine + 0.429493 L-valine + 0.12122 L-glutamine + 0.0746112 L-histidine + 0.277979 L-tyrosine + 0.126918 L-methionine + 0.255681 L-phenylalanine + 0.387308 L-serine + 0.287007 L-asparagine + 0.0604984 L-tryptophan + 0.0356582 L-cysteine + 0.547836 L-isoleucine + 0.273005 L-threonine + 0.270101 L-arginine + 0.324177 L-alanine + 0.00311994 NAD+ + 0.000143445 UDP-alpha-N-acetyl-D-glucosamine + 0.000143445 NADH + 0.0015259 L-homocysteine + 0.000143445 thiamin_diphosphate + 0.000742329 phosphoenolpyruvate + 0.000143445 pyridoxal_5'-phosphate + 2.18575e-05 propanoyl-CoA + 5.77367e-05 shikimate + 0.0334765 tetrahydrosulfopterin + 0.000202616 sn-glycerol-3-phosphate + 0.000573781 NADPH + 0.00667021 coenzyme_B12 + 0.000143445 NADP+ + 0.00114615 trehalose + 0.000143445 coenzyme_A + 1.79307e-05 FAD + 0.00283539 saturated_inositolglycolipidcaldarchaeol + 0.00496193 saturated_calditolcaldarchaeol + 0.00945129 2,3-bis-O-phytanyl-sn-glycerol + 0.00141769 representative_quinone + 0.00212654 saturated_glycolipidcaldarchaeol + 0.00283539 saturated_inositolcaldarchaeol + 0.0198477 saturated_inositolcalditolcaldarchaeol + 0.00378052 saturated_sulfoglycolipidcaldarchaeol + 0.5213 glycogen + 0.000660562 putrescine + 0.00297253 norspermine + 0.00264225 norspermidine + 0.0112296 spermidine --> 5.7669 H2O + 1 Biomass_Sulfolobus
+Biomass-phenol                                                                                                  : 0.00819257 dGMP + 0.0146999 dAMP + 0.0146999 dTMP + 0.00819257 dCMP + 0.0491186 AMP + 0.0275878 GMP + 0.0496451 UMP + 0.0274553 CMP + 0.193523 L-proline + 0.23822 L-aspartate + 0.390356 L-lysine + 0.345402 L-glutamate + 0.326811 glycine + 0.525526 L-leucine + 0.377932 L-valine + 0.106667 L-glutamine + 0.065654 L-histidine + 0.244607 L-tyrosine + 0.111681 L-methionine + 0.224986 L-phenylalanine + 0.340811 L-serine + 0.252551 L-asparagine + 0.0532354 L-tryptophan + 0.0313773 L-cysteine + 0.482067 L-isoleucine + 0.240231 L-threonine + 0.237675 L-arginine + 0.285259 L-alanine + 0.0039688 NAD+ + 0.000182473 UDP-alpha-N-acetyl-D-glucosamine + 0.000182473 NADH + 0.00194106 L-homocysteine + 0.000182473 thiamin_diphosphate + 0.0009443 phosphoenolpyruvate + 0.000182473 pyridoxal_5'-phosphate + 2.78044e-05 propanoyl-CoA + 7.34455e-05 shikimate + 0.0425847 tetrahydrosulfopterin + 0.000257744 sn-glycerol-3-phosphate + 0.000729893 NADPH + 0.00848501 coenzyme_B12 + 0.000182473 NADP+ + 0.00145799 trehalose + 0.000182473 coenzyme_A + 2.28092e-05 FAD + 0.00360683 saturated_inositolglycolipidcaldarchaeol + 0.00631195 saturated_calditolcaldarchaeol + 0.0120228 2,3-bis-O-phytanyl-sn-glycerol + 0.00180341 representative_quinone + 0.00270512 saturated_glycolipidcaldarchaeol + 0.00360683 saturated_inositolcaldarchaeol + 0.0252478 saturated_inositolcalditolcaldarchaeol + 0.00480911 saturated_sulfoglycolipidcaldarchaeol + 0.663134 glycogen + 0.000840286 putrescine + 0.00378129 norspermine + 0.00336114 norspermidine + 0.0142849 spermidine --> 5.07457 H2O + 1 Biomass_Sulfolobus
+Biomass-casamino-acids                                                                                          : 0.00656603 dGMP + 0.0117814 dAMP + 0.0117814 dTMP + 0.00656603 dCMP + 0.0221585 AMP + 0.0124455 GMP + 0.0223961 UMP + 0.0123857 CMP + 0.229663 L-proline + 0.282706 L-aspartate + 0.463253 L-lysine + 0.409904 L-glutamate + 0.387841 glycine + 0.623665 L-leucine + 0.448509 L-valine + 0.126587 L-glutamine + 0.0779145 L-histidine + 0.290286 L-tyrosine + 0.132537 L-methionine + 0.267001 L-phenylalanine + 0.404456 L-serine + 0.299714 L-asparagine + 0.0631769 L-tryptophan + 0.0372369 L-cysteine + 0.572091 L-isoleucine + 0.285092 L-threonine + 0.282059 L-arginine + 0.338529 L-alanine + 0.00312953 NAD+ + 0.000143887 UDP-alpha-N-acetyl-D-glucosamine + 0.000143887 NADH + 0.00153059 L-homocysteine + 0.000143887 thiamin_diphosphate + 0.000744613 phosphoenolpyruvate + 0.000143887 pyridoxal_5'-phosphate + 2.19247e-05 propanoyl-CoA + 5.79143e-05 shikimate + 0.0335795 tetrahydrosulfopterin + 0.00020324 sn-glycerol-3-phosphate + 0.000575546 NADPH + 0.00669072 coenzyme_B12 + 0.000143887 NADP+ + 0.00114967 trehalose + 0.000143887 coenzyme_A + 1.79858e-05 FAD + 0.00284411 saturated_inositolglycolipidcaldarchaeol + 0.00497719 saturated_calditolcaldarchaeol + 0.00948036 2,3-bis-O-phytanyl-sn-glycerol + 0.00142205 representative_quinone + 0.00213308 saturated_glycolipidcaldarchaeol + 0.00284411 saturated_inositolcaldarchaeol + 0.0199088 saturated_inositolcalditolcaldarchaeol + 0.00379214 saturated_sulfoglycolipidcaldarchaeol + 0.522904 glycogen + 0.000662594 putrescine + 0.00298167 norspermine + 0.00265038 norspermidine + 0.0112641 spermidine --> 6.02222 H2O + 1 Biomass_Sulfolobus
+GAM                                                                                                             : 27.309 ATP + 27.309 H2O + 1 Biomass_Sulfolobus --> 27.309 ADP + 27.309 phosphate + 27.309 H+
+NGAM                                                                                                            : 1 ATP + 1 H2O --> 1 ADP + 1 phosphate + 1 H+
+T_flux_Arabinan                                                                                                 : 1 Arabinan_ex <=> 
+T_flux_Ca2+                                                                                                     : 1 Ca2+_ex <=> 
+T_flux_Na+                                                                                                      : 1 Na+_ex <=> 
+T_flux_cellulose                                                                                                : 1 cellulose_ex <=> 
+T_flux_dextrin                                                                                                  : 1 dextrin_ex <=> 
+T_flux_melezitose                                                                                               : 1 melezitose_ex <=> 
+T_flux_starch                                                                                                   : 1 starch_ex <=> 
+T_flux_xylan                                                                                                    : 1 xylan_ex <=> 
+T_sink_4-nitrophenol                                                                                            : 1 4-nitrophenol --> 
+T_sink_5-deoxy-alpha-ribose_1-phosphate                                                                         : 1 5-deoxy-alpha-ribose_1-phosphate --> 
+T_sink_D-ribose-5-phosphate                                                                                     : 1 D-ribose-5-phosphate --> 
+T_sink_D-sedoheptulose-7-phosphate                                                                              : 1 D-sedoheptulose-7-phosphate --> 
+T_sink_D-xylulose-5-phosphate                                                                                   : 1 D-xylulose-5-phosphate --> 
+T_sink_dialurate                                                                                                : 1 dialurate --> 
+T_sink_urea                                                                                                     : 1 urea --> 
+T_flux_Co2+                                                                                                     : 1 Co2+_ex <=> 
+T_ABC-transporter_Co2+                                                                                          : 1 Co2+ + 1 ADP + 1 phosphate <-- 1 Co2+_ex + 1 ATP + 1 H2O
+T_flux_Cu2+                                                                                                     : 1 Cu2+_ex <=> 
+T_ABC-transporter_Cu2+                                                                                          : 1 Cu2+ + 1 ADP + 1 phosphate <-- 1 Cu2+_ex + 1 ATP + 1 H2O
+T_flux_Fe3+                                                                                                     : 1 Fe3+_ex <=> 
+T_ABC-transporter_Fe3+                                                                                          : 1 Fe3+ + 1 ADP + 1 phosphate <-- 1 Fe3+_ex + 1 ATP + 1 H2O
+T_flux_nitrate                                                                                                  : 1 nitrate_ex <=> 
+T_ABC-transporter_nitrate                                                                                       : 1 nitrate + 1 ADP + 1 phosphate <-- 1 nitrate_ex + 1 ATP + 1 H2O
+T_flux_xanthine                                                                                                 : 1 xanthine_ex <=> 
+T_trans_xanthine                                                                                                : 1 xanthine --> 1 xanthine_ex
+T_flux_CO2                                                                                                      : 1 CO2_ex <=> 
+T_trans_CO2                                                                                                     : 1 CO2 <=> 1 CO2_ex
+T_flux_H+                                                                                                       : 1 H+_ex <=> 
+T_trans_H+                                                                                                      : 1 H+ <=> 1 H+_ex
+T_flux_H2O                                                                                                      : 1 H2O_ex <=> 
+T_trans_H2O                                                                                                     : 1 H2O <=> 1 H2O_ex
+T_flux_carbon_monoxide                                                                                          : 1 carbon_monoxide_ex <=> 
+T_trans_carbon_monoxide                                                                                         : 1 carbon_monoxide <=> 1 carbon_monoxide_ex
+T_flux_chloride                                                                                                 : 1 chloride_ex <=> 
+T_trans_chloride                                                                                                : 1 chloride <=> 1 chloride_ex
+T_flux_oxygen                                                                                                   : 1 oxygen_ex <=> 
+T_trans_oxygen                                                                                                  : 1 oxygen <=> 1 oxygen_ex
+T_flux_(1,4)-beta-xylobiose                                                                                     : 1 (1,4)-beta-xylobiose_ex <=> 
+T_ABC-transporter_(1,4)-beta-xylobiose                                                                          : 1 (1,4)-beta-xylobiose + 1 ADP + 1 phosphate <-- 1 (1,4)-beta-xylobiose_ex + 1 ATP + 1 H2O
+T_flux_(R)-acetoin                                                                                              : 1 (R)-acetoin_ex <=> 
+T_ABC-transporter_(R)-acetoin                                                                                   : 1 (R)-acetoin + 1 ADP + 1 phosphate <-- 1 (R)-acetoin_ex + 1 ATP + 1 H2O
+T_flux_(S)-lactic_acid                                                                                          : 1 (S)-lactic_acid_ex <=> 
+T_flux_D-arabinofuranose                                                                                        : 1 D-arabinofuranose_ex <=> 
+T_ABC-transporter_D-arabinofuranose                                                                             : 1 D-arabinofuranose + 1 ADP + 1 phosphate <-- 1 D-arabinofuranose_ex + 1 ATP + 1 H2O
+T_flux_D-fucose                                                                                                 : 1 D-fucose_ex <=> 
+T_ABC-transporter_D-fucose                                                                                      : 1 D-fucose + 1 ADP + 1 phosphate <-- 1 D-fucose_ex + 1 ATP + 1 H2O
+T_flux_D-mannose                                                                                                : 1 D-mannose_ex <=> 
+T_ABC-transporter_D-mannose                                                                                     : 1 D-mannose + 1 ADP + 1 phosphate <-- 1 D-mannose_ex + 1 ATP + 1 H2O
+T_flux_L-alanine                                                                                                : 1 L-alanine_ex <=> 
+T_ABC-transporter_L-alanine                                                                                     : 1 L-alanine + 1 ADP + 1 phosphate <-- 1 L-alanine_ex + 1 ATP + 1 H2O
+T_flux_L-arabinobiose                                                                                           : 1 L-arabinobiose_ex <=> 
+T_ABC-transporter_L-arabinobiose                                                                                : 1 L-arabinobiose + 1 ADP + 1 phosphate <-- 1 L-arabinobiose_ex + 1 ATP + 1 H2O
+T_flux_L-arabinofuranose                                                                                        : 1 L-arabinofuranose_ex <=> 
+T_ABC-transporter_L-arabinofuranose                                                                             : 1 L-arabinofuranose + 1 ADP + 1 phosphate <-- 1 L-arabinofuranose_ex + 1 ATP + 1 H2O
+T_flux_L-arginine                                                                                               : 1 L-arginine_ex <=> 
+T_ABC-transporter_L-arginine                                                                                    : 1 L-arginine + 1 ADP + 1 phosphate <-- 1 L-arginine_ex + 1 ATP + 1 H2O
+T_flux_L-asparagine                                                                                             : 1 L-asparagine_ex <=> 
+T_flux_L-aspartate                                                                                              : 1 L-aspartate_ex <=> 
+T_ABC-transporter_L-aspartate                                                                                   : 1 L-aspartate + 1 ADP + 1 phosphate <-- 1 L-aspartate_ex + 1 ATP + 1 H2O
+T_flux_L-fucopyranose                                                                                           : 1 L-fucopyranose_ex <=> 
+T_ABC-transporter_L-fucopyranose                                                                                : 1 L-fucopyranose + 1 ADP + 1 phosphate <-- 1 L-fucopyranose_ex + 1 ATP + 1 H2O
+T_flux_L-glutamate                                                                                              : 1 L-glutamate_ex <=> 
+T_ABC-transporter_L-glutamate                                                                                   : 1 L-glutamate + 1 ADP + 1 phosphate <-- 1 L-glutamate_ex + 1 ATP + 1 H2O
+T_flux_L-histidine                                                                                              : 1 L-histidine_ex <=> 
+T_ABC-transporter_L-histidine                                                                                   : 1 L-histidine + 1 ADP + 1 phosphate <-- 1 L-histidine_ex + 1 ATP + 1 H2O
+T_flux_L-isoleucine                                                                                             : 1 L-isoleucine_ex <=> 
+T_ABC-transporter_L-isoleucine                                                                                  : 1 L-isoleucine + 1 ADP + 1 phosphate <-- 1 L-isoleucine_ex + 1 ATP + 1 H2O
+T_flux_L-leucine                                                                                                : 1 L-leucine_ex <=> 
+T_ABC-transporter_L-leucine                                                                                     : 1 L-leucine + 1 ADP + 1 phosphate <-- 1 L-leucine_ex + 1 ATP + 1 H2O
+T_flux_L-methionine                                                                                             : 1 L-methionine_ex <=> 
+T_ABC-transporter_L-methionine                                                                                  : 1 L-methionine + 1 ADP + 1 phosphate <-- 1 L-methionine_ex + 1 ATP + 1 H2O
+T_flux_L-phenylalanine                                                                                          : 1 L-phenylalanine_ex <=> 
+T_ABC-transporter_L-phenylalanine                                                                               : 1 L-phenylalanine + 1 ADP + 1 phosphate <-- 1 L-phenylalanine_ex + 1 ATP + 1 H2O
+T_flux_L-proline                                                                                                : 1 L-proline_ex <=> 
+T_flux_L-serine                                                                                                 : 1 L-serine_ex <=> 
+T_ABC-transporter_L-serine                                                                                      : 1 L-serine + 1 ADP + 1 phosphate <-- 1 L-serine_ex + 1 ATP + 1 H2O
+T_flux_L-threonine                                                                                              : 1 L-threonine_ex <=> 
+T_ABC-transporter_L-threonine                                                                                   : 1 L-threonine + 1 ADP + 1 phosphate <-- 1 L-threonine_ex + 1 ATP + 1 H2O
+T_flux_L-valine                                                                                                 : 1 L-valine_ex <=> 
+T_ABC-transporter_L-valine                                                                                      : 1 L-valine + 1 ADP + 1 phosphate <-- 1 L-valine_ex + 1 ATP + 1 H2O
+T_flux_N-acetyl-L-glutamate                                                                                     : 1 N-acetyl-L-glutamate_ex <=> 
+T_ABC-transporter_N-acetyl-L-glutamate                                                                          : 1 N-acetyl-L-glutamate + 1 ADP + 1 phosphate <-- 1 N-acetyl-L-glutamate_ex + 1 ATP + 1 H2O
+T_flux_acetone                                                                                                  : 1 acetone_ex <=> 
+T_ABC-transporter_acetone                                                                                       : 1 acetone + 1 ADP + 1 phosphate <-- 1 acetone_ex + 1 ATP + 1 H2O
+T_flux_alpha-D-xylopyranose                                                                                     : 1 alpha-D-xylopyranose_ex <=> 
+T_ABC-transporter_alpha-D-xylopyranose                                                                          : 1 alpha-D-xylopyranose + 1 ADP + 1 phosphate <-- 1 alpha-D-xylopyranose_ex + 1 ATP + 1 H2O
+T_flux_beta-D-fructofuranose                                                                                    : 1 beta-D-fructofuranose_ex <=> 
+T_ABC-transporter_beta-D-fructofuranose                                                                         : 1 beta-D-fructofuranose + 1 ADP + 1 phosphate <-- 1 beta-D-fructofuranose_ex + 1 ATP + 1 H2O
+T_flux_beta-D-galactose                                                                                         : 1 beta-D-galactose_ex <=> 
+T_ABC-transporter_beta-D-galactose                                                                              : 1 beta-D-galactose + 1 ADP + 1 phosphate <-- 1 beta-D-galactose_ex + 1 ATP + 1 H2O
+T_flux_beta-D-glucose                                                                                           : 1 beta-D-glucose_ex <=> 
+T_ABC-transporter_beta-D-glucose                                                                                : 1 beta-D-glucose + 1 ADP + 1 phosphate <-- 1 beta-D-glucose_ex + 1 ATP + 1 H2O
+T_flux_beta-maltose                                                                                             : 1 beta-maltose_ex <=> 
+T_ABC-transporter_beta-maltose                                                                                  : 1 beta-maltose + 1 ADP + 1 phosphate <-- 1 beta-maltose_ex + 1 ATP + 1 H2O
+T_flux_carbonic_acid                                                                                            : 1 carbonic_acid_ex <=> 
+T_ABC-transporter_carbonic_acid                                                                                 : 1 carbonic_acid + 1 ADP + 1 phosphate <-- 1 carbonic_acid_ex + 1 ATP + 1 H2O
+T_flux_cellobiose                                                                                               : 1 cellobiose_ex <=> 
+T_ABC-transporter_cellobiose                                                                                    : 1 cellobiose + 1 ADP + 1 phosphate <-- 1 cellobiose_ex + 1 ATP + 1 H2O
+T_flux_citric_acid                                                                                              : 1 citric_acid_ex <=> 
+T_ABC-transporter_citric_acid                                                                                   : 1 citric_acid + 1 ADP + 1 phosphate <-- 1 citric_acid_ex + 1 ATP + 1 H2O
+T_flux_ethanol                                                                                                  : 1 ethanol_ex <=> 
+T_ABC-transporter_ethanol                                                                                       : 1 ethanol + 1 ADP + 1 phosphate <-- 1 ethanol_ex + 1 ATP + 1 H2O
+T_flux_glycine                                                                                                  : 1 glycine_ex <=> 
+T_ABC-transporter_glycine                                                                                       : 1 glycine + 1 ADP + 1 phosphate <-- 1 glycine_ex + 1 ATP + 1 H2O
+T_flux_inosine                                                                                                  : 1 inosine_ex <=> 
+T_ABC-transporter_inosine                                                                                       : 1 inosine + 1 ADP + 1 phosphate <-- 1 inosine_ex + 1 ATP + 1 H2O
+T_flux_isopropanol                                                                                              : 1 isopropanol_ex <=> 
+T_ABC-transporter_isopropanol                                                                                   : 1 isopropanol + 1 ADP + 1 phosphate <-- 1 isopropanol_ex + 1 ATP + 1 H2O
+T_flux_lactose                                                                                                  : 1 lactose_ex <=> 
+T_ABC-transporter_lactose                                                                                       : 1 lactose + 1 ADP + 1 phosphate <-- 1 lactose_ex + 1 ATP + 1 H2O
+T_flux_lactulose                                                                                                : 1 lactulose_ex <=> 
+T_ABC-transporter_lactulose                                                                                     : 1 lactulose + 1 ADP + 1 phosphate <-- 1 lactulose_ex + 1 ATP + 1 H2O
+T_flux_maltotriose                                                                                              : 1 maltotriose_ex <=> 
+T_ABC-transporter_maltotriose                                                                                   : 1 maltotriose + 1 ADP + 1 phosphate <-- 1 maltotriose_ex + 1 ATP + 1 H2O
+T_flux_melibiose                                                                                                : 1 melibiose_ex <=> 
+T_ABC-transporter_melibiose                                                                                     : 1 melibiose + 1 ADP + 1 phosphate <-- 1 melibiose_ex + 1 ATP + 1 H2O
+T_flux_n-propanol                                                                                               : 1 n-propanol_ex <=> 
+T_ABC-transporter_n-propanol                                                                                    : 1 n-propanol + 1 ADP + 1 phosphate <-- 1 n-propanol_ex + 1 ATP + 1 H2O
+T_flux_phenol                                                                                                   : 1 phenol_ex <=> 
+T_ABC-transporter_phenol                                                                                        : 1 phenol + 1 ADP + 1 phosphate <-- 1 phenol_ex + 1 ATP + 1 H2O
+T_flux_raffinose                                                                                                : 1 raffinose_ex <=> 
+T_ABC-transporter_raffinose                                                                                     : 1 raffinose + 1 ADP + 1 phosphate <-- 1 raffinose_ex + 1 ATP + 1 H2O
+T_flux_succinic_acid                                                                                            : 1 succinic_acid_ex <=> 
+T_ABC-transporter_succinic_acid                                                                                 : 1 succinic_acid + 1 ADP + 1 phosphate <-- 1 succinic_acid_ex + 1 ATP + 1 H2O
+T_flux_sucrose                                                                                                  : 1 sucrose_ex <=> 
+T_ABC-transporter_sucrose                                                                                       : 1 sucrose + 1 ADP + 1 phosphate <-- 1 sucrose_ex + 1 ATP + 1 H2O
+T_flux_trehalose                                                                                                : 1 trehalose_ex <=> 
+T_ABC-transporter_trehalose                                                                                     : 1 trehalose + 1 ADP + 1 phosphate <-- 1 trehalose_ex + 1 ATP + 1 H2O
+T_flux_ammonium                                                                                                 : 1 ammonium_ex <=> 
+T_trans_ammonium                                                                                                : 1 ammonium <=> 1 ammonium_ex
+T_flux_hydrogen_sulfide                                                                                         : 1 hydrogen_sulfide_ex <=> 
+T_trans_hydrogen_sulfide                                                                                        : 1 hydrogen_sulfide <=> 1 hydrogen_sulfide_ex
+T_flux_sulfate                                                                                                  : 1 sulfate_ex <=> 
+T_trans_sulfate                                                                                                 : 1 sulfate <=> 1 sulfate_ex
+T_flux_dihydrogen_phosphate                                                                                     : 1 dihydrogen_phosphate_ex <=> 
+T_ABC-transporter_dihydrogen_phosphate                                                                          : 1 dihydrogen_phosphate + 1 ADP + 1 phosphate <-- 1 dihydrogen_phosphate_ex + 1 ATP + 1 H2O
+T_flux_phosphate                                                                                                : 1 phosphate_ex <=> 
+T_trans_phosphate                                                                                               : 1 phosphate <-- 1 phosphate_ex
+T_symporter_L-asparagine                                                                                        : 1 L-asparagine + 2 Na+ <=> 1 L-asparagine_ex + 2 Na+_ex
+T_symporter_(S)-lactic_acid                                                                                     : 1 (S)-lactic_acid + 2 H+ <=> 1 (S)-lactic_acid_ex + 2 H+_ex
+T_symporter_Na+                                                                                                 : 1 Na+ + 2 H+ <=> 1 Na+_ex + 2 H+_ex
+T_antiporter_Ca2+                                                                                               : 1 Ca2+ + 1 Na+_ex <=> 1 Ca2+_ex + 1 Na+
+T_symporter_L-proline                                                                                           : 1 L-proline + 2 Na+ <=> 1 L-proline_ex + 2 Na+_ex
+test_L-fuc01_KDF-aldolase                                                                                       : 1 2-dehydro-3-deoxy-L-fuconate --> 1 pyruvate + 1 L-lactaldehyde
+test_L-fuc01_1.2.1.22_LACTALDDEHYDROG-RXN                                                                       : 1 L-lactaldehyde + 1 NAD+ + 1 H2O --> 1 H+ + 1 (S)-lactate + 1 NADH
+test_L-fuc02_1.1.1.1_lactaldehyde-reductase                                                                     : 1 L-1,2-propanediol + 1 NAD+ <=> 1 H+ + 1 NADH + 1 L-lactaldehyde
+test_L-fuc02_4.2.1.28_PROPANEDIOL-DEHYDRATASE-RXN                                                               : 1 L-1,2-propanediol <=> 1 H2O + 1 propanal
+test_L-fuc05_2-keto-3-deoxy-L-fuconate-dehydrogenase                                                            : 1 2-dehydro-3-deoxy-L-fuconate + 1 NAD+ --> 1 2,4-diketo-3-deoxy-L-fuconate + 1 NADH + 1 H+
+test_L-fuc05_2,4-diketo-3-deoxy-L-fuconate-hydrolase                                                            : 1 2,4-diketo-3-deoxy-L-fuconate + 1 H2O --> 1 pyruvate + 1 (S)-lactate
+test_L-fuc06_2-keto-3-deoxy-L-fuconate-dehydratase                                                              : 1 2-dehydro-3-deoxy-L-fuconate --> 1 H2O + 1 2,4-diketo-3,5-deoxy-L-fuconate
+test_L-fuc06_2,4-diketo-3,5-deoxy-L-fuconate-aldolase                                                           : 1 2,4-diketo-3,5-deoxy-L-fuconate --> 1 propanal + 1 pyruvate
+test_L-fuc03_kinase-and-isomerase_H6P                                                                           : 1 ATP + 1 L-fucopyranose + 1 NAD+ + 1 H2O --> 1 ADP + 1 hexulose_6-phosphate + 1 NADH
+test_L-fuc03_kinase-and-isomerase_F6P                                                                           : 1 ATP + 1 L-fucopyranose + 1 NAD+ + 1 H2O --> 1 ADP + 1 D-fructose-6-phosphate + 1 NADH
+test_L-fuc04_ecoli_5.3.1.25_FUCISOM-RXN                                                                         : 1 L-fucopyranose <=> 1 L-fuculose
+test_L-fuc04_ecoli_2.7.1.51_FUCULOKIN-RXN                                                                       : 1 ATP + 1 L-fuculose --> 1 ADP + 1 L-fuculose-1-phosphate
+test_L-fuc04_ecoli_4.1.2.17_FUCPALDOL-RXN                                                                       : 1 L-fuculose-1-phosphate <=> 1 dihydroxyacetone_phosphate + 1 L-lactaldehyde
+test_L-fuc04_ecoli_1.2.1.22_LACTALDDEHYDROG-RXN                                                                 : 1 L-lactaldehyde + 1 NAD+ + 1 H2O --> 1 H+ + 1 (S)-lactate + 1 NADH
+test_sh7p01_2.7.1.11_6PFRUCTPHOS-RXN                                                                            : 1 ATP + 1 D-fructose-6-phosphate --> 1 ADP + 1 fructose-1,6-bisphosphate
+test_sh7p01_2.7.1.11_RXN0-6541                                                                                  : 1 ATP + 1 D-sedoheptulose-7-phosphate --> 1 D-sedoheptulose-1,7-bisphosphate + 1 ADP
+test_sh7p02_2.2.1.2_TRANSALDOL-RXN                                                                              : 1 D-sedoheptulose-7-phosphate + 1 D-glyceraldehyde-3-phosphate <=> 1 D-fructose-6-phosphate + 1 D-erythrose-4-phosphate
+test_sh7p02_2.2.1.2_RXN0-313                                                                                    : 1 D-fructose-6-phosphate <=> 1 dihydroxyacetone + 1 D-glyceraldehyde-3-phosphate
+test_sh7p03_5.1.3.1_RIBULP3EPIM-RXN                                                                             : 1 D-ribulose-5-phosphate <=> 1 D-xylulose-5-phosphate
+test_sh7p04_phosphatase                                                                                         : 1 D-xylulose-5-phosphate + 1 H2O --> 1 D-xylulose + 1 phosphate
+test_sh7p04_5.3.1.5_BR236                                                                                       : 1 alpha-D-xylopyranose <=> 1 D-xylulose
+test_sh7p05_phosphatase                                                                                         : 1 D-xylulose-5-phosphate + 1 H2O --> 1 D-xylulose + 1 phosphate
+test_sh7p05_5.3.1.5_BR236                                                                                       : 1 alpha-D-xylopyranose <=> 1 D-xylulose
+carb_entner_1.1.1.359_GLUCOSE-1-DEHYDROGENASE-NAD+-RXN                                                          : 1 beta-D-glucose + 1 NAD+ --> 1 D-glucono-1,5-lactone + 1 NADH + 1 H+
+carb_entner_1.1.1.47_GLUCOSE-1-DEHYDROGENASE-NAD+-RXN                                                           : 1 beta-D-glucose + 1 NAD+ --> 1 D-glucono-1,5-lactone + 1 NADH + 1 H+
+carb_entner_1.1.1.360_GLUCOSE-1-DEHYDROGENASE-NADP+-RXN                                                         : 1 beta-D-glucose + 1 NADP+ --> 1 D-glucono-1,5-lactone + 1 NADPH + 1 H+
+carb_entner_3.1.1.17_GLUCONOLACT-RXN                                                                            : 1 D-glucono-1,5-lactone + 1 H2O --> 1 D-gluconate
+carb_entner_4.2.1.140_GLUCONATE-DEHYDRATASE-RXN                                                                 : 1 D-gluconate --> 1 2-dehydro-3-deoxy-D-gluconate + 1 H2O
+carb_entner_4.1.2.55_DHDOGALDOL-RXN                                                                             : 1 2-dehydro-3-deoxy-D-gluconate <=> 1 D-glyceraldehyde + 1 pyruvate
+carb_entner_1.2.1.89_GLYCERALDEHYDE-DEHYDRO-RXN                                                                 : 1 D-glyceraldehyde + 1 H2O + 1 NADP+ --> 2 H+ + 1 D-glycerate + 1 NADPH
+carb_entner_2.7.1.165_GKI-RXN                                                                                   : 1 ATP + 1 D-glycerate --> 1 2-phospho-D-glycerate + 1 ADP
+carb_entner_2.7.1.178_DEOXYGLUCONOKIN-RXN                                                                       : 1 2-dehydro-3-deoxy-D-gluconate + 1 ATP --> 1 2-dehydro-3-deoxy-D-gluconate_6-phosphate + 1 ADP
+carb_entner_2.7.1.178_DEHYDDEOXGALACTKIN-RXN                                                                    : 1 2-dehydro-3-deoxy-D-galactonate + 1 ATP --> 1 ADP + 1 2-dehydro-3-deoxy-D-galactonate-6-phosphate
+carb_entner_4.1.2.55_KDPGALDOL-RXN                                                                              : 1 2-dehydro-3-deoxy-D-gluconate_6-phosphate --> 1 D-glyceraldehyde-3-phosphate + 1 pyruvate
+carb_entner_4.1.2.55_DEHYDDEOXPHOSGALACT-ALDOL-RXN                                                              : 1 2-dehydro-3-deoxy-D-galactonate-6-phosphate <=> 1 pyruvate + 1 D-glyceraldehyde-3-phosphate
+carb_enter_glucneo_1.2.1.9_1.2.1.9-RXN                                                                          : 1 D-glyceraldehyde-3-phosphate + 1 NADP+ + 1 H2O --> 1 H+ + 1 3-phospho-D-glycerate + 1 NADPH
+carb_enter_glucneo_5.4.2.1_3PGAREARR-RXN                                                                        : 1 3-phospho-D-glycerate <=> 1 2-phospho-D-glycerate
+carb_enter_glucneo_4.2.1.11_2PGADEHYDRAT-RXN                                                                    : 1 2-phospho-D-glycerate <=> 1 phosphoenolpyruvate + 1 H2O
+carb_enter_2.7.1.40_PEPDEPHOS-RXN                                                                               : 1 ATP + 1 pyruvate <-- 1 ADP + 1 phosphoenolpyruvate
+carb_acetylcoa_1.2.7.1_PYRUFLAVREDUCT-RXN                                                                       : 1 coenzyme_A + 1 pyruvate + 2 |Oxidized-ferredoxins| --> 2 H+ + 1 acetyl-CoA + 1 CO2 + 2 |Reduced-ferredoxins|
+carb_entner_1.1.1.359_BS187080                                                                                  : 1 beta-D-galactose + 1 NAD+ --> 1 H+ + 1 D-galactono-1,5-lactone + 1 NADH
+carb_entner_1.1.1.360_galactose-nadp                                                                            : 1 beta-D-galactose + 1 NADP+ --> 1 H+ + 1 D-galactono-1,5-lactone + 1 NADPH
+carb_entner_1.1.1.359_xylose-nad                                                                                : 1 alpha-D-xylopyranose + 1 NAD+ --> 1 H+ + 1 D-xylonolactone + 1 NADH
+carb_entner_1.1.1.359_L-arabinose-nad                                                                           : 1 L-arabinofuranose + 1 NAD+ --> 1 H+ + 1 L-arabinono-1,4-lactone + 1 NADH
+carb_entner_1.1.1.360_L-arabinose-nadp                                                                          : 1 L-arabinofuranose + 1 NADP+ --> 1 H+ + 1 L-arabinono-1,4-lactone + 1 NADPH
+carb_entner_1.1.1.359_D-fucose-nad                                                                              : 1 D-fucose + 1 NAD+ --> 1 H+ + 1 D-fucono-1,5-lactone + 1 NADH
+carb_entner_3.1.1.17_BS381743                                                                                   : 1 D-galactono-1,5-lactone + 1 H2O --> 1 D-galactonate
+carb_entner_3.1.1.17_BS400799                                                                                   : 1 D-xylonolactone + 1 H2O --> 1 D-xylonate
+carb_entner_3.1.1.17_L-arabinose                                                                                : 1 L-arabinono-1,4-lactone + 1 H2O --> 1 L-arabinonate
+carb_entner_4.2.1.140_GALACTONDEHYDRAT-RXN                                                                      : 1 D-galactonate --> 1 2-dehydro-3-deoxy-D-galactonate + 1 H2O
+carb_entner_4.1.2.55_BS380992                                                                                   : 1 2-dehydro-3-deoxy-D-galactonate <=> 1 D-glyceraldehyde + 1 pyruvate
+carb_2.7.1.1_BR47759                                                                                            : 1 ATP + 1 beta-D-glucose --> 1 ADP + 1 beta-D-glucose-6-phosphate
+carb_2.7.1.1_FRUCTOKINASE-RXN                                                                                   : 1 beta-D-fructofuranose + 1 ATP --> 1 beta-D-fructofuranose_6-phosphate + 1 ADP
+carb_anap_4.1.1.32_4.1.1.32-RXN                                                                                 : 1 GTP + 1 oxaloacetate --> 1 CO2 + 1 GDP + 1 phosphoenolpyruvate
+carb_anap_4.1.1.31_PEPCARBOX-RXN                                                                                : 1 oxaloacetate + 1 phosphate <-- 1 hydrogen_carbonate + 1 phosphoenolpyruvate
+carb_anap_1.1.1.40_MALIC-NADP-RXN                                                                               : 1 (S)-malate + 1 NADP+ --> 1 H+ + 1 CO2 + 1 NADPH + 1 pyruvate
+carb_anap_1.1.1.40_4.1.1.3_OXALODECARB-RXN                                                                      : 1 oxaloacetate --> 1 CO2 + 1 pyruvate
+carb_rump_5.3.1.27_R12-RXN                                                                                      : 1 hexulose_6-phosphate <=> 1 D-fructose-6-phosphate
+carb_rump_4.1.2.43_R10-RXN                                                                                      : 1 hexulose_6-phosphate <=> 1 formaldehyde + 1 D-ribulose-5-phosphate
+carb_ppp_5.3.1.6_RIB5PISOM-RXN                                                                                  : 1 D-ribose-5-phosphate <=> 1 D-ribulose-5-phosphate
+carb_ppp_2.2.1.1_2TRANSKETO-RXN                                                                                 : 1 D-erythrose-4-phosphate + 1 D-xylulose-5-phosphate <=> 1 D-fructose-6-phosphate + 1 D-glyceraldehyde-3-phosphate
+carb_ppp_2.2.1.1_1TRANSKETO-RXN                                                                                 : 1 D-sedoheptulose-7-phosphate + 1 D-glyceraldehyde-3-phosphate <=> 1 D-ribose-5-phosphate + 1 D-xylulose-5-phosphate
+carb_ppp_4.1.2.13_SEDOBISALDOL-RXN                                                                              : 1 D-erythrose-4-phosphate + 1 dihydroxyacetone_phosphate <=> 1 D-sedoheptulose-1,7-bisphosphate
+carb_ppp_3.1.3.11_SEDOHEPTULOSE-BISPHOSPHATASE-RXN                                                              : 1 D-sedoheptulose-1,7-bisphosphate + 1 H2O --> 1 phosphate + 1 D-sedoheptulose-7-phosphate
+carb_glucneo_2.7.9.2_PEPSYNTH-RXN                                                                               : 1 ATP + 1 pyruvate + 1 H2O --> 1 AMP + 1 phosphoenolpyruvate + 1 phosphate
+carb_enter_glucneo_2.7.2.3_PHOSGLYPHOS-RXN                                                                      : 1 ATP + 1 3-phospho-D-glycerate <=> 1 ADP + 1 1,3-bisphospho-D-glycerate
+carb_glucneo_1.2.1.13_GAPDHSYNEC-RXN_NAD                                                                        : 1 D-glyceraldehyde-3-phosphate + 1 phosphate + 1 NAD+ <-- 1 1,3-bisphospho-D-glycerate + 1 H+ + 1 NADH
+carb_glucneo_1.2.1.13_GAPDHSYNEC-RXN_NADP                                                                       : 1 D-glyceraldehyde-3-phosphate + 1 phosphate + 1 NADP+ <-- 1 1,3-bisphospho-D-glycerate + 1 H+ + 1 NADPH
+carb_enter_glucneo_5.3.1.1_TRIOSEPISOMERIZATION-RXN                                                             : 1 D-glyceraldehyde-3-phosphate <=> 1 dihydroxyacetone_phosphate
+carb_enter_glucneo_4.1.2.13_F16ALDOLASE-RXN                                                                     : 1 fructose-1,6-bisphosphate <=> 1 dihydroxyacetone_phosphate + 1 D-glyceraldehyde-3-phosphate
+carb_glucneo_3.1.3.11_F16BDEPHOS-RXN                                                                            : 1 fructose-1,6-bisphosphate + 1 H2O --> 1 D-fructose-6-phosphate + 1 phosphate
+carb_enter_glucneo_5.3.1.9_PGLUCISOM-RXN                                                                        : 1 beta-D-glucose-6-phosphate <=> 1 D-fructose-6-phosphate
+carb_enter_glucneo_5.1.3.15_5.3.1.9_GLUCOSE-6-PHOSPHATE-1-EPIMERASE-RXN                                         : 1 alpha-D-glucose_6-phosphate <=> 1 beta-D-glucose-6-phosphate
+carb_enter_glucneo_5.4.2.2_PHOSPHOGLUCMUT-RXN                                                                   : 1 alpha-D-glucose_1-phosphate <=> 1 alpha-D-glucose_6-phosphate
+carb_cac_2.3.3.1_CITRATE-RE-SYNTHASE-RXN                                                                        : 1 acetyl-CoA + 1 oxaloacetate + 1 H2O <=> 1 citrate + 1 coenzyme_A
+carb_cac_4.2.1.3_BS18707                                                                                        : 1 H2O + 1 cis-aconitate <-- 1 citrate
+carb_cac_4.2.1.3_BS18708                                                                                        : 1 D-threo-isocitrate <-- 1 H2O + 1 cis-aconitate
+carb_cac_1.1.1.42_1.1.1.41_RXN-7969                                                                             : 1 NAD+ + 1 D-threo-isocitrate --> 1 H+ + 1 2-oxoglutarate + 1 CO2 + 1 NADH
+carb_cac_1.1.1.42_ISOCITDEH-RXN                                                                                 : 1 NADP+ + 1 D-threo-isocitrate --> 1 H+ + 1 2-oxoglutarate + 1 CO2 + 1 NADPH
+carb_cac_1.2.7.3_2-OXOGLUTARATE-SYNTHASE-RXN                                                                    : 1 2-oxoglutarate + 1 coenzyme_A + 2 |Oxidized-ferredoxins| <=> 2 H+ + 1 CO2 + 1 succinyl-CoA + 2 |Reduced-ferredoxins|
+carb_cac_6.2.1.5_SUCCCOASYN-RXN                                                                                 : 1 ATP + 1 coenzyme_A + 1 succinate <=> 1 ADP + 1 phosphate + 1 succinyl-CoA
+carb_cac_1.3.99.1_1.3.5.1_SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN                                                : 1 succinate + 1 representative_quinone <=> 1 fumarate + 1 representative_quinol
+carb_cac_4.2.1.2_FUMHYDR-RXN                                                                                    : 1 (S)-malate <=> 1 fumarate + 1 H2O
+carb_cac_1.1.1.40_RXN-10813_NAD                                                                                 : 1 (S)-malate + 1 NAD+ --> 1 oxaloacetate + 1 H+ + 1 NADH
+carb_cac_1.1.1.40_RXN-10813_NADP                                                                                : 1 (S)-malate + 1 NADP+ --> 1 oxaloacetate + 1 H+ + 1 NADPH
+carb_glyox_4.1.3.1_ISOCIT-CLEAV-RXN                                                                             : 1 D-threo-isocitrate <=> 1 glyoxylate + 1 succinate
+carb_glyox_2.3.3.9_4.1.3.1_MALSYN-RXN                                                                           : 1 acetyl-CoA + 1 glyoxylate + 1 H2O --> 1 coenzyme_A + 1 (S)-malate
+oxp_redox_1.6.5.3_RXN0-5330                                                                                     : 1 NADH + 1 H+ + 1 representative_quinone --> 1 NAD+ + 1 representative_quinol
+oxp_redox_1.10.3.13_soxABCD_TRANS-RXN-240                                                                       : 0.5 oxygen + 1 representative_quinol + 6 H+ --> 1 H2O + 1 representative_quinone + 4 H+_rc
+oxp_redox_1.10.3.13_soxM_TRANS-RXN-240                                                                          : 0.5 oxygen + 1 representative_quinol + 2 H+ --> 1 H2O + 1 representative_quinone + 2 H+_rc
+oxp_redox_1.10.3.13_doxABCDE_TRANS-RXN-240                                                                      : 0.5 oxygen + 1 representative_quinol + 2 H+ --> 1 H2O + 1 representative_quinone + 2 H+_rc
+oxp_3.6.3.14_ATP-synthase                                                                                       : 1 ADP + 1 phosphate + 4 H+_rc --> 1 ATP + 1 H2O + 4 H+
+cof_quinonpool                                                                                                  : 0.6 caldariellaquinone + 0.4 sulfolobusquinone <=> 1 representative_quinone
+carb_glycogen_trehalose_2.7.7.9_GLUC1PURIDYLTRANS-RXN                                                           : 1 alpha-D-glucose_1-phosphate + 1 UTP --> 1 diphosphate + 1 UDP-alpha-D-glucose
+carb_glycogen_2.7.7.27_GLUC1PADENYLTRANS-RXN                                                                    : 1 ATP + 1 alpha-D-glucose_1-phosphate --> 1 ADP-alpha-D-glucose + 1 diphosphate
+carb_glycogen_2.4.1.21_GLYCOGENSYN-RXN                                                                          : 2 ADP-alpha-D-glucose --> 2 ADP + 1 glycogen
+carb_glycogen_2.4.1.21_glycogensynthase-upd                                                                     : 2 UDP-alpha-D-glucose --> 2 UDP + 1 glycogen
+carb_trehalose_3.2.1.68_RXN-4301                                                                                : 1 glycogen <=> 1 maltodextrin
+carb_trehalose_5.4.99.15_maltooligosyl-trahalose-synthase                                                       : 1 maltodextrin <=> 1 maltooligosyl-trehalose
+carb_trehalose_3.2.1.141_3.2.1.141-RXN                                                                          : 1 maltooligosyl-trehalose --> 1 trehalose
+carb_galactose_5.1.3.2_UDPGLUCEPIM-RXN                                                                          : 1 UDP-alpha-D-glucose <=> 1 UDP-alpha-D-galactose
+carb_gdp-mannose_5.4.2.8_PHOSMANMUT-RXN                                                                         : 1 alpha-D-mannose_1-phosphate <=> 1 D-mannose_6-phosphate
+carb_gdp-mannose_2.7.7.13_2.7.7.13-RXN                                                                          : 1 GTP + 1 alpha-D-mannose_1-phosphate <=> 1 GDP-alpha-D-mannose + 1 diphosphate
+carb_rhamnose_2.7.7.24_DTDPGLUCOSEPP-RXN                                                                        : 1 alpha-D-glucose_1-phosphate + 1 dTTP <=> 1 dTDP-alpha-D-glucose + 1 diphosphate
+carb_rhamnose_4.2.1.46_DTDPGLUCDEHYDRAT-RXN                                                                     : 1 dTDP-alpha-D-glucose <=> 1 dTDP-4-dehydro-6-deoxy-alpha-D-glucose + 1 H2O
+carb_rhamnose_5.1.3.13_DTDPDEHYDRHAMEPIM-RXN                                                                    : 1 dTDP-4-dehydro-6-deoxy-alpha-D-glucose <=> 1 dTDP-4-dehydro-6-deoxy-beta-L-mannose
+carb_rhamnose_1.1.1.133_BS187148                                                                                : 1 dTDP-4-dehydro-6-deoxy-alpha-D-glucose + 1 NADPH + 1 H+ --> 1 dTDP-alpha-L-rhamnose + 1 NADP+
+carb_rhamnose_1.1.1.133_DTDPDEHYRHAMREDUCT-RXN                                                                  : 1 dTDP-alpha-L-rhamnose + 1 NADP+ <-- 1 dTDP-4-dehydro-6-deoxy-beta-L-mannose + 1 NADPH + 1 H+
+carb_carbon-fixation_6.3.4.15_BIOTINLIG-RXN                                                                     : 1 |BCCP-monomers| + 1 biotin + 1 ATP --> 1 AMP + 1 |BCCP-biotin-monomers| + 1 diphosphate
+carb_carbon-fixation_6.3.4.14_BIOTIN-CARBOXYL-RXN                                                               : 1 ATP + 1 hydrogen_carbonate + 1 |BCCP-dimers| --> 1 ADP + 1 phosphate + 1 H+ + 1 |Carboxybiotin-BCCP|
+carb_carbon-fixation_6.4.1.2_RXN0-5055                                                                          : 1 |Carboxybiotin-BCCP| + 1 H2O + 1 ATP + 1 acetyl-CoA --> 1 |BCCP-dimers| + 1 malonyl-CoA + 1 ADP + 1 phosphate + 1 H+
+carb_carbon-fixation_1.2.1.18_1.2.1.27_RXN-8963                                                                 : 1 malonate_semialdehyde + 1 coenzyme_A + 1 NADP+ <=> 1 malonyl-CoA + 1 NADPH + 1 H+
+carb_carbon-fixation_1.1.1.298_RXN-8974                                                                         : 1 3-hydroxypropionate + 1 NADP+ <-- 1 malonate_semialdehyde + 1 NADPH + 1 H+
+carb_carbon-fixation_6.2.1.36_RXN-9086                                                                          : 1 3-hydroxypropionate + 1 ATP + 1 coenzyme_A --> 1 3-hydroxypropanoyl-CoA + 1 AMP + 1 diphosphate
+carb_carbon-fixation_4.2.1.116_RXN-6383                                                                         : 1 3-hydroxypropanoyl-CoA <=> 1 acrylyl-CoA + 1 H2O
+carb_carbon-fixation_1.3.1.84_RXN-9087                                                                          : 1 NADP+ + 1 propanoyl-CoA <=> 1 acrylyl-CoA + 1 NADPH + 1 H+
+carb_carbon-fixation_6.4.1.3_PROPIONYL-COA-CARBOXY-RXN                                                          : 1 ATP + 1 hydrogen_carbonate + 1 propanoyl-CoA --> 1 ADP + 1 (S)-methylmalonyl-CoA + 1 phosphate
+carb_carbon-fixation_5.1.99.1_METHYLMALONYL-COA-EPIM-RXN                                                        : 1 (S)-methylmalonyl-CoA <=> 1 (R)-methylmalonyl-CoA
+carb_carbon-fixation_5.4.99.2_Methylmalonyl-CoA-mutase                                                          : 1 (R)-methylmalonyl-CoA <=> 1 succinyl-CoA
+carb_carbon-fixation_1.2.1.76_RXN-8891                                                                          : 1 coenzyme_A + 1 NADP+ + 1 succinate_semialdehyde <=> 1 NADPH + 1 H+ + 1 succinyl-CoA
+carb_carbon-fixation_1.1.1.61_4-HYDROXYBUTYRATE-DEHYDROGENASE-RXN                                               : 1 4-hydroxybutyrate + 1 NAD+ <=> 1 NADH + 1 H+ + 1 succinate_semialdehyde
+carb_carbon-fixation_6.2.1.-_RXN-9092                                                                           : 1 4-hydroxybutyrate + 1 ATP + 1 coenzyme_A --> 1 4-hydroxybutanoyl-CoA + 1 AMP + 1 diphosphate
+carb_carbon-fixation_4.2.1.120_RXN-8890                                                                         : 1 4-hydroxybutanoyl-CoA <=> 1 vinylacetyl-CoA + 1 H2O
+carb_carbon-fixation_5.3.3.3_VINYLACETYL-COA-DELTA-ISOMERASE-RXN                                                : 1 vinylacetyl-CoA <=> 1 crotonyl-CoA
+carb_carbon-fixation_4.2.1.17_BS402361                                                                          : 1 4-hydroxybutanoyl-CoA <=> 1 crotonyl-CoA + 1 H2O
+carb_carbon-fixation_4.2.1.55_3-HYDROXBUTYRYL-COA-DEHYDRATASE-RXN                                               : 1 (R)-3-hydroxybutanoyl-CoA --> 1 crotonyl-CoA + 1 H2O
+carb_carbon-fixation_4.2.1.55_RXN-11667                                                                         : 1 (S)-3-hydroxybutanoyl-CoA <=> 1 H2O + 1 crotonyl-CoA
+carb_carbon-fixation_1.1.1.157_3-HYDROXYBUTYRYL-COA-DEHYDROGENASE-RXN                                           : 1 NADP+ + 1 (S)-3-hydroxybutanoyl-CoA <=> 1 acetoacetyl-CoA + 1 NADPH + 1 H+
+carb_carbon-fixation_2.3.1.9_ACETYL-COA-ACETYLTRANSFER-RXN                                                      : 2 acetyl-CoA <=> 1 acetoacetyl-CoA + 1 coenzyme_A
+aa_glu_1.4.1.3_GLUTAMATE-DEHYDROGENASE-NADP+-RXN_NADP                                                           : 1 L-glutamate + 1 H2O + 1 NADP+ <=> 1 H+ + 1 2-oxoglutarate + 1 ammonia + 1 NADPH
+aa_gln_6.3.1.2_GLUTAMINESYN-RXN                                                                                 : 1 ammonia + 1 ATP + 1 L-glutamate --> 1 ADP + 1 L-glutamine + 1 phosphate
+aa_glu_salvage_3.5.2.9_5-OXOPROLINASE-ATP-HYDROLYSING-RXN                                                       : 1 ATP + 2 H2O + 1 5-oxoproline --> 1 phosphate + 1 L-glutamate + 1 ADP
+aa_arg_orn_arg_2.3.1.1_N-ACETYLTRANSFER-RXN                                                                     : 1 acetyl-CoA + 1 L-glutamate --> 1 N-acetyl-L-glutamate + 1 coenzyme_A
+aa_arg_orn_2.7.2.8_ACETYLGLUTKIN-RXN                                                                            : 1 N-acetyl-L-glutamate + 1 ATP --> 1 ADP + 1 N-acetylglutamyl-phosphate
+aa_arg_orn_1.2.1.38_N-ACETYLGLUTPREDUCT-RXN                                                                     : 1 N-acetyl-L-glutamate_5-semialdehyde + 1 NADP+ + 1 phosphate <=> 1 N-acetylglutamyl-phosphate + 1 NADPH + 1 H+
+aa_arg_orn_2.6.1.11_ACETYLORNTRANSAM-RXN                                                                        : 1 2-oxoglutarate + 1 N-acetyl-L-ornithine <=> 1 N-acetyl-L-glutamate_5-semialdehyde + 1 L-glutamate
+aa_arg_orn_3.5.1.16_ACETYLORNDEACET-RXN                                                                         : 1 N-acetyl-L-ornithine + 1 H2O --> 1 acetate + 1 L-ornithine
+aa_ile_4.3.1.19_BS141657                                                                                        : 1 L-homoserine <=> 1 2-oxobutanoate + 1 ammonia
+aa_ile_2.2.1.6_ACETOOHBUTSYN-RXN                                                                                : 1 2-oxobutanoate + 1 pyruvate --> 1 2-aceto-2-hydroxy-butanoate + 1 CO2
+aa_ile_1.1.1.86_ACETOOHBUTREDUCTOISOM-RXN                                                                       : 1 2,3-dihydroxy-3-methylvalerate + 1 NADP+ <=> 1 2-aceto-2-hydroxy-butanoate + 1 NADPH + 1 H+
+aa_ile_4.2.1.9_DIHYDROXYMETVALDEHYDRAT-RXN                                                                      : 1 2,3-dihydroxy-3-methylvalerate --> 1 (S)-3-methyl-2-oxopentanoate + 1 H2O
+aa_ile_carb_degra-ile_2.6.1.42_BRANCHED-CHAINAMINOTRANSFERILEU-RXN                                              : 1 2-oxoglutarate + 1 L-isoleucine <=> 1 (S)-3-methyl-2-oxopentanoate + 1 L-glutamate
+aa_val_leu_2.2.1.6_ACETOLACTSYN-RXN                                                                             : 2 pyruvate --> 1 (S)-2-acetolactate + 1 CO2
+aa_val_leu_1.1.1.86_ACETOLACTREDUCTOISOM-RXN                                                                    : 1 (R)-2,3-dihydroxy-3-methylbutanoate + 1 NADP+ <=> 1 (S)-2-acetolactate + 1 NADPH + 1 H+
+aa_val_leu_4.2.1.9_DIHYDROXYISOVALDEHYDRAT-RXN                                                                  : 1 (R)-2,3-dihydroxy-3-methylbutanoate --> 1 2-oxoisovalerate + 1 H2O
+aa_val_carb_degra-val_2.6.1.42_BRANCHED-CHAINAMINOTRANSFERVAL-RXN                                               : 1 2-oxoglutarate + 1 L-valine <=> 1 2-oxoisovalerate + 1 L-glutamate
+aa_leu_2.3.3.13_2-ISOPROPYLMALATESYN-RXN                                                                        : 1 2-oxoisovalerate + 1 acetyl-CoA + 1 H2O --> 1 (2S)-2-isopropylmalate + 1 coenzyme_A
+aa_leu_4.2.1.33_RXN-13163                                                                                       : 1 (2R,3S)-3-isopropylmalate <=> 1 (2S)-2-isopropylmalate
+aa_leu_4.2.1.33_BR413                                                                                           : 1 (2R,3S)-3-isopropylmalate <=> 1 2-isopropylmaleate + 1 H2O
+aa_leu_1.1.1.85_RXN-13158                                                                                       : 1 (2R,3S)-3-isopropylmalate + 1 NAD+ --> 1 H+ + 1 4-methyl-2-oxopentanoate + 1 CO2 + 1 NADH
+aa_leu_carb_degra-leu_2.6.1.42_BRANCHED-CHAINAMINOTRANSFERLEU-RXN                                               : 1 2-oxoglutarate + 1 L-leucine <=> 1 4-methyl-2-oxopentanoate + 1 L-glutamate
+carbam_aa_arg_oro_6.3.5.5_CARBPSYN-RXN                                                                          : 2 ATP + 1 L-glutamine + 1 hydrogen_carbonate + 1 H2O --> 2 ADP + 1 carbamoyl-phosphate + 1 L-glutamate + 1 phosphate
+aa_arg_ureacyc_2.1.3.3_ORNCARBAMTRANSFER-RXN                                                                    : 1 carbamoyl-phosphate + 1 L-ornithine <=> 1 L-citrulline + 1 phosphate
+aa_arg_ureacyc_6.3.4.5_ARGSUCCINSYN-RXN                                                                         : 1 ATP + 1 L-aspartate + 1 L-citrulline --> 1 AMP + 1 L-arginino-succinate + 1 diphosphate
+aa_arg_ureacyc_4.3.2.1_ARGSUCCINLYA-RXN                                                                         : 1 L-arginino-succinate <=> 1 L-arginine + 1 fumarate
+aa_pro_carb_degra-arg_1.5.1.2_PYRROLINECARBREDUCT-RXN_NAD                                                       : 1 L-proline + 1 NAD+ <-- 1 H+ + 1 (S)-1-pyrroline-5-carboxylate + 1 NADH
+aa_pro_carb_degra-arg_1.5.1.2_PYRROLINECARBREDUCT-RXN_NADP                                                      : 1 L-proline + 1 NADP+ <-- 1 H+ + 1 (S)-1-pyrroline-5-carboxylate + 1 NADPH
+aa_asp_2.6.1.1_ASPAMINOTRANS-RXN                                                                                : 1 2-oxoglutarate + 1 L-aspartate <=> 1 L-glutamate + 1 oxaloacetate
+aa_ala_2.6.1.2_ALANINE-AMINOTRANSFERASE-RXN                                                                     : 1 2-oxoglutarate + 1 L-alanine <=> 1 L-glutamate + 1 pyruvate
+aa_hcys_met_2.5.1.49_ACETYLHOMOSER-CYS-RXN                                                                      : 1 O-acetyl-L-homoserine + 1 hydrogen_sulfide <=> 1 acetate + 1 L-homocysteine
+aa_hser_hcys_thr_met_2.7.2.4_ASPARTATEKIN-RXN                                                                   : 1 ATP + 1 L-aspartate --> 1 ADP + 1 L-aspartyl-4-phosphate
+aa_hser_hcys_thr_met_1.2.1.11_ASPARTATE-SEMIALDEHYDE-DEHYDROGENASE-RXN                                          : 1 L-aspartate-semialdehyde + 1 NADP+ + 1 phosphate <=> 1 L-aspartyl-4-phosphate + 1 NADPH + 1 H+
+aa_hser_hcys_thr_met_1.1.1.3_HOMOSERDEHYDROG-RXN_NAD                                                            : 1 L-homoserine + 1 NAD+ <-- 1 L-aspartate-semialdehyde + 1 H+ + 1 NADH
+aa_hser_hcys_thr_met_1.1.1.3_HOMOSERDEHYDROG-RXN_NADP                                                           : 1 L-homoserine + 1 NADP+ <-- 1 L-aspartate-semialdehyde + 1 H+ + 1 NADPH
+aa_thr_met_2.7.1.39_HOMOSERKIN-RXN                                                                              : 1 ATP + 1 L-homoserine --> 1 ADP + 1 O-phospho-L-homoserine
+aa_thr_4.2.3.1_THRESYN-RXN                                                                                      : 1 O-phospho-L-homoserine + 1 H2O --> 1 phosphate + 1 L-threonine
+aa_gly_2.1.2.1_GLYOHMETRANS-RXN                                                                                 : 1 L-serine + 1 tetrahydrosulfopterin <=> 1 glycine + 1 5,10-methylenetetrahydrosulfopterin + 1 H2O
+aa_ser_gly_cys_sec_trp_1.1.1.95_PGLYCDEHYDROG-RXN                                                               : 1 3-phospho-D-glycerate + 1 NAD+ <=> 1 3-phospho-hydroxypyruvate + 1 NADH + 1 H+
+aa_ser_gly_cys_sec_trp_2.6.1.52_PSERTRANSAM-RXN                                                                 : 1 2-oxoglutarate + 1 3-phospho-L-serine <=> 1 3-phospho-hydroxypyruvate + 1 L-glutamate
+aa_ser_gly_cys_sec_trp_3.1.3.3_RXN0-5114                                                                        : 1 3-phospho-L-serine + 1 H2O --> 1 phosphate + 1 L-serine
+aa_cys_2.3.1.30_SERINE-O-ACETTRAN-RXN                                                                           : 1 acetyl-CoA + 1 L-serine <=> 1 O-acetyl-L-serine + 1 coenzyme_A
+aa_cys_2.5.1.47_ACSERLY-RXN                                                                                     : 1 O-acetyl-L-serine + 1 hydrogen_sulfide <=> 1 acetate + 1 L-cysteine
+aa_his_2.4.2.17_ATPPHOSPHORIBOSYLTRANS-RXN                                                                      : 1 phosphoribosyl-ATP + 1 diphosphate <-- 1 ATP + 1 5-phospho-alpha-D-ribose_1-diphosphate
+aa_his_3.6.1.31_HISTPRATPHYD-RXN                                                                                : 1 phosphoribosyl-ATP + 1 H2O --> 1 1-(5-phospho-D-ribosyl)-AMP + 1 diphosphate
+aa_his_3.5.4.19_HISTCYCLOHYD-RXN                                                                                : 1 1-(5-phospho-D-ribosyl)-AMP + 1 H2O --> 1 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide
+aa_his_5.3.1.16_PRIBFAICARPISOM-RXN                                                                             : 1 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide --> 1 phosphoribulosylformimino-AICAR-P
+aa_his_2.4.2.-_GLUTAMIDOTRANS-RXN                                                                               : 1 L-glutamine + 1 phosphoribulosylformimino-AICAR-P --> 1 aminoimidazole_carboxamide_ribonucleotide + 1 D-erythro-imidazole-glycerol-phosphate + 1 L-glutamate
+aa_his_4.2.1.19_IMIDPHOSDEHYD-RXN                                                                               : 1 D-erythro-imidazole-glycerol-phosphate --> 1 imidazole_acetol-phosphate + 1 H2O
+aa_his_2.6.1.9_HISTAMINOTRANS-RXN                                                                               : 1 L-glutamate + 1 imidazole_acetol-phosphate <=> 1 2-oxoglutarate + 1 L-histidinol-phosphate
+aa_his_3.1.3.15_HISTIDPHOS-RXN                                                                                  : 1 L-histidinol-phosphate + 1 H2O --> 1 histidinol + 1 phosphate
+aa_his_1.1.1.23_BS371011                                                                                        : 1 histidinol + 1 NAD+ --> 1 histidinal + 1 NADH + 1 H+
+aa_his_1.1.1.23_BS187855                                                                                        : 1 H2O + 1 histidinal + 1 NAD+ --> 1 H+ + 1 L-histidine + 1 NADH
+aa_phe_tyr_trp_shiki_2.5.1.54_DAHPSYN-RXN                                                                       : 1 D-erythrose-4-phosphate + 1 phosphoenolpyruvate + 1 H2O --> 1 3-deoxy-D-arabino-heptulosonate-7-phosphate + 1 phosphate
+aa_phe_tyr_trp_shiki_4.2.3.4_3-DEHYDROQUINATE-SYNTHASE-RXN                                                      : 1 3-deoxy-D-arabino-heptulosonate-7-phosphate --> 1 3-dehydroquinate + 1 phosphate
+aa_phe_tyr_trp_shiki_4.2.1.10_3-DEHYDROQUINATE-DEHYDRATASE-RXN                                                  : 1 3-dehydroquinate <=> 1 3-dehydroshikimate + 1 H2O
+aa_phe_tyr_trp_shiki_1.1.1.25_RXN-7968_NADP                                                                     : 1 shikimate + 1 NADP+ <-- 1 3-dehydroshikimate + 1 H+ + 1 NADPH
+aa_phe_tyr_trp_shiki_2.7.1.71_SHIKIMATE-KINASE-RXN                                                              : 1 ATP + 1 shikimate --> 1 ADP + 1 shikimate-3-phosphate
+aa_phe_tyr_trp_shiki_2.5.1.19_2.5.1.19-RXN                                                                      : 1 phosphoenolpyruvate + 1 shikimate-3-phosphate <=> 1 5-enolpyruvyl-shikimate-3-phosphate + 1 phosphate
+aa_phe_tyr_trp_shiki_4.2.3.5_CHORISMATE-SYNTHASE-RXN                                                            : 1 5-enolpyruvyl-shikimate-3-phosphate --> 1 chorismate + 1 phosphate
+aa_trp_4.1.3.27_ANTHRANSYN-RXN                                                                                  : 1 chorismate + 1 L-glutamine <=> 1 anthranilate + 1 L-glutamate + 1 pyruvate
+aa_trp_2.4.2.18_PRTRANS-RXN                                                                                     : 1 N-(5'-phosphoribosyl)-anthranilate + 1 diphosphate <-- 1 anthranilate + 1 5-phospho-alpha-D-ribose_1-diphosphate
+aa_trp_5.3.1.24_PRAISOM-RXN                                                                                     : 1 N-(5'-phosphoribosyl)-anthranilate --> 1 1-(o-carboxyphenylamino)-1'-deoxyribulose-5'-phosphate
+aa_trp_4.1.1.48_IGPSYN-RXN                                                                                      : 1 1-(o-carboxyphenylamino)-1'-deoxyribulose-5'-phosphate --> 1 CO2 + 1 (1S,2R)-1-C-(indol-3-yl)glycerol_3-phosphate + 1 H2O
+aa_trp_4.2.1.20_RXN0-2381                                                                                       : 1 (1S,2R)-1-C-(indol-3-yl)glycerol_3-phosphate <=> 1 indole + 1 D-glyceraldehyde-3-phosphate
+aa_trp_4.2.1.20_RXN0-2382                                                                                       : 1 L-serine + 1 indole --> 1 L-tryptophan + 1 H2O
+aa_phe_5.4.99.5_CHORISMATEMUT-RXN                                                                               : 1 chorismate <=> 1 prephenate
+aa_phe_4.2.1.51_PREPHENATEDEHYDRAT-RXN                                                                          : 1 prephenate --> 1 CO2 + 1 keto-phenylpyruvate + 1 H2O
+aa_phe_2.6.1.1_PHEAMINOTRANS-RXN                                                                                : 1 L-glutamate + 1 keto-phenylpyruvate <=> 1 2-oxoglutarate + 1 L-phenylalanine
+aa_tyr_1.3.1.12_PREPHENATEDEHYDROG-RXN                                                                          : 1 NAD+ + 1 prephenate --> 1 H+ + 1 CO2 + 1 NADH + 1 4-hydroxyphenylpyruvate
+aa_tyr_2.6.1.5_TYRAMINOTRANS-RXN                                                                                : 1 2-oxoglutarate + 1 L-tyrosine <=> 1 L-glutamate + 1 4-hydroxyphenylpyruvate
+tRNA_aa_asn_6.1.1.-_6.1.1.23_RXN490-3616                                                                        : 1 ATP + 1 L-aspartate + 1 |ASN-tRNAs| --> 1 AMP + 1 diphosphate + 1 |L-aspartyl-tRNAAsn|
+tRNA_aa_asn_6.3.5.6_6.3.5.6-RXN                                                                                 : 1 ATP + 1 L-glutamine + 1 H2O + 1 |L-aspartyl-tRNAAsn| --> 1 ADP + 1 L-glutamate + 1 phosphate + 2 H+ + 1 |Charged-ASN-tRNAs|
+aa_asn_3.1.1.29_RXN-12460                                                                                       : 1 H2O + 1 |Charged-ASN-tRNAs| --> 1 L-asparagine + 2 H+ + 1 |ASN-tRNAs|
+aa_lys_2.3.3.14_HOMOCITRATE-SYNTHASE-RXN                                                                        : 1 2-oxoglutarate + 1 acetyl-CoA + 1 H2O <=> 1 coenzyme_A + 1 (R)-homocitrate
+aa_lys_4.3.3.7_DIHYDRODIPICSYN-RXN                                                                              : 1 pyruvate + 1 L-aspartate-semialdehyde --> 1 H2O + 1 (2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate
+aa_lys_1.17.1.8_RXN-14014                                                                                       : 1 H2O + 1 (S)-2,3,4,5-tetrahydrodipicolinate + 1 NADP+ <-- 1 (2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate + 1 NADPH + 1 H+
+aa_lys_2.3.1.89_2.3.1.89-RXN                                                                                    : 1 (S)-2,3,4,5-tetrahydrodipicolinate + 1 acetyl-CoA + 1 H2O --> 1 L-2-acetamido-6-oxoheptanedioate + 1 coenzyme_A
+aa_lys_2.6.1.-_RXN-4822                                                                                         : 1 L-glutamate + 1 L-2-acetamido-6-oxoheptanedioate --> 1 N-acetyl-L,L-2,6-diaminopimelate + 1 2-oxoglutarate
+aa_lys_3.5.1.47_N-ACETYLDIAMINOPIMELATE-DEACETYLASE-RXN                                                         : 1 N-acetyl-L,L-2,6-diaminopimelate + 1 H2O --> 1 L,L-diaminopimelate + 1 acetate
+aa_lys_5.1.1.7_DIAMINOPIMEPIM-RXN                                                                               : 1 L,L-diaminopimelate <=> 1 meso-diaminopimelate
+aa_lys_4.1.1.20_DIAMINOPIMDECARB-RXN                                                                            : 1 meso-diaminopimelate --> 1 CO2 + 1 L-lysine
+aa_met_4.4.1.8_CYSTATHIONINE-BETA-LYASE-RXN                                                                     : 1 L-cystathionine + 1 H2O --> 1 ammonia + 1 L-homocysteine + 1 pyruvate
+aa_met_2.5.1.48_O-SUCCHOMOSERLYASE-RXN                                                                          : 1 L-cysteine + 1 O-succinyl-L-homoserine --> 1 L-cystathionine + 1 succinate
+aa_met_cof_sulfopterin_2.1.1.14_HOMOCYSMET-RXN                                                                  : 1 5-methyl-tetrahydrosulfopterin + 1 L-homocysteine <=> 1 tetrahydrosulfopterin + 1 L-methionine
+aa_met_cof_sulfopterin_2.1.1.13_HOMOCYSMETB12-RXN                                                               : 1 5-methyl-tetrahydrosulfopterin + 1 L-homocysteine --> 1 L-methionine + 1 tetrahydrosulfopterin
+aa_met_2.5.1.-_CYSPH-RXN                                                                                        : 1 L-cysteine + 1 O-phospho-L-homoserine --> 1 L-cystathionine + 1 phosphate
+aa_met_cof_sam_2.1.1.-_HOMOCYSTEINE-S-METHYLTRANSFERASE-RXN                                                     : 1 L-homocysteine + 1 S-adenosyl-L-methionine --> 1 S-adenosyl-L-homocysteine + 1 L-methionine
+aa_met_salvage_4.2.1.22_CYSTATHIONINE-BETA-SYNTHASE-RXN                                                         : 1 L-homocysteine + 1 L-serine <=> 1 L-cystathionine + 1 H2O
+aa_met_salvage_5.3.1.23_5.3.1.23-RXN                                                                            : 1 S-methyl-5-thio-alpha-D-ribose_1-phosphate --> 1 5-methylthioribulose-1-phosphate
+aa_met_salvage_4.2.1.109_R145-RXN                                                                               : 1 5-methylthioribulose-1-phosphate --> 1 5-(methylthio)-2,3-dioxopentyl_phosphate + 1 H2O
+aa_met_salvage_3.1.3.77_3.1.3.77-RXN                                                                            : 1 5-(methylthio)-2,3-dioxopentyl_phosphate + 1 H2O --> 1 1,2-dihydroxy-5-(methylthio)pent-1-en-3-one + 1 phosphate
+aa_met_salvage_1.13.11.54_R147-RXN                                                                              : 1 1,2-dihydroxy-5-(methylthio)pent-1-en-3-one + 1 oxygen --> 1 2-oxo-4-methylthiobutanoate + 1 formate
+aa_met_salvage_2.6.1.57_RXN-7708                                                                                : 1 keto-phenylpyruvate + 1 L-methionine <=> 1 L-phenylalanine + 1 2-oxo-4-methylthiobutanoate
+cof_special-quinones_unknown01                                                                                  : 1 4-hydroxyphenylpyruvate + 1 oxygen <=> 1 homogentisate + 1 CO2
+cof_special-quinones_unknown02                                                                                  : 1 H+ + 1 homogentisate + 1 NADH <=> 1 NAD+ + 1 H2O + 1 homogentisic_aldehyde
+cof_special-quinones_unknown03                                                                                  : 1 NAD+ + 1 homogentisic_aldehyde <=> 1 H+ + 1 NADH + 1 benzothiphen-4,7-quinone
+cof_special-quinones_unknown04                                                                                  : 1 benzothiphen-4,7-quinone <=> 1 H2O + 1 benzothiophen-4,7-diol
+cof_special-quinones_unknown-prenyltransferase                                                                  : 1 benzothiophen-4,7-diol + 1 (2E,6E)-farnesyl_diphosphate + 3 isopentenyl_diphosphate --> 1 prenylated_1,4-benzothiophen-4,7-diol + 4 diphosphate
+cof_special-quinones_1.3.99.34_prenylated-benzothiophendiol-reduction                                           : 1 prenylated_1,4-benzothiophen-4,7-diol + 6 NADH + 6 H+ --> 1 reduced_prenylated_1,4-benzothiophen-4,7-diol + 6 NAD+
+cof_special-quinones_2.5.1.49_O-ACETYLHOMOSERINE-THIOL-LYASE-RXN                                                : 1 O-acetyl-L-homoserine + 1 methanethiol <=> 1 acetate + 1 L-methionine
+cof_special-quinones_unknown05                                                                                  : 1 methanethiol + 2 NAD+ + 1 reduced_prenylated_1,4-benzothiophen-4,7-diol <=> 2 H+ + 1 caldariellaquinone + 2 NADH
+cof_special-quinones_unknown06                                                                                  : 1 S-adenosyl-L-methionine + 2 NAD+ + 1 reduced_prenylated_1,4-benzothiophen-4,7-diol <=> 1 sulfolobusquinone + 2 H+ + 2 NADH + 1 S-adenosyl-L-homocysteine
+cof_plp_4.3.3.6_RXN-11322                                                                                       : 1 D-glyceraldehyde-3-phosphate + 1 L-glutamine + 1 D-ribose-5-phosphate --> 1 L-glutamate + 1 phosphate + 1 pyridoxal_5'-phosphate + 3 H2O
+cof_biotin_2.6.1.62_DAPASYN-RXN                                                                                 : 1 S-adenosyl-L-methionine + 1 8-amino-7-oxononanoate <=> 1 7,8-diaminopelargonate + 1 S-adenosyl-4-methylthio-2-oxobutanoate
+cof_biotin_2.8.1.6_BS360047                                                                                     : 1 dethiobiotin + 1 sulfur <=> 2 H+ + 1 biotin
+cof_biotin_6.3.4.15_BS398826                                                                                    : 1 biotin + 1 ATP --> 1 bio-5'-AMP + 1 diphosphate
+cof_flavin_3.5.4.29_RXN-10055                                                                                   : 1 GTP + 3 H2O --> 1 2-amino-5-formylamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one + 2 phosphate
+cof_flavin_3.5.1.102_RXN-10056                                                                                  : 1 2-amino-5-formylamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one + 1 H2O --> 1 2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one + 1 formate
+cof_flavin_1.1.1.302_RXN-10057                                                                                  : 1 2,5-diamino-6-(5-phospho-D-ribitylamino)pyrimidin-4(3H)-one + 1 NAD+ <-- 1 H+ + 1 2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one + 1 NADH
+cof_flavin_3.5.4.26_RIBOFLAVINSYNDEAM-RXN                                                                       : 1 2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one + 1 H2O --> 1 ammonia + 1 5-amino-6-(5-phospho-D-ribosylamino)uracil
+cof_flavin_1.1.1.193_RIBOFLAVINSYNREDUC-RXN                                                                     : 1 5-amino-6-(5-phospho-D-ribitylamino)uracil + 1 NADP+ <-- 1 5-amino-6-(5-phospho-D-ribosylamino)uracil + 1 NADPH + 1 H+
+cof_flavin_3.1.3.-_riboflavinphosphatase                                                                        : 1 5-amino-6-(5-phospho-D-ribitylamino)uracil + 1 H2O --> 1 5-amino-6-(D-ribitylamino)uracil + 1 phosphate
+cof_flavin_4.1.99.12_DIOHBUTANONEPSYN-RXN                                                                       : 1 D-ribulose-5-phosphate --> 1 1-deoxy-L-glycero-tetrulose_4-phosphate + 1 formate
+cof_flavin_2.5.1.78_LUMAZINESYN-RXN                                                                             : 1 5-amino-6-(D-ribitylamino)uracil + 1 1-deoxy-L-glycero-tetrulose_4-phosphate --> 1 6,7-dimethyl-8-(1-D-ribityl)lumazine + 1 phosphate + 2 H2O
+cof_flavin_2.5.1.9_RIBOFLAVIN-SYN-RXN                                                                           : 2 6,7-dimethyl-8-(1-D-ribityl)lumazine --> 1 5-amino-6-(D-ribitylamino)uracil + 1 riboflavin
+cof_flavin_2.7.1.161_RXN-9296                                                                                   : 1 CTP + 1 riboflavin --> 1 CDP + 1 FMN
+cof_flavin_2.7.7.2_FADSYN-RXN                                                                                   : 1 ATP + 1 FMN --> 1 FAD + 1 diphosphate
+cof_thiamin_2.7.7.73_RXN-9789                                                                                   : 1 ATP + 1 |Thi-S| --> 1 diphosphate + 1 |Adenylated-ThiS-Proteins|
+cof_thiamin_4.1.99.19_RXN-11319                                                                                 : 1 S-adenosyl-L-methionine + 1 L-tyrosine + 1 representative_quinol --> 1 5'-deoxyadenosine + 1 4-methylphenol + 1 2-iminoacetate + 1 L-methionine + 2 H+ + 1 representative_quinone
+cof_thiamin_unknown01                                                                                           : 1 |ThiI_sulfur-carrier_protein| + 1 |Persulfurated-L-cysteine-desulfurases| <=> 1 |Persulfurated-ThiI_sulfur-carrier_protein| + 1 |L-Cysteine-Desulfurases|
+cof_thiamin_unknown02                                                                                           : 1 |Adenylated-ThiS-Proteins| + 1 |Persulfurated-ThiI_sulfur-carrier_protein| <=> 1 AMP + 1 |Thiocarboxyadenylated-ThiS-Proteins| + 1 |ThiI_sulfur-carrier_protein|
+cof_thiamin_2.8.1.10_THIAZOLSYN2-RXN                                                                            : 1 2-iminoacetate + 1 1-deoxy-D-xylulose_5-phosphate + 1 |Thiocarboxyadenylated-ThiS-Proteins| --> 1 2-[(2R,5Z)-(2-carboxy-4-methylthiazol-5(2H)-ylidene]ethyl_phosphate + 2 H2O + 1 |Thi-S|
+cof_thiamin_2.5.1.3_RXN-12611                                                                                   : 1 4-amino-2-methyl-5-diphosphomethylpyrimidine + 1 2-[(2R,5Z)-(2-carboxy-4-methylthiazol-5(2H)-ylidene]ethyl_phosphate --> 1 CO2 + 1 diphosphate + 1 thiamin_phosphate
+cof_thiamin_4.1.99.17_PYRIMSYN1-RXN                                                                             : 1 5-amino-1-(5-phospho-D-ribosyl)imidazole + 1 S-adenosyl-L-methionine --> 1 4-amino-2-methyl-5-phosphomethylpyrimidine + 1 carbon_monoxide + 1 5'-deoxyadenosine + 1 formate + 1 L-methionine
+cof_thiamin_2.7.4.7_PYRIMSYN3-RXN                                                                               : 1 4-amino-2-methyl-5-phosphomethylpyrimidine + 1 ATP --> 1 ADP + 1 4-amino-2-methyl-5-diphosphomethylpyrimidine
+cof_thiamin_plp_2.2.1.7_DXS-RXN                                                                                 : 1 D-glyceraldehyde-3-phosphate + 1 pyruvate --> 1 CO2 + 1 1-deoxy-D-xylulose_5-phosphate
+cof_thiamin_2.7.4.16_THI-P-KIN-RXN                                                                              : 1 ATP + 1 thiamin_phosphate --> 1 ADP + 1 thiamin_diphosphate
+cof_thiamin_3.1.3.2_RXNQT-4191                                                                                  : 1 H+ + 1 thiamin_phosphate + 1 H2O --> 1 phosphate + 1 thiamin
+cof_tetrapyrrole_1.2.1.70_GLUTRNAREDUCT-RXN                                                                     : 1 glutamate-1-semialdehyde + 1 NADP+ + 1 |GLT-tRNAs| <=> 1 NADPH + 1 |Charged-GLT-tRNAs|
+cof_tetrapyrrole_5.4.3.8_GSAAMINOTRANS-RXN                                                                      : 1 glutamate-1-semialdehyde <=> 1 5-amino-levulinate
+cof_tetrapyrrole_4.2.1.24_PORPHOBILSYNTH-RXN                                                                    : 2 5-amino-levulinate <=> 1 porphobilinogen + 2 H2O
+cof_tetrapyrrole_2.5.1.61_OHMETHYLBILANESYN-RXN                                                                 : 4 porphobilinogen + 1 H2O <=> 4 ammonia + 1 hydroxymethylbilane
+cof_tetrapyrrole_4.2.1.75_UROGENIIISYN-RXN                                                                      : 1 hydroxymethylbilane <=> 1 uroporphyrinogen-III + 1 H2O
+cof_tetrapyrrole_tRNA_6.1.1.17_GLURS-RXN                                                                        : 1 ATP + 1 L-glutamate + 1 H+ + 1 |GLT-tRNAs| --> 1 AMP + 1 diphosphate + 1 |Charged-GLT-tRNAs|
+cof_cobalamin_2.1.1.107_RXN-13403                                                                               : 2 S-adenosyl-L-methionine + 1 uroporphyrinogen-III <=> 2 S-adenosyl-L-homocysteine + 1 precorrin-2
+cof_cobalamin-anaerobic_4.99.1.3_RXN-8759                                                                       : 1 Co2+ + 1 precorrin-2 --> 2 H+ + 1 cobalt-precorrin-2
+cof_cobalamin-anaerobic_2.1.1.151_RXN-8760                                                                      : 1 cobalt-precorrin-2 + 1 S-adenosyl-L-methionine --> 1 S-adenosyl-L-homocysteine + 1 cobalt-precorrin-3
+cof_cobalamin-anaerobic_2.1.1.131_BS375288                                                                      : 1 H+ + 1 S-adenosyl-L-methionine + 1 cobalt-precorrin-3 <=> 1 S-adenosyl-L-homocysteine + 1 cobalt-precorrin-4
+cof_cobalamin-anaerobic-anaerobic_2.1.1.133_RXN-8762                                                            : 1 cobalt-precorrin-4 + 1 S-adenosyl-L-methionine --> 1 S-adenosyl-L-homocysteine + 1 cobalt-precorrin-5A
+cof_cobalamin-anaerobic_3.7.1.12_RXN-8763                                                                       : 1 cobalt-precorrin-5A + 1 H2O --> 1 acetaldehyde + 1 cobalt-precorrin-5B
+cof_cobalamin-anaerobic_2.1.1.195_RXN-8764                                                                      : 1 cobalt-precorrin-5B + 1 S-adenosyl-L-methionine --> 1 S-adenosyl-L-homocysteine + 1 cobalt-precorrin-6A
+cof_cobalamin-anaerobic_1.3.1.54_RXN-8765                                                                       : 1 cobalt-precorrin-6A + 1 NADPH + 1 H+ --> 1 cobalt-precorrin-6B + 1 NADP+
+cof_cobalamin-anaerobic_2.1.1.196_RXN-8766                                                                      : 1 cobalt-precorrin-6B + 1 S-adenosyl-L-methionine --> 1 S-adenosyl-L-homocysteine + 1 cobalt-precorrin-7
+cof_cobalamin-anaerobic_2.1.1.dg_RXN-8767                                                                       : 1 cobalt-precorrin-7 + 1 S-adenosyl-L-methionine --> 1 S-adenosyl-L-homocysteine + 1 CO2 + 1 cobalt-precorrin-8x
+cof_cobalamin-anaerobic_5.4.1.2_RXN-8768                                                                        : 1 cobalt-precorrin-8x --> 1 cobyrinate
+cof_cobalamin-anaerobic_6.3.5.9_RXN-8769                                                                        : 2 ATP + 1 cobyrinate + 2 L-glutamine + 2 H2O --> 2 ADP + 1 cob(II)yrinate_a,c-diamide + 2 L-glutamate + 2 phosphate
+cof_cobalamin_1.16.8.1_R343-RXN                                                                                 : 2 cob(I)yrinate_a,c-diamide + 1 FMN + 2 H+ <-- 2 cob(II)yrinate_a,c-diamide + 1 FMNH2
+cof_cobalamin_2.5.1.17_R344-RXN                                                                                 : 1 H+ + 1 ATP + 1 cob(I)yrinate_a,c-diamide --> 1 adenosyl-cobyrinate_a,c-diamide + 1 PPPi
+cof_cobalamin_6.3.5.10_R345-RXN                                                                                 : 4 ATP + 1 adenosyl-cobyrinate_a,c-diamide + 4 L-glutamine + 4 H2O --> 4 ADP + 1 adenosyl-cobyrate + 4 L-glutamate + 4 phosphate
+cof_aminoprop_cobalamin_2.7.1.177_RXN-8626                                                                      : 1 ATP + 1 L-threonine --> 1 H+ + 1 ADP + 1 L-threonine_O-3-phosphate
+cof_aminoprop_cobalamin_4.1.1.81_4.1.1.81-RXN                                                                   : 1 H+ + 1 L-threonine_O-3-phosphate --> 1 CO2 + 1 (R)-1-amino-2-propanol_O-2-phosphate
+cof_cobalamin_6.3.1.10_RXN-6261                                                                                 : 1 ATP + 1 adenosyl-cobyrate + 1 (R)-1-amino-2-propanol_O-2-phosphate --> 1 adenosyl-cobinamide_phosphate + 1 ADP + 1 phosphate
+cof_cobalamin_2.7.7.62_COBINPGUANYLYLTRANS-RXN                                                                  : 1 adenosyl-cobinamide_phosphate + 1 GTP <=> 1 adenosylcobinamide-GDP + 1 diphosphate
+cof_cobalamin_2.7.8.26_COBALAMIN5PSYN-RXN                                                                       : 1 adenosylcobinamide-GDP + 1 alpha-ribazole-5'-phosphate --> 1 adenosylcobalamin_5'-phosphate + 1 GMP
+cof_cobalamin_3.1.3.73_RXN-8770                                                                                 : 1 adenosylcobalamin_5'-phosphate + 1 H2O --> 1 coenzyme_B12 + 1 phosphate
+cof_cobalamin_1.13.11.79_RXN-8771                                                                               : 1 oxygen + 1 FMNH2 --> 1 dialurate + 1 5,6-dimethylbenzimidazole + 1 D-erythrose-4-phosphate
+cof_cobalamin_2.4.2.21_DMBPPRIBOSYLTRANS-RXN                                                                    : 1 5,6-dimethylbenzimidazole + 1 nicotinate_D-ribonucleotide --> 1 alpha-ribazole-5'-phosphate + 1 nicotinate
+cof_coa_2.1.2.11_3-CH3-2-OXOBUTANOATE-OH-CH3-XFER-RXN                                                           : 1 2-oxoisovalerate + 1 5,10-methylenetetrahydrosulfopterin + 1 H2O <=> 1 2-dehydropantoate + 1 tetrahydrosulfopterin
+cof_coa_1.1.1.169_2-DEHYDROPANTOATE-REDUCT-RXN                                                                  : 1 (R)-pantoate + 1 NADP+ <-- 1 2-dehydropantoate + 1 NADPH + 1 H+
+cof_coa_6.3.2.1_PANTOATE-BETA-ALANINE-LIG-RXN                                                                   : 1 ATP + 1 beta-alanine + 1 (R)-pantoate --> 1 AMP + 1 (R)-pantothenate + 1 diphosphate
+cof_coa_2.7.1.33_PANTOTHENATE-KIN-RXN                                                                           : 1 ATP + 1 (R)-pantothenate --> 1 D-4'-phosphopantothenate + 1 ADP
+cof_coa_6.3.2.5_P-PANTOCYSLIG-RXN                                                                               : 1 D-4'-phosphopantothenate + 1 CTP + 1 L-cysteine --> 1 CMP + 1 diphosphate + 1 R-4'-phosphopantothenoyl-L-cysteine
+cof_coa_4.1.1.36_P-PANTOCYSDECARB-RXN                                                                           : 1 R-4'-phosphopantothenoyl-L-cysteine --> 1 CO2 + 1 4'-phosphopantetheine
+cof_coa_2.7.7.3_PANTEPADENYLYLTRAN-RXN                                                                          : 1 ATP + 1 4'-phosphopantetheine --> 1 dephospho-CoA + 1 diphosphate
+cof_coa_2.7.1.24_DEPHOSPHOCOAKIN-RXN                                                                            : 1 ATP + 1 dephospho-CoA --> 1 ADP + 1 coenzyme_A
+cof_nad_1.4.3.16_L-ASPARTATE-OXID-RXN                                                                           : 1 L-aspartate + 1 oxygen --> 1 hydrogen_peroxide + 1 alpha-iminosuccinate
+cof_nad_1.4.3.16_BS413426                                                                                       : 1 L-aspartate + 1 fumarate <=> 1 alpha-iminosuccinate + 1 succinate
+cof_nad_2.5.1.72_QUINOLINATE-SYNTHA-RXN                                                                         : 1 dihydroxyacetone_phosphate + 1 alpha-iminosuccinate --> 1 phosphate + 1 quinolinate + 2 H2O
+cof_nad_2.4.2.19_QUINOPRIBOTRANS-RXN                                                                            : 1 5-phospho-alpha-D-ribose_1-diphosphate + 1 quinolinate --> 1 CO2 + 1 nicotinate_D-ribonucleotide + 1 diphosphate
+cof_nad_2.7.7.18_NICONUCADENYLYLTRAN-RXN                                                                        : 1 ATP + 1 nicotinate_D-ribonucleotide --> 1 nicotinate_adenine_dinucleotide + 1 diphosphate
+cof_nad_6.3.1.5_BR147                                                                                           : 1 H+ + 1 ATP + 1 nicotinate_adenine_dinucleotide + 1 L-glutamine + 1 H2O --> 1 AMP + 1 diphosphate + 1 NAD+ + 1 L-glutamate
+cof_nad_2.7.1.23_NAD-KIN-RXN                                                                                    : 1 ATP + 1 NAD+ --> 1 ADP + 1 NADP+
+cof_nad_3.1.4.1_BS73730                                                                                         : 1 NADP+ + 1 H2O --> 1 NAD+ + 1 phosphate
+cof_nad_salvage_2.4.2.11_nicotinate-phosphoribosyltransferase                                                   : 1 diphosphate + 1 nicotinate_D-ribonucleotide <=> 1 5-phospho-alpha-D-ribose_1-diphosphate + 1 nicotinate
+cof_nad_salvage_3.2.2.5_NADNUCLEOSID-RXN                                                                        : 1 NAD+ + 1 H2O --> 1 ADP-ribose + 1 nicotinamide + 1 H+
+cof_nad_salvage_3.6.1.13_RXN0-1441                                                                              : 1 ADP-ribose + 1 H2O --> 1 AMP + 1 D-ribose-5-phosphate
+cof_nad_salvage_4.2.1.136_RXN0-6727                                                                             : 1 ADP + 1 (S)-NADHX --> 1 AMP + 1 NADH + 1 phosphate
+cof_nad_salvage_3.6.1.22_BS141282                                                                               : 1 NADP+ + 1 H2O --> 1 H+ + 1 adenosine_3',5'-bisphosphate + 1 nicotinamide_mononucleotide
+cof_nad_salvage_3.6.1.22_NADPYROPHOSPHAT-RXN                                                                    : 1 H2O + 1 NAD+ --> 1 H+ + 1 nicotinamide_mononucleotide + 1 AMP
+cof_nad_salvage_2.7.7.1_2.7.7.1-RXN                                                                             : 1 ATP + 1 H+ + 1 nicotinamide_mononucleotide --> 1 diphosphate + 1 NAD+
+cof_tetrahydrosulfopterin_archaeosine_3.5.4.16_GTP-CYCLOHYDRO-I-RXN                                             : 1 GTP + 1 H2O --> 1 7,8-dihydroneopterin_triphosphate + 1 formate
+cof_archaeosine_4.1.2.50_RXN0-5507                                                                              : 1 7,8-dihydroneopterin_triphosphate + 1 H2O --> 1 acetaldehyde + 1 6-carboxy-5,6,7,8-tetrahydropterin + 1 PPPi
+cof_archaeosine_4.3.99.3_RXN0-6575                                                                              : 2 H+ + 1 6-carboxy-5,6,7,8-tetrahydropterin + 1 S-adenosyl-L-methionine --> 1 ammonia + 1 5'-deoxyadenosine + 1 7-carboxy-7-deazaguanine + 1 L-methionine
+cof_archaeosine_6.3.4.20_RXN-12093                                                                              : 1 ammonia + 1 ATP + 1 7-carboxy-7-deazaguanine --> 1 preQ0 + 1 ADP + 1 phosphate + 1 H2O
+cof_archaeosine_2.4.2.48_RXN-12144                                                                              : 1 preQ0 + 1 |Guanine15-in-tRNA-with-GUN-anticodon| --> 1 guanine + 1 |tRNA-PreQ0|
+cof_archaeosine_2.6.1.97_RXN-12145                                                                              : 1 L-glutamine + 1 H2O + 1 |tRNA-PreQ0| --> 1 L-glutamate + 1 |tRNA-archaeosine|
+cof_tetrahydrosulfopterin_3.6.1.-_H2NEOPTERINP3PYROPHOSPHOHYDRO-RXN                                             : 1 7,8-dihydroneopterin_triphosphate + 1 H2O --> 1 7,8-dihydroneopterin_3'-phosphate + 1 diphosphate
+cof_tetrahydrosulfopterin_3.6.1.-_DIHYDRONEOPTERIN-MONO-P-DEPHOS-RXN                                            : 1 7,8-dihydroneopterin_3'-phosphate + 1 H2O --> 1 7,8-dihydro-D-neopterin + 1 phosphate
+cof_tetrahydrosulfopterin_neopterin                                                                             : 1 7,8-dihydro-D-neopterin <=> 1 neopterin
+cof_tetrahydrosulfopterin_sulfopterin                                                                           : 1 neopterin <=> 1 sulfopterin
+cof_tetrahydrosulfopterin_1.5.1.3_BS259283                                                                      : 1 H+ + 1 sulfopterin + 2 NADPH <=> 1 tetrahydrosulfopterin + 2 NADP+
+cof_tetrahydrosulfopterin_6.3.3.2_5-FORMYL-THF-CYCLO-LIGASE-RXN                                                 : 1 5-formyl-tetrahydrosulfopterin + 1 ATP --> 1 5,10-methenyltetrahydrosulfopterin + 1 ADP + 1 phosphate
+cof_sulfopterin_6.3.4.3_FORMATETHFLIG-RXN                                                                       : 1 ATP + 1 formate + 1 tetrahydrosulfopterin <=> 1 10-formyl-tetrahydrosulfopterin + 1 ADP + 1 phosphate
+cof_sulfopterin_1.5.1.20_1.5.1.20-RXN                                                                           : 1 5-methyl-tetrahydrosulfopterin + 1 NAD+ <=> 1 5,10-methylenetetrahydrosulfopterin + 1 NADH + 1 H+
+cof_sulfopterin_3.5.1.10_FORMYLTHFDEFORMYL-RXN                                                                  : 1 10-formyl-tetrahydrosulfopterin + 1 H2O --> 1 formate + 1 tetrahydrosulfopterin
+cof_sulfopterin_3.5.4.9_METHENYLTHFCYCLOHYDRO-RXN                                                               : 1 5,10-methenyltetrahydrosulfopterin + 1 H2O <=> 1 10-formyl-tetrahydrosulfopterin
+cof_sulfopterin_2.1.2.10_aminomethyltransferase                                                                 : 1 H2O + 1 5,10-methenyltetrahydrosulfopterin <=> 1 H+ + 1 5-formyl-tetrahydrosulfopterin
+cof_sulfopterin_1.5.1.5_METHYLENETHFDEHYDROG-NADP-RXN                                                           : 1 5,10-methylenetetrahydrosulfopterin + 1 NADP+ <=> 1 H+ + 1 5,10-methenyltetrahydrosulfopterin + 1 NADPH
+cof_sam_2.5.1.6_S-ADENMETSYN-RXN                                                                                : 1 ATP + 1 L-methionine + 1 H2O --> 1 phosphate + 1 diphosphate + 1 S-adenosyl-L-methionine
+cof_sam_3.3.1.1_ADENOSYLHOMOCYSTEINASE-RXN                                                                      : 1 S-adenosyl-L-homocysteine + 1 H2O --> 1 adenosine + 1 L-homocysteine
+cof_f420_RXN-8076                                                                                               : 1 GTP + 1 (S)-lactate --> 1 (2S)-2-phospholactate + 1 GDP
+cof_f420_2.7.7.68_RXN-8077                                                                                      : 1 (2S)-2-phospholactate + 1 GTP --> 1 (2S)-lactyl-2-diphospho-5'-guanosine + 1 diphosphate
+cof_f420_2.5.1.77_RXN-8079                                                                                      : 1 H2O + 2 S-adenosyl-L-methionine + 1 4-hydroxyphenylpyruvate + 1 5-amino-6-(D-ribitylamino)uracil --> 1 ammonium + 2 5'-deoxyadenosine + 1 oxalate + 2 L-methionine + 1 7,8-didemethyl-8-hydroxy-5-deazariboflavin
+cof_f420_2.7.8.28_RXN-8078                                                                                      : 1 (2S)-lactyl-2-diphospho-5'-guanosine + 1 7,8-didemethyl-8-hydroxy-5-deazariboflavin --> 1 factor_F420-0 + 1 GMP
+cof_f420_1.5.98.1_1.5.99.9-RXN                                                                                  : 1 |Oxidized-Factor-F420| + 1 5,10-methylenetetrahydrosulfopterin <=> 1 |Reduced-Factor-F420| + 1 5,10-methenyltetrahydrosulfopterin
+sulf_2.7.7.4_SULFATE-ADENYLYLTRANS-RXN                                                                          : 1 ATP + 1 sulfate <=> 1 adenosine_5'-phosphosulfate + 1 diphosphate
+sulf_2.7.1.25_ADENYLYLSULFKIN-RXN                                                                               : 1 adenosine_5'-phosphosulfate + 1 ATP <=> 1 ADP + 1 phosphoadenosine-5'-phosphosulfate
+sulf_1.8.4.8_1.8.4.8-RXN                                                                                        : 1 adenosine_3',5'-bisphosphate + 1 sulfite + 1 |Ox-Thioredoxin| <=> 2 H+ + 1 phosphoadenosine-5'-phosphosulfate + 1 |Red-Thioredoxin|
+sulf_1.8.1.2_SULFITE-REDUCT-RXN                                                                                 : 1 hydrogen_sulfide + 3 NADP+ + 3 H2O <=> 3 H+ + 3 NADPH + 1 sulfite
+sulf_3.1.3.7_325-BISPHOSPHATE-NUCLEOTIDASE-RXN                                                                  : 1 adenosine_3',5'-bisphosphate + 1 H2O --> 1 AMP + 1 phosphate
+prpp_nuc_cof_nad_2.7.6.1_PRPPSYN-RXN                                                                            : 1 ATP + 1 D-ribose-5-phosphate <=> 1 AMP + 1 5-phospho-alpha-D-ribose_1-diphosphate
+nuc_purin_de-novo_thiamin_2.4.2.14_PRPPAMIDOTRANS-RXN                                                           : 1 5-phospho-beta-D-ribosyl-amine + 1 L-glutamate + 1 diphosphate <-- 1 L-glutamine + 1 5-phospho-alpha-D-ribose_1-diphosphate + 1 H2O
+nuc_purin_de-novo_thiamin_6.3.4.13_GLYRIBONUCSYN-RXN                                                            : 1 5-phospho-beta-D-ribosyl-amine + 1 ATP + 1 glycine --> 1 5-phospho-ribosyl-glycineamide + 1 ADP + 1 phosphate
+nuc_purin_de-novo_thiamin_2.1.2.-_GARTRANSFORMYL2-RXN                                                           : 1 5-phospho-ribosyl-glycineamide + 1 ATP + 1 formate --> 1 5'-phosphoribosyl-N-formylglycineamide + 1 ADP + 1 phosphate
+nuc_purin_de-novo_thiamin_2.1.2.2_GART-RXN                                                                      : 1 10-formyl-tetrahydrosulfopterin + 1 5-phospho-ribosyl-glycineamide <=> 1 5'-phosphoribosyl-N-formylglycineamide + 1 tetrahydrosulfopterin
+nuc_purin_de-novo_thiamin_6.3.5.3_FGAMSYN-RXN                                                                   : 1 5'-phosphoribosyl-N-formylglycineamide + 1 ATP + 1 L-glutamine + 1 H2O --> 1 5-phosphoribosyl-N-formylglycineamidine + 1 ADP + 1 L-glutamate + 1 phosphate
+nuc_purin_de-novo_thiamin_6.3.3.1_AIRS-RXN                                                                      : 1 5-phosphoribosyl-N-formylglycineamidine + 1 ATP --> 1 5-amino-1-(5-phospho-D-ribosyl)imidazole + 1 ADP + 1 phosphate
+nuc_purin_de-novo_4.1.1.21_AIRCARBOXY-RXN                                                                       : 1 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate <=> 1 5-amino-1-(5-phospho-D-ribosyl)imidazole + 1 CO2
+nuc_purin_de-novo_6.3.2.6_SAICARSYN-RXN                                                                         : 1 ATP + 1 L-aspartate + 1 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate --> 1 ADP + 1 5'-phosphoribosyl-4-(N-succinocarboxamide)-5-aminoimidazole + 1 phosphate
+nuc_purin_de-novo_4.3.2.2_AICARSYN-RXN                                                                          : 1 5'-phosphoribosyl-4-(N-succinocarboxamide)-5-aminoimidazole <=> 1 aminoimidazole_carboxamide_ribonucleotide + 1 fumarate
+nuc_purin_de-novo_6.3.4.-_RXN-10066                                                                             : 1 aminoimidazole_carboxamide_ribonucleotide + 1 ATP + 1 formate --> 1 ADP + 1 phosphoribosyl-formamido-carboxamide + 1 phosphate
+nuc_purin_de-novo_3.5.4.10_IMPCYCLOHYDROLASE-RXN                                                                : 1 IMP + 1 H2O <=> 1 phosphoribosyl-formamido-carboxamide
+nuc_purin_de-novo_1.1.1.205_IMP-DEHYDROG-RXN                                                                    : 1 IMP + 1 NAD+ + 1 H2O <=> 1 NADH + 1 H+ + 1 XMP
+nuc_purin_de-novo_6.3.5.2_GMP-SYN-GLUT-RXN                                                                      : 1 ATP + 1 L-glutamine + 1 H2O + 1 XMP --> 1 AMP + 1 L-glutamate + 1 GMP + 1 diphosphate
+nuc_purin_de-novo_6.3.4.4_ADENYLOSUCCINATE-SYNTHASE-RXN                                                         : 1 GTP + 1 IMP + 1 L-aspartate --> 1 adenylo-succinate + 1 GDP + 1 phosphate
+nuc_purin_de-novo_4.3.2.2_AMPSYN-RXN                                                                            : 1 adenylo-succinate <=> 1 AMP + 1 fumarate
+nuc_pyrim_de-novo_2.1.3.2_ASPCARBTRANS-RXN                                                                      : 1 carbamoyl-phosphate + 1 L-aspartate <=> 1 N-carbamoyl-L-aspartate + 1 phosphate
+nuc_pyrim_de-novo_3.5.2.3_DIHYDROOROT-RXN                                                                       : 1 (S)-dihydroorotate + 1 H2O <=> 1 N-carbamoyl-L-aspartate
+nuc_pyrim_de-novo_1.3.5.2_BS413428                                                                              : 1 (S)-dihydroorotate + 1 FMN <=> 1 orotate + 1 FMNH2
+nuc_pyrim_de-novo_1.3.5.2_RXN0-6491                                                                             : 1 (S)-dihydroorotate + 1 representative_quinone --> 1 orotate + 1 representative_quinol
+nuc_pyrim_de-novo_1.3.98.1_BS258661                                                                             : 1 (S)-dihydroorotate + 1 oxygen --> 1 orotate + 1 hydrogen_peroxide
+nuc_pyrim_de-novo_1.3.1.14_BS370137                                                                             : 1 (S)-dihydroorotate + 1 NAD+ <=> 1 orotate + 1 NADH + 1 H+
+nuc_pyrim_de-novo_2.4.2.10_OROPRIBTRANS-RXN                                                                     : 1 orotidine-5'-phosphate + 1 diphosphate <=> 1 orotate + 1 5-phospho-alpha-D-ribose_1-diphosphate
+nuc_pyrim_de-novo_4.1.1.23_OROTPDECARB-RXN                                                                      : 1 orotidine-5'-phosphate --> 1 CO2 + 1 UMP
+nuc_pyrim_de-novo_2.7.4.22_RXN-12002                                                                            : 1 ATP + 1 UMP --> 1 ADP + 1 UDP
+nuc_pyrim_de-novo_2.7.4.22_RXN-14122                                                                            : 1 ATP + 1 dUMP <=> 1 ADP + 1 dUDP
+nuc_pyrim_de-novo_2.7.4.6_UDPKIN-RXN                                                                            : 1 ATP + 1 UDP <=> 1 ADP + 1 UTP
+nuc_pyrim_de-novo_6.3.4.2_CTPSYN-RXN                                                                            : 1 ATP + 1 L-glutamine + 1 UTP + 1 H2O --> 1 ADP + 1 CTP + 1 L-glutamate + 1 phosphate
+nuc_purin_6.3.4.18_RXN0-742                                                                                     : 1 5-amino-1-(5-phospho-D-ribosyl)imidazole + 1 ATP + 1 hydrogen_carbonate --> 1 ADP + 1 N5-carboxyaminoimidazole_ribonucleotide + 1 phosphate
+nuc_purin_5.4.99.18_RXN0-743                                                                                    : 1 N5-carboxyaminoimidazole_ribonucleotide --> 1 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate
+nuc_purin_3.6.5.4_RXN0-5462                                                                                     : 1 GTP + 1 H2O --> 1 GDP + 1 phosphate
+nuc_purin_4.6.1.1_ADENYLATECYC-RXN                                                                              : 1 ATP --> 1 cyclic-AMP + 1 diphosphate
+nuc_purin_salvage_3.5.4.3_GUANINE-DEAMINASE-RXN                                                                 : 1 guanine + 1 H2O --> 1 ammonia + 1 xanthine
+nuc_purin_2.7.4.8_GUANYL-KIN-RXN                                                                                : 1 ATP + 1 GMP --> 1 ADP + 1 GDP
+nuc_purin_3.6.1.15_3.6.3.50-RXN                                                                                 : 1 ATP + 1 H2O --> 1 ADP + 1 phosphate
+nuc_pyrim_3.6.1.15_RXN-12196                                                                                    : 1 UTP + 1 H2O --> 1 phosphate + 1 UDP
+nuc_pyrim_3.1.4.1_BS139757                                                                                      : 1 UTP + 1 H2O --> 1 UMP + 1 diphosphate
+nuc_pyrim_2.7.4.14_RXN-11832                                                                                    : 1 ATP + 1 CMP <=> 1 ADP + 1 CDP
+nuc_pyrim_2.7.4.14_RXN-7913                                                                                     : 1 ATP + 1 dCMP <=> 1 ADP + 1 dCDP
+nuc_pyrim_2.7.4.9_BS359746                                                                                      : 1 ATP + 1 dUMP --> 1 ADP + 1 dUDP
+nuc_pyrim_2.7.4.9_DTMPKI-RXN                                                                                    : 1 ATP + 1 dTMP --> 1 ADP + 1 dTDP
+nuc_pyrim_1.17.4.1_CDPREDUCT-RXN                                                                                : 1 dCDP + 1 H2O + 1 |Ox-Thioredoxin| <-- 2 H+ + 1 CDP + 1 |Red-Thioredoxin|
+nuc_pyrim_1.17.4.1_UDPREDUCT-RXN                                                                                : 1 dUDP + 1 H2O + 1 |Ox-Thioredoxin| <-- 2 H+ + 1 UDP + 1 |Red-Thioredoxin|
+nuc_purin_1.17.4.1_ADPREDUCT-RXN                                                                                : 1 dADP + 1 H2O + 1 |Ox-Thioredoxin| <-- 2 H+ + 1 ADP + 1 |Red-Thioredoxin|
+nuc_purin_1.17.4.1_GDPREDUCT-RXN                                                                                : 1 dGDP + 1 H2O + 1 |Ox-Thioredoxin| <-- 2 H+ + 1 GDP + 1 |Red-Thioredoxin|
+nuc_pyrim_3.5.4.13_DCTP-DEAM-RXN                                                                                : 1 dCTP + 1 H2O --> 1 ammonia + 1 dUTP
+nuc_pyrim_3.5.4.13_RXN-14118                                                                                    : 1 CTP + 1 H2O --> 1 UTP + 1 ammonium
+nuc_pyrim_2.7.4.6_DCDPKIN-RXN                                                                                   : 1 ATP + 1 dCDP <=> 1 ADP + 1 dCTP
+nuc_pyrim_2.7.4.6_DTDPKIN-RXN                                                                                   : 1 ATP + 1 dTDP <=> 1 ADP + 1 dTTP
+nuc_pyrim_2.7.4.6_DUDPKIN-RXN                                                                                   : 1 ATP + 1 dUDP <=> 1 ADP + 1 dUTP
+nuc_pyrim_2.7.4.6_GDPKIN-RXN                                                                                    : 1 ATP + 1 GDP <=> 1 ADP + 1 GTP
+nuc_purin_2.7.4.6_RXN-14120                                                                                     : 1 ATP + 1 IDP <=> 1 ITP + 1 ADP
+nuc_purin_2.7.4.6_DADPKIN-RXN                                                                                   : 1 ATP + 1 dADP <=> 1 ADP + 1 dATP
+nuc_purin_2.7.4.6_DGDPKIN-RXN                                                                                   : 1 ATP + 1 dGDP <=> 1 ADP + 1 dGTP
+nuc_purin_2.7.4.3_R01547                                                                                        : 1 ATP + 1 dAMP <=> 1 ADP + 1 dADP
+nuc_purin_2.7.4.3_ADENYL-KIN-RXN                                                                                : 1 AMP + 1 ATP <=> 2 ADP
+nuc_pyrim_3.6.1.19_RXN-12195                                                                                    : 1 CTP + 1 H2O --> 1 CDP + 1 phosphate
+nuc_pyrim_3.6.1.19_BS141286                                                                                     : 1 UDP + 1 H2O --> 1 UMP + 1 phosphate
+nuc_pyrim_3.6.1.19_BS141301                                                                                     : 1 dUDP + 1 H2O --> 1 dUMP + 1 phosphate
+nuc_pyrim_3.6.1.19_BS141340                                                                                     : 1 dUTP + 1 H2O --> 1 dUDP + 1 phosphate
+nuc_purin_3.6.1.19_BS359054                                                                                     : 1 XTP + 1 H2O --> 1 XDP + 1 phosphate
+nuc_purin_3.6.1.19_BS373042                                                                                     : 1 dGTP + 1 H2O --> 1 dGDP + 1 phosphate
+nuc_purin_3.6.1.19_BS384566                                                                                     : 1 dADP + 1 H2O --> 1 dAMP + 1 phosphate
+nuc_pyrim_3.6.1.19_BS384570                                                                                     : 1 dCDP + 1 H2O --> 1 dCMP + 1 phosphate
+nuc_purin_3.6.1.19_BS384600                                                                                     : 1 dGDP + 1 H2O --> 1 dGMP + 1 phosphate
+nuc_purin_3.6.1.19_BS402613                                                                                     : 1 dITP + 1 H2O --> 1 dIDP + 1 phosphate
+nuc_purin_3.6.1.19_RXN-14214                                                                                    : 1 dATP + 1 H2O --> 1 dADP + 1 phosphate
+nuc_pyrim_3.6.1.19_RXN-14216                                                                                    : 1 dCTP + 1 H2O --> 1 dCDP + 1 phosphate
+nuc_purin_3.6.1.19_RXN0-5462                                                                                    : 1 GTP + 1 H2O --> 1 GDP + 1 phosphate
+nuc_pyrim_3.6.1.19_BS93276                                                                                      : 1 CDP + 1 H2O --> 1 CMP + 1 phosphate
+nuc_pyrim_3.6.1.15_RXN-12195                                                                                    : 1 CTP + 1 H2O --> 1 CDP + 1 phosphate
+nuc_pyrim_3.6.1.15_BS141286                                                                                     : 1 UDP + 1 H2O --> 1 UMP + 1 phosphate
+nuc_pyrim_3.6.1.15_BS141301                                                                                     : 1 dUDP + 1 H2O --> 1 dUMP + 1 phosphate
+nuc_pyrim_3.6.1.15_BS141340                                                                                     : 1 dUTP + 1 H2O --> 1 dUDP + 1 phosphate
+nuc_purin_3.6.1.15_BS359054                                                                                     : 1 XTP + 1 H2O --> 1 XDP + 1 phosphate
+nuc_purin_3.6.1.15_BS373042                                                                                     : 1 dGTP + 1 H2O --> 1 dGDP + 1 phosphate
+nuc_purin_3.6.1.15_BS384566                                                                                     : 1 dADP + 1 H2O --> 1 dAMP + 1 phosphate
+nuc_pyrim_3.6.1.15_BS384570                                                                                     : 1 dCDP + 1 H2O --> 1 dCMP + 1 phosphate
+nuc_purin_3.6.1.15_BS384600                                                                                     : 1 dGDP + 1 H2O --> 1 dGMP + 1 phosphate
+nuc_purin_3.6.1.15_BS402613                                                                                     : 1 dITP + 1 H2O --> 1 dIDP + 1 phosphate
+nuc_purin_3.6.1.15_RXN-14214                                                                                    : 1 dATP + 1 H2O --> 1 dADP + 1 phosphate
+nuc_pyrim_3.6.1.15_RXN-14216                                                                                    : 1 dCTP + 1 H2O --> 1 dCDP + 1 phosphate
+nuc_purin_3.6.1.15_RXN0-5462                                                                                    : 1 GTP + 1 H2O --> 1 GDP + 1 phosphate
+nuc_pyrim_3.6.1.15_BS93276                                                                                      : 1 CDP + 1 H2O --> 1 CMP + 1 phosphate
+nuc_pyrim_2.1.1.148_RXN-8850                                                                                    : 1 dUMP + 1 5,10-methylenetetrahydrosulfopterin + 1 NADPH + 1 H+ --> 1 NADP+ + 1 tetrahydrosulfopterin + 1 dTMP
+nuc_pyrim_2.7.4.9_BR48071                                                                                       : 1 ATP + 1 UMP --> 1 ADP + 1 UDP
+nuc_pyrim_2.7.4.6_CDPKIN-RXN                                                                                    : 1 ATP + 1 CDP <=> 1 ADP + 1 CTP
+nuc_purin_2.7.4.6_RXN-14074                                                                                     : 1 GDP + 1 ADP <=> 1 GTP + 1 AMP
+nuc_purin_2.7.4.6_RXN-14228                                                                                     : 1 ATP + 1 dIDP <=> 1 ADP + 1 dITP
+nuc_pyrim_2.7.4.14_RXN-12002                                                                                    : 1 ATP + 1 UMP <=> 1 ADP + 1 UDP
+nuc_pyrim_2.7.4.14_RXN-14122                                                                                    : 1 ATP + 1 dUMP <=> 1 ADP + 1 dUDP
+nuc_purin_2.7.4.3_BS358184                                                                                      : 1 GTP + 1 AMP <=> 1 GDP + 1 ADP
+nuc_purin_2.7.4.3_BS358244                                                                                      : 1 ATP + 1 CDP <=> 1 ADP + 1 CTP
+nuc_purin_2.7.4.3_BS358245                                                                                      : 1 ATP + 1 dCDP <=> 1 ADP + 1 dCTP
+nuc_purin_2.7.4.3_BS359742                                                                                      : 1 ATP + 1 CMP <=> 1 ADP + 1 CDP
+nuc_pyrim_3.6.1.3_BS141341                                                                                      : 1 dCTP + 1 H2O --> 1 dCDP + 1 phosphate
+nuc_purin_3.6.1.3_3.6.3.50-RXN                                                                                  : 1 ATP + 1 H2O --> 1 ADP + 1 phosphate
+nuc_2.7.4.3_BS358186                                                                                            : 1 UTP + 1 AMP <=> 1 UDP + 1 ADP
+nuc_purin_salvage_2.4.2.1_ADENPHOSPHOR-RXN                                                                      : 1 adenosine + 1 phosphate <=> 1 adenine + 1 alpha-D-ribose-1-phosphate
+nuc_purin_salvage_2.4.2.1_RXN0-5199                                                                             : 1 guanosine + 1 phosphate <=> 1 guanine + 1 alpha-D-ribose-1-phosphate
+nuc_purin_salvage_2.4.2.1_DEOXYADENPHOSPHOR-RXN                                                                 : 1 deoxyadenosine + 1 phosphate <=> 1 adenine + 1 2-deoxy-alpha-D-ribose_1-phosphate
+nuc_purin_salvage_2.4.2.1_DEOXYGUANPHOSPHOR-RXN                                                                 : 1 deoxyguanosine + 1 phosphate <=> 1 2-deoxy-alpha-D-ribose_1-phosphate + 1 guanine
+nuc_purin_salvage_2.4.2.1_deoxyuridine                                                                          : 1 phosphate + 1 deoxyuridine <=> 1 2-deoxy-alpha-D-ribose_1-phosphate + 1 uracil
+nuc_purin_salvage_3.2.2.1_xanthosine                                                                            : 1 xanthosine + 1 H2O --> 1 xanthine + 1 alpha-D-ribofuranose
+nuc_purin_salvage_2.4.2.22_XANPRIBOSYLTRAN-RXN                                                                  : 1 diphosphate + 1 XMP <-- 1 5-phospho-alpha-D-ribose_1-diphosphate + 1 xanthine
+nuc_purin_salvage_2.4.2.7_BS354829                                                                              : 1 5-phospho-alpha-D-ribose_1-diphosphate + 1 guanine --> 1 GMP + 1 diphosphate
+nuc_purin_salvage_2.4.2.7_ADENPRIBOSYLTRAN-RXN                                                                  : 1 AMP + 1 diphosphate <-- 1 adenine + 1 5-phospho-alpha-D-ribose_1-diphosphate
+nuc_purin_salvage_2.4.2.8_R00190                                                                                : 1 AMP + 1 diphosphate <-- 1 adenine + 1 5-phospho-alpha-D-ribose_1-diphosphate
+nuc_purin_salvage_2.4.2.8_R02142                                                                                : 1 XMP + 1 diphosphate <-- 1 xanthine + 1 5-phospho-alpha-D-ribose_1-diphosphate
+nuc_purin_salvage_2.4.2.8_GUANPRIBOSYLTRAN-RXN                                                                  : 1 GMP + 1 diphosphate <-- 1 guanine + 1 5-phospho-alpha-D-ribose_1-diphosphate
+nuc_purin_salvage_2.4.2.8_HYPOXANPRIBOSYLTRAN-RXN                                                               : 1 IMP + 1 diphosphate <-- 1 hypoxanthine + 1 5-phospho-alpha-D-ribose_1-diphosphate
+nuc_purin_salvage_2.4.2.28_RXN-14304                                                                            : 1 5'-deoxyadenosine + 1 phosphate <=> 1 5-deoxy-alpha-ribose_1-phosphate + 1 adenine
+nuc_purin_salvage_3.1.3.5_AMP-DEPHOSPHORYLATION-RXN                                                             : 1 AMP + 1 H2O --> 1 adenosine + 1 phosphate
+nuc_purin_salvage_3.1.3.5_XMPXAN-RXN                                                                            : 1 H2O + 1 XMP --> 1 phosphate + 1 xanthosine
+nuc_purin_salvage_3.1.3.5_BS64635                                                                               : 1 dGMP + 1 H2O --> 1 deoxyguanosine + 1 phosphate
+nuc_pyrim_salvage_cof_beta-ala_coa_3.1.3.5_RXN-14025                                                            : 1 UMP + 1 H2O --> 1 uridine + 1 phosphate
+nuc_pyrim_salvage_3.1.3.5_RXN-14026                                                                             : 1 CMP + 1 H2O --> 1 cytidine + 1 phosphate
+nuc_purin_salvage_3.1.3.5_RXN-7607                                                                              : 1 IMP + 1 H2O --> 1 inosine + 1 phosphate
+nuc_purin_salvage_3.1.3.5_RXN-7609                                                                              : 1 GMP + 1 H2O --> 1 guanosine + 1 phosphate
+nuc_purin_salvage_3.1.3.5_dTMP                                                                                  : 1 dTMP + 1 H2O --> 1 thymidine + 1 phosphate
+nuc_purin_salvage_3.1.3.5_dUMP                                                                                  : 1 dUMP + 1 H2O --> 1 deoxyuridine + 1 phosphate
+nuc_purin_salvage_3.1.3.5_dAMP                                                                                  : 1 dAMP + 1 H2O --> 1 deoxyadenosine + 1 phosphate
+nuc_pyrim_salvage_1.3.1.1_RXN0-6565                                                                             : 1 5,6-dihydrothymine + 1 NAD+ <=> 1 NADH + 1 H+ + 1 thymine
+nuc_pyrim_salvage_3.5.2.2_RXN-11211                                                                             : 1 5,6-dihydrothymine + 1 H2O --> 1 3-ureido-isobutyrate
+nuc_pyrim_salvage_3.5.1.6_RXN-11210                                                                             : 1 3-ureido-isobutyrate + 1 H2O --> 1 ammonia + 1 CO2 + 1 (R)-3-amino-2-methylpropanoate
+nuc_pyrim_salvage_cof_beta-ala_coa_1.3.1.1_DIHYDROURACIL-DEHYDROGENASE-NAD+-RXN                                 : 1 5,6-dihydrouracil + 1 NAD+ <=> 1 NADH + 1 H+ + 1 uracil
+nuc_pyrim_salvage_cof_beta-ala_coa_3.5.2.2_DIHYDROPYRIMIDINASE-RXN                                              : 1 5,6-dihydrouracil + 1 H2O --> 1 3-ureidopropionate
+nuc_pyrim_salvage_cof_beta-ala_coa_3.5.1.6_BETA-UREIDOPROPIONASE-RXN                                            : 1 3-ureidopropionate + 1 H2O --> 1 ammonia + 1 beta-alanine + 1 CO2
+nuc_pyrim_salvage_3.5.4.1_CYTDEAM-RXN                                                                           : 1 cytosine + 1 H2O --> 1 ammonia + 1 uracil
+nuc_pyrim_salvage_cof_beta-ala_coa_3.2.2.3_uridine                                                              : 1 uridine + 1 H2O --> 1 uracil + 1 alpha-D-ribofuranose
+nuc_pyrim_salvage_2.4.2.9_URACIL-PRIBOSYLTRANS-RXN                                                              : 1 diphosphate + 1 UMP <=> 1 5-phospho-alpha-D-ribose_1-diphosphate + 1 uracil
+nuc_purin_salvage_2.4.2.1_INOPHOSPHOR-RXN                                                                       : 1 inosine + 1 phosphate <=> 1 hypoxanthine + 1 alpha-D-ribose-1-phosphate
+nuc_purin_salvage_1.17.1.4_RXN-7682                                                                             : 1 hypoxanthine + 1 NAD+ + 1 H2O --> 1 NADH + 1 H+ + 1 xanthine
+nuc_purin_degra-nuc_1.17.1.4_RXN0-901                                                                           : 1 NAD+ + 1 xanthine + 1 H2O <=> 1 H+ + 1 urate + 1 NADH
+nuc_purin_salvage_2.4.2.1_XANTHOSINEPHOSPHORY-RXN                                                               : 1 phosphate + 1 xanthosine <=> 1 alpha-D-ribose-1-phosphate + 1 xanthine
+nuc_purin_salvage_2.4.2.1_DEOXYINOPHOSPHOR-RXN                                                                  : 1 deoxyinosine + 1 phosphate <=> 1 2-deoxy-alpha-D-ribose_1-phosphate + 1 hypoxanthine
+nuc_pyrim_salvage_3.2.2.3_BS214506                                                                              : 1 xanthosine + 1 H2O --> 1 beta-D-ribopyranose + 1 xanthine
+nuc_pyrim_salvage_3.2.2.3_RXN0-361                                                                              : 1 cytidine + 1 H2O --> 1 cytosine + 1 alpha-D-ribofuranose
+nuc_purin_salvage_3.2.2.8_R01245                                                                                : 1 adenosine + 1 H2O --> 1 adenine + 1 beta-D-ribopyranose
+nuc_purin_salvage_3.2.2.8_R01677                                                                                : 1 guanosine + 1 H2O --> 1 guanine + 1 beta-D-ribopyranose
+nuc_purin_salvage_3.2.2.8_R01770                                                                                : 1 inosine + 1 H2O --> 1 hypoxanthine + 1 beta-D-ribopyranose
+nuc_pyrim_salvage_3.2.2.8_R02137                                                                                : 1 cytidine + 1 H2O --> 1 cytosine + 1 beta-D-ribopyranose
+nuc_purin_salvage_3.1.3.5_BS73810                                                                               : 1 ADP + 1 H2O --> 1 adenosine + 1 diphosphate
+nuc_pyrim_salvage_3.1.3.5_BS364579                                                                              : 1 dCMP + 1 H2O --> 1 deoxycytidine + 1 phosphate
+nuc_salvage_5.4.2.7_PPENTOMUT-RXN                                                                               : 1 alpha-D-ribose-1-phosphate <=> 1 D-ribose-5-phosphate
+nuc_salvage_5.4.2.7_D-PPENTOMUT-RXN                                                                             : 1 2-deoxy-alpha-D-ribose_1-phosphate <=> 1 2-deoxy-alpha-D-ribose_5-phosphate
+nuc_salvage_4.1.2.4_DEOXYRIBOSE-P-ALD-RXN                                                                       : 1 2-deoxy-alpha-D-ribose_5-phosphate <=> 1 acetaldehyde + 1 D-glyceraldehyde-3-phosphate
+isoprenoids_2.3.3.10_HYDROXYMETHYLGLUTARYL-COA-SYNTHASE-RXN                                                     : 1 acetoacetyl-CoA + 1 acetyl-CoA + 1 H2O --> 1 (S)-3-hydroxy-3-methylglutaryl-CoA + 1 coenzyme_A
+isoprenoids_1.1.1.34_1.1.1.34-RXN                                                                               : 1 coenzyme_A + 1 (R)-mevalonate + 2 NADP+ <=> 1 (S)-3-hydroxy-3-methylglutaryl-CoA + 2 NADPH + 2 H+
+isoprenoids_2.7.1.36_MEVALONATE-KINASE-RXN                                                                      : 1 ATP + 1 (R)-mevalonate --> 1 ADP + 1 mevalonate-5-phosphate
+isoprenoids_2.7.4.2_PHOSPHOMEVALONATE-KINASE-RXN                                                                : 1 ATP + 1 mevalonate-5-phosphate --> 1 ADP + 1 mevalonate-diphosphate
+isoprenoids_4.1.1.33_DIPHOSPHOMEVALONTE-DECARBOXYLASE-RXN                                                       : 1 ATP + 1 mevalonate-diphosphate --> 1 ADP + 1 CO2 + 1 isopentenyl_diphosphate + 1 phosphate
+isoprenoids_2.7.4.26_RXN-10068                                                                                  : 1 ATP + 1 isopentenyl_phosphate --> 1 ADP + 1 isopentenyl_diphosphate
+isoprenoids_5.3.3.2_IPPISOM-RXN                                                                                 : 1 isopentenyl_diphosphate <=> 1 dimethylallyl_diphosphate
+isoprenoids_2.5.1.1_GPPSYN-RXN                                                                                  : 1 dimethylallyl_diphosphate + 1 isopentenyl_diphosphate <=> 1 geranyl_diphosphate + 1 diphosphate
+isoprenoids_2.5.1.10_FPPSYN-RXN                                                                                 : 1 isopentenyl_diphosphate + 1 geranyl_diphosphate <=> 1 (2E,6E)-farnesyl_diphosphate + 1 diphosphate
+isoprenoids_2.5.1.29_FARNESYLTRANSTRANSFERASE-RXN                                                               : 1 isopentenyl_diphosphate + 1 (2E,6E)-farnesyl_diphosphate --> 1 geranylgeranyl_diphosphate + 1 diphosphate
+isoprenoids_1.3.99.34_geranylgeranyl-reductase-partial-reduction                                                : 1 phytyl_diphosphate + 3 NAD+ <=> 3 H+ + 3 NADH + 1 geranylgeranyl_diphosphate
+isoprenoids_1.3.99.34_geranylgeranyl-reductase-full-reduction                                                   : 1 phytanyl_diphosphate + 4 NAD+ <=> 4 H+ + 4 NADH + 1 geranylgeranyl_diphosphate
+terpene_2.5.1.82_RXN-11485                                                                                      : 2 isopentenyl_diphosphate + 1 geranylgeranyl_diphosphate <=> 1 all-trans-hexaprenyl_diphosphate + 2 diphosphate
+terpene_2.5.1.89_RXN-11488                                                                                      : 7 isopentenyl_diphosphate + 1 geranylgeranyl_diphosphate <=> 7 diphosphate + 1 tri-trans,hepta-cis-undecaprenyl_diphosphate
+lipids_1.1.1.261_1.1.1.261-RXN_NAD                                                                              : 1 sn-glycerol-1-phosphate + 1 NAD+ <-- 1 dihydroxyacetone_phosphate + 1 H+ + 1 NADH
+lipids_1.1.1.261_1.1.1.261-RXN_NADP                                                                             : 1 sn-glycerol-1-phosphate + 1 NADP+ <-- 1 dihydroxyacetone_phosphate + 1 H+ + 1 NADPH
+lipids_2.5.1.41_2.5.1.41-RXN                                                                                    : 1 geranylgeranyl_diphosphate + 1 sn-glycerol-1-phosphate --> 1 diphosphate + 1 sn-3-O-(geranylgeranyl)glyceryl_1-phosphate
+lipids_2.5.1.42_2.5.1.42-RXN                                                                                    : 1 geranylgeranyl_diphosphate + 1 sn-3-O-(geranylgeranyl)glyceryl_1-phosphate --> 1 2,3-bis-O-(geranylgeranyl)glycerol_1-phosphate + 1 diphosphate
+lipids_1.3.99.34_RXN-14399                                                                                      : 1 2,3-bis-O-phytanyl-sn-glycerol_1-phosphate + 8 NAD+ <-- 8 H+ + 8 NADH + 1 2,3-bis-O-(geranylgeranyl)glycerol_1-phosphate
+lipids_2.7.7.67_RXN-14400                                                                                       : 1 CTP + 1 2,3-bis-O-phytanyl-sn-glycerol_1-phosphate + 1 H+ --> 1 diphosphate + 1 saturated_CDP-archaeol
+lipids_hydroxyarchaeol                                                                                          : 1 2,3-bis-O-phytanyl-sn-glycerol_1-phosphate + 1 H2O --> 1 2,3-bis-O-phytanyl-sn-glycerol + 1 phosphate
+lipids_calditol01                                                                                               : 1 beta-D-glucose <=> 1 L-xylo-3-hexulose
+lipids_calditol02                                                                                               : 1 L-xylo-3-hexulose <=> 1 (2R,3S)-2,3,4,5,6-pentahydroxyhexanal
+lipids_calditol03                                                                                               : 1 (2R,3S)-2,3,4,5,6-pentahydroxyhexanal + 1 NAD+ <=> 1 H+ + 1 NADH + 1 (2R,3S,4S,5R)-2,3,4,5-tetrahydroxy-2-(hydroxymethyl)cyclopentan-1-one
+lipids_calditol04                                                                                               : 1 (2R,3S,4S,5R)-2,3,4,5-tetrahydroxy-2-(hydroxymethyl)cyclopentan-1-one + 1 NADH + 1 H+ <=> 1 NAD+ + 1 calditol
+lipids_calditol05                                                                                               : 1 calditol + 1 ATP --> 1 calditol_phosphate + 1 ADP
+lipids_calditol06                                                                                               : 1 calditol_phosphate + 1 UTP --> 1 diphosphate + 1 UDP-calditol
+lipids_myo-inositol_5.5.1.4_MYO-INOSITOL-1-PHOSPHATE-SYNTHASE-RXN                                               : 1 beta-D-glucose-6-phosphate --> 1 1D-myo-inositol_(3)-monophosphate
+lipids_myo-inositol_3.1.3.25_MYO-INOSITOL-1OR-4-MONOPHOSPHATASE-RXN                                             : 1 1D-myo-inositol_(3)-monophosphate + 1 H2O --> 1 myo-inositol + 1 phosphate
+lipids_2.7.8.39_RXN-14403                                                                                       : 1 saturated_CDP-archaeol + 1 1D-myo-inositol_(3)-monophosphate --> 1 CMP + 1 saturated_archaetidylinositol_phosphate
+lipids_RXN-14404                                                                                                : 1 saturated_archaetidylinositol_phosphate + 1 H2O --> 1 phosphate + 1 saturated_archaetidylinositol
+lipids_caldarchaeol-phospholipid-condensation01                                                                 : 1 saturated_archaetidylinositol + 1 2,3-bis-O-phytanyl-sn-glycerol + 1 NADPH + 1 H+ --> 1 saturated_inositolcaldarchaeol + 1 NADP+
+lipids_2.7.8.8_2.7.8.38_RXN-14405                                                                               : 1 saturated_CDP-archaeol + 1 L-serine --> 1 CMP + 1 saturated_archaetidylserine
+lipids_RXN-14406                                                                                                : 1 saturated_archaetidylserine --> 1 CO2 + 1 saturated_archaetidylethanolamine
+lipids_2.7.8.-_saturated-archaetidylglycerolphosphate-synthase                                                  : 1 sn-glycerol-1-phosphate + 1 saturated_CDP-archaeol <=> 1 H+ + 1 saturated_archaetidylglycerolphosphate + 1 CMP
+lipids_3.1.3.-_saturated-archaetidylglycerolphosphate-phosphatase                                               : 1 saturated_archaetidylglycerolphosphate + 1 H2O --> 1 saturated_archaetidylglycerol + 1 phosphate
+lipids_glycolipid01                                                                                             : 1 2,3-bis-O-phytanyl-sn-glycerol + 1 UDP-alpha-D-galactose --> 1 saturated_archaetidylgalactose + 1 UDP
+lipids_glycolipid02                                                                                             : 1 saturated_archaetidylgalactose + 1 UDP-alpha-D-glucose --> 1 saturated_archaetidylgalactosylglucose + 1 UDP
+lipids_caldarchaeol-glycolipid-condensation01                                                                   : 1 saturated_archaetidylgalactosylglucose + 1 2,3-bis-O-phytanyl-sn-glycerol + 1 NADPH + 1 H+ --> 1 saturated_glycolipidcaldarchaeol + 1 NADP+
+lipids_sulfocaldarchaeol                                                                                        : 1 saturated_glycolipidcaldarchaeol + 1 phosphoadenosine-5'-phosphosulfate --> 1 H+ + 1 adenosine_3',5'-bisphosphate + 1 saturated_sulfoglycolipidcaldarchaeol
+lipids_glycolipid03                                                                                             : 1 2,3-bis-O-phytanyl-sn-glycerol + 1 UDP-calditol --> 1 saturated_archaetidylcalditol + 1 UDP
+lipids_glycolipid04                                                                                             : 1 saturated_archaetidylcalditol + 1 UDP-alpha-D-glucose --> 1 saturated_archaetidylcalditylglucose + 1 UDP
+lipids_caldarchaeol-glycolipid-condensation02                                                                   : 1 saturated_archaetidylcalditylglucose + 1 2,3-bis-O-phytanyl-sn-glycerol + 1 NADPH + 1 H+ --> 1 saturated_calditolcaldarchaeol + 1 NADP+
+lipids_caldarchaeol-inositol-glycolipid-condensation01                                                          : 1 saturated_archaetidylgalactosylglucose + 1 saturated_archaetidylinositol + 1 NADPH + 1 H+ --> 1 saturated_inositolglycolipidcaldarchaeol + 1 NADP+
+lipids_caldarchaeol-inositol-glycolipid-condensation02                                                          : 1 saturated_archaetidylcalditylglucose + 1 saturated_archaetidylinositol + 1 NADPH + 1 H+ --> 1 saturated_inositolcalditolcaldarchaeol + 1 NADP+
+carotenoids_2.5.1.32_2.5.1.32-RXN                                                                               : 2 geranylgeranyl_diphosphate --> 1 prephytoene_diphosphate + 1 diphosphate
+carotenoids_2.5.1.99_RXNARA-8002                                                                                : 1 prephytoene_diphosphate --> 1 15-cis-phytoene + 1 diphosphate
+carotenoids_1.3.99.31_RXN-12414                                                                                 : 1 15-cis-phytoene + 4 NAD+ + 4 H+ <=> 1 all-trans-lycopene + 4 NADH
+carotenoids_5.5.1.19_BS415669                                                                                   : 1 all-trans-lycopene <=> 1 beta-carotene
+carotenoids_1.14.13.129_RXN1F-152                                                                               : 1 beta-carotene + 2 NADH + 2 oxygen + 2 H+ <=> 1 zeaxanthin + 2 NAD+ + 2 H2O
+carb_eps_2.6.1.16_L-GLN-FRUCT-6-P-AMINOTRANS-RXN                                                                : 1 D-fructose-6-phosphate + 1 L-glutamine --> 1 alpha-D-glucosamine-6-phosphate + 1 L-glutamate
+carb_eps_5.4.2.10_5.4.2.10-RXN                                                                                  : 1 D-glucosamine_1-phosphate <=> 1 alpha-D-glucosamine-6-phosphate
+carb_eps_2.3.1.157_2.3.1.157-RXN                                                                                : 1 acetyl-CoA + 1 D-glucosamine_1-phosphate --> 1 coenzyme_A + 1 N-acetyl-alpha-D-glucosamine_1-phosphate
+carb_eps_2.7.7.23_NAG1P-URIDYLTRANS-RXN                                                                         : 1 N-acetyl-alpha-D-glucosamine_1-phosphate + 1 UTP --> 1 diphosphate + 1 UDP-alpha-N-acetyl-D-glucosamine
+polyamines_4.1.1.50_SAMDECARB-RXN                                                                               : 1 H+ + 1 S-adenosyl-L-methionine --> 1 CO2 + 1 S-adenosyl-L-methioninamine
+polyamines_4.1.1.19_ARGDECARBOX-RXN                                                                             : 1 L-arginine --> 1 agmatine + 1 CO2
+polyamines_3.5.3.11_AGMATIN-RXN                                                                                 : 1 agmatine + 1 H2O --> 1 putrescine + 1 urea
+polyamines_2.5.1.16_SPERMIDINESYN-RXN                                                                           : 1 putrescine + 1 S-adenosyl-L-methioninamine <=> 1 S-methyl-5'-thioadenosine + 1 H+ + 1 spermidine
+polyamines_2.4.2.28_5-METHYLTHIOADENOSINE-PHOSPHORYLASE-RXN                                                     : 1 S-methyl-5'-thioadenosine + 1 phosphate --> 1 adenine + 1 S-methyl-5-thio-alpha-D-ribose_1-phosphate
+polyamines_2.6.1.-_2.6.1.76_R101-RXN                                                                            : 1 L-2,4-diaminobutanoate + 1 2-oxoglutarate <=> 1 L-glutamate + 1 L-aspartate-semialdehyde
+polyamines_4.1.1.86_4.1.1.86-RXN                                                                                : 1 L-2,4-diaminobutanoate --> 1 CO2 + 1 propane-1,3-diamine
+polyamines_2.5.1.23_SYM-NORSPERMIDINE-SYNTHASE-RXN                                                              : 1 propane-1,3-diamine + 1 S-adenosyl-L-methioninamine <=> 1 norspermidine + 1 S-methyl-5'-thioadenosine + 1 H+
+polyamines_2.5.1.126_RXN-15698                                                                                  : 1 norspermidine + 1 S-adenosyl-L-methioninamine <=> 1 norspermine + 1 H+ + 1 S-methyl-5'-thioadenosine
+redox_1.5.1.36_FMNREDUCT-RXN_NAD                                                                                : 1 FMNH2 + 1 NAD+ <=> 1 H+ + 1 FMN + 1 NADH
+redox_1.5.1.36_RXN-13750_WOP                                                                                    : 1 FADH2 + 1 NAD+ <=> 2 H+ + 1 NADH + 1 FAD
+redox_1.8.1.9_THIOREDOXIN-REDUCT-NADPH-RXN                                                                      : 1 H+ + 1 NADP+ + 1 |Red-Thioredoxin| <=> 1 NADPH + 1 |Ox-Thioredoxin|
+redox_1.8.1.14_COA-DISULFIDE-REDUCTASE-NADH-RXN_NAD                                                             : 2 coenzyme_A + 1 NAD+ <-- 1 CoA-disulfide + 1 H+ + 1 NADH
+redox_1.8.1.14_COA-DISULFIDE-REDUCTASE-NADH-RXN_NADP                                                            : 2 coenzyme_A + 1 NADP+ <-- 1 CoA-disulfide + 1 H+ + 1 NADPH
+redox_1.18.1.3_FERREDOXIN--NAD+-REDUCTASE-RXN                                                                   : 1 NAD+ + 1 H+ + 2 |Reduced-ferredoxins| <=> 1 NADH + 2 |Oxidized-ferredoxins|
+conversion_4.2.1.1_RXN0-5224                                                                                    : 1 hydrogen_carbonate + 1 H+ <=> 1 CO2 + 1 H2O
+superoxide_1.11.1.1_NADH-PEROXIDASE-RXN                                                                         : 1 hydrogen_peroxide + 1 NADH + 1 H+ --> 1 NAD+ + 2 H2O
+superoxide_1.11.1.15_BS373387                                                                                   : 1 hydrogen_peroxide + 2 |Reduced-ferredoxins| --> 2 H2O + 2 |Oxidized-ferredoxins|
+superoxide_1.15.1.1_SUPEROX-DISMUT-RXN                                                                          : 2 H+ + 2 superoxide --> 1 hydrogen_peroxide + 1 oxygen
+superoxide_1.6.3.1_RXN-10745_NAD                                                                                : 1 oxygen + 1 H+ + 1 NADH --> 1 hydrogen_peroxide + 1 NAD+
+superoxide_1.6.3.1_RXN-10745_NADP                                                                               : 1 oxygen + 1 H+ + 1 NADPH --> 1 hydrogen_peroxide + 1 NADP+
+hydrolysis_3.6.1.1_BS383385                                                                                     : 2 H2O + 1 PPPi --> 3 phosphate
+hydrolysis_3.6.1.1_INORGPYROPHOSPHAT-RXN                                                                        : 1 diphosphate + 1 H2O --> 2 phosphate
+prot_prot-acetate                                                                                               : 1 acetic_acid --> 1 H+ + 1 acetate
+prot_prot-glutamate                                                                                             : 1 L-glutamic_acid --> 1 H+ + 1 L-glutamate
+prot_prot-hydrogen_carbonate                                                                                    : 1 carbonic_acid --> 1 hydrogen_carbonate + 1 H+
+prot_prot-phosphate                                                                                             : 1 dihydrogen_phosphate --> 1 phosphate + 2 H+
+prot_prot-citrate                                                                                               : 1 citric_acid --> 1 citrate + 3 H+
+prot_prot-succinate                                                                                             : 1 succinic_acid --> 1 succinate + 2 H+
+prot_prot-lactate                                                                                               : 1 (S)-lactic_acid --> 1 (S)-lactate + 1 H+
+carb_degra-arabinan_unknown-arabinan-hydrolase-extra                                                            : 1 Arabinan_ex + 1 H2O --> 1 L-arabinobiose_ex
+carb_degra-cellulose_3.2.1.4_cellulase-extra                                                                    : 1 cellulose_ex + 1 H2O --> 1 cellobiose_ex
+carb_degra-glycogen_3.2.1.1_3.2.1.3_glycogen-hydrolase-extra                                                    : 1 glycogen_ex + 0.4 H2O --> 0.4 beta-maltose_ex + 0.4 maltotriose_ex
+carb_degra-starch_3.2.1.1_3.2.1.3_starch-hydrolase-extra                                                        : 1 starch_ex + 0.4 H2O --> 0.4 beta-maltose_ex + 0.4 maltotriose_ex
+carb_degra-xylan_3.2.1.8_unknown-xylan-hydrolase-extra                                                          : 1 xylan_ex --> 1 (1,4)-beta-xylobiose_ex
+carb_degra-melezitose_melezitose-thermal-hydrolyzation                                                          : 1 melezitose_ex + 1 H2O --> 1 turanose_ex + 1 beta-D-glucose_ex
+carb_degra-glycogen_2.4.1.1_GLYCOPHOSPHORYL-RXN                                                                 : 1 glycogen + 1 phosphate --> 1 alpha-D-glucose_1-phosphate + 1 a_limit_dextrin
+carb_degra-glycogen_3.2.1.33_3.2.1.33-RXN                                                                       : 1 a_limit_dextrin + 1 H2O --> 1 beta-D-glucose
+carb_degra-glycogen-starch_3.2.1.20_RXN0-5183                                                                   : 1 maltotriose + 1 H2O --> 1 alpha-D-glucose + 1 beta-maltose
+carb_degra-reffinose_3.2.1.22_BS115543                                                                          : 1 raffinose + 1 H2O --> 1 sucrose + 1 beta-D-galactose
+carb_degra-trehalose_trehalose_2.4.1.245_RXN-9603                                                               : 1 ADP-alpha-D-glucose + 1 beta-D-glucose <=> 1 trehalose + 1 ADP
+carb_degra-trehalose_trehalose_2.4.1.245_RXN-9613                                                               : 1 UDP-alpha-D-glucose + 1 beta-D-glucose <=> 1 trehalose + 1 UDP
+carb_degra-trehalose_3.1.4.1_BS402967                                                                           : 1 UDP-alpha-D-glucose + 1 H2O --> 1 UMP + 1 alpha-D-glucose_1-phosphate
+carb_degra-arabinan_3.2.1.55_arabinan                                                                           : 1 L-arabinobiose + 1 H2O --> 2 L-arabinofuranose
+carb_degra-lactose_3.2.1.B26_BETAGALACTOSID-RXN                                                                 : 1 lactose + 1 H2O --> 1 beta-D-galactose + 1 beta-D-glucose
+carb_degra-lactulose_lactulose_3.2.1.B26_lactulose-transgalactosylation                                         : 1 lactose + 1 beta-D-fructofuranose <=> 1 lactulose + 1 beta-D-glucose
+carb_degra-chitin_3.2.1.52_RXN-12625                                                                            : 1 N,N'-diacetylchitobiose + 1 H2O --> 2 N-acetyl-beta-D-glucosamine
+carb_degra-cellulose_3.2.1.21_3.2.1.52_RXN-10773                                                                : 1 cellobiose + 1 H2O --> 2 beta-D-glucose
+carb_degra-cellulose_3.2.1.B26_RXN-10773                                                                        : 1 cellobiose + 1 H2O --> 2 beta-D-glucose
+carb_degra-glycogen-starch-beta-maltose_3.2.1.20_MALTDEG-RXN                                                    : 1 beta-maltose + 1 H2O --> 2 beta-D-glucose
+carb_degra-melibiose_3.2.1.22_BS115540                                                                          : 1 melibiose + 1 H2O --> 1 beta-D-galactose + 1 beta-D-glucose
+carb_degra-sucrose_3.2.1.20_BS370071                                                                            : 1 sucrose + 1 H2O --> 1 beta-D-fructofuranose + 1 alpha-D-glucose
+carb_degra-xylan_3.2.1.37_BS369762                                                                              : 1 (1,4)-beta-xylobiose + 1 H2O --> 2 alpha-D-xylopyranose
+carb_degra-trehalose_3.2.1.28_TREHALA-RXN                                                                       : 1 trehalose + 1 H2O --> 2 beta-D-glucose
+carb_degra-D-arabinose_1.1.1.B35_D-arabinose-1-dehydrogenase                                                    : 1 D-arabinofuranose + 1 NADP+ --> 1 D-arabinono-1,4-lactone + 1 H+ + 1 NADPH
+carb_degra-D-arabinose_3.1.1.30_D-ARABINONOLACTONASE-RXN                                                        : 1 D-arabinono-1,4-lactone + 1 H2O --> 1 D-arabinonate
+carb_degra-D-arabinose_4.2.1.9_ARABINONATE-DEHYDRATASE-RXN                                                      : 1 D-arabinonate --> 1 2-dehydro-3-deoxy-D-arabinonate + 1 H2O
+carb_degra-D-arabinose-d-xylose_4.2.1.141_RXN-8777                                                              : 1 2-dehydro-3-deoxy-D-arabinonate --> 1 2,5-dioxopentanoate + 1 H2O
+carb_degra-arabinose-xylose_1.2.1.26_25-DIOXOVALERATE-DEHYDROGENASE-RXN                                         : 1 2,5-dioxopentanoate + 1 NADP+ + 1 H2O --> 1 H+ + 1 2-oxoglutarate + 1 NADPH
+carb_degra-L-arabinose_4.2.1.-_L-arabinose                                                                      : 1 L-arabinonate --> 1 2-dehydro-3-deoxy-L-arabinonate + 1 H2O
+carb_degra-D-xylose_4.2.1.9_D-xylose                                                                            : 1 D-xylonate --> 1 2-dehydro-3-deoxy-D-arabinonate + 1 H2O
+carb_degra-arabinose-xylose_4.1.2.55_4.1.2.28-RXN                                                               : 1 2-dehydro-3-deoxy-D-arabinonate --> 1 glycolaldehyde + 1 pyruvate
+carb_degra-L-arabinose_4.2.1.141_4.2.1.43-RXN                                                                   : 1 2-dehydro-3-deoxy-L-arabinonate --> 1 2,5-dioxopentanoate + 1 H2O
+carb_degra-L-arabinose_4.1.2.55_4.1.2.18-RXN                                                                    : 1 2-dehydro-3-deoxy-L-arabinonate --> 1 glycolaldehyde + 1 pyruvate
+carb_degra-arabinose-xylose_1.2.1.26_GLYCOLALD-DEHYDROG-RXN                                                     : 1 glycolaldehyde + 1 NADP+ + 1 H2O --> 1 H+ + 1 glycolate + 1 NADPH
+carb_degra-arabinose-xylose_1.1.1.26_GLYCOLATE-REDUCTASE-RXN                                                    : 1 glycolate + 1 NAD+ <=> 1 glyoxylate + 1 NADH + 1 H+
+carb_degra-L-fucose_1.1.1.B35_BS383221_NAD                                                                      : 1 L-fucopyranose + 1 NAD+ --> 1 NADH + 1 D-threo-aldono-1,5-lactone + 1 H+
+carb_degra-L-fucose_1.1.1.B35_BS383221_NADP                                                                     : 1 L-fucopyranose + 1 NADP+ --> 1 NADPH + 1 D-threo-aldono-1,5-lactone + 1 H+
+carb_degra-L-fucose_3.1.1.30_fuconolactonase                                                                    : 1 D-threo-aldono-1,5-lactone + 1 H2O --> 1 L-fuconate
+carb_degra-L-fucose_4.2.1.68_L-FUCONATE-HYDRATASE-RXN                                                           : 1 L-fuconate <=> 1 H2O + 1 2-dehydro-3-deoxy-L-fuconate
+carb_degra-galactose_1.1.1.B35_galactose                                                                        : 1 beta-L-galactose + 1 NADP+ --> 1 NADPH + 1 L-galactono-1,5-lactone + 1 H+
+carb_degra-glucose_4.2.1.9_GLUCONATE-DEHYDRATASE-RXN                                                            : 1 D-gluconate --> 1 2-dehydro-3-deoxy-D-gluconate + 1 H2O
+carb_degra-galactose_4.2.1.9_GALACTONDEHYDRAT-RXN                                                               : 1 D-galactonate --> 1 2-dehydro-3-deoxy-D-galactonate + 1 H2O
+carb_degra-ribose_1.1.1.B35_BR29181                                                                             : 1 D-ribofuranose + 1 H2O + 1 NADP+ --> 1 NADPH + 1 H+ + 1 D-Ribonate
+carb_degra-sorbitol_1.1.1.14_RXN-7644                                                                           : 1 D-sorbitol + 1 NAD+ <=> 1 H+ + 1 NADH + 1 beta-D-fructofuranose
+carb_degra-mannose_2.7.1.1_BR47797                                                                              : 1 ATP + 1 D-mannose --> 1 ADP + 1 D-mannose_6-phosphate
+carb_degra-mannose_5.3.1.8_MANNPISOM-RXN                                                                        : 1 D-mannose_6-phosphate <=> 1 D-fructose-6-phosphate
+carb_degra-acetate_6.2.1.1_ACETATE--COA-LIGASE-RXN                                                              : 1 acetate + 1 ATP + 1 coenzyme_A --> 1 acetyl-CoA + 1 AMP + 1 diphosphate
+carb_degra-acetone-isopropanol_1.1.1.1_BS371769                                                                 : 1 isopropanol + 1 NADP+ <=> 1 H+ + 1 acetone + 1 NADPH
+carb_degra-acetonitrile_3.5.1.4_R311-RXN                                                                        : 1 acrylamide + 1 H2O --> 1 acrylate + 1 ammonia
+carb_degra-acetoin_2.3.1.190_RXN-9718                                                                           : 1 (R)-acetoin + 1 coenzyme_A + 1 NAD+ --> 1 acetaldehyde + 1 acetyl-CoA + 1 NADH + 1 H+
+carb_degra-beta-alanine_2.6.1.19_RXN-2901                                                                       : 1 2-oxoglutarate + 1 beta-alanine --> 1 L-glutamate + 1 malonate_semialdehyde
+carb_degra-beta-alanine_1.2.1.18_1.2.1.27_RXN-2902                                                              : 1 coenzyme_A + 1 malonate_semialdehyde + 1 NAD+ --> 1 H+ + 1 acetyl-CoA + 1 CO2 + 1 NADH
+carb_degra-beta-alanine_1.2.1.18_1.2.1.27_RXN-9958_NADP                                                         : 1 coenzyme_A + 1 malonate_semialdehyde + 1 NADP+ --> 1 H+ + 1 acetyl-CoA + 1 CO2 + 1 NADPH
+carb_degra-ethanol_1.1.1.1_ALCOHOL-DEHYDROG-RXN                                                                 : 1 ethanol + 1 NAD+ <=> 1 acetaldehyde + 1 NADH + 1 H+
+carb_degra-formate-purin_1.2.1.2_1.2.1.2-RXN                                                                    : 1 formate + 1 NAD+ --> 1 H+ + 1 CO2 + 1 NADH
+carb_degra-formaldehyde_1.2.7.B2_formaldehyde-oxidation                                                         : 2 |Oxidized-ferredoxins| + 1 H2O + 1 formaldehyde --> 1 formate + 2 |Reduced-ferredoxins| + 2 H+
+carb_degra-glycerol_2.7.1.30_GLYCEROL-KIN-RXN                                                                   : 1 ATP + 1 glycerol --> 1 ADP + 1 sn-glycerol-3-phosphate
+carb_degra-methylglyoxal_1.1.1.-_RXN0-4281                                                                      : 1 methylglyoxal + 1 NADPH + 1 H+ <=> 1 acetol + 1 NADP+
+carb_degra-methylglyoxal_4.4.1.5_GLYOXI-RXN                                                                     : 1 S-lactoyl-glutathione <=> 1 glutathione + 1 methylglyoxal
+carb_degra-methylglyoxal_3.1.2.6_GLYOXII-RXN                                                                    : 1 S-lactoyl-glutathione + 1 H2O --> 1 (R)-lactate + 1 glutathione
+carb_degra-lactate_1.1.1.27_L-LACTATE-DEHYDROGENASE-RXN                                                         : 1 (S)-lactate + 1 NAD+ <=> 1 NADH + 1 H+ + 1 pyruvate
+carb_degra-phe_1.2.7.8_BS359419                                                                                 : 1 |Oxidized-ferredoxins| + 1 keto-phenylpyruvate + 1 coenzyme_A <=> 1 phenylacetyl-CoA + 1 CO2 + 1 |Reduced-ferredoxins|
+carb_degra-lactate_1.1.3.15_BS257489                                                                            : 1 (R)-lactate + 1 oxygen --> 1 pyruvate + 1 hydrogen_peroxide
+carb_degra-lactate_1.1.3.15_BS257487                                                                            : 1 (S)-lactate + 1 oxygen --> 1 pyruvate + 1 hydrogen_peroxide
+carb_degra-parathion_3.1.8.1_ARYLDIALKYL-PHOSPHATASE-RXN                                                        : 1 parathion + 1 H2O --> 1 diethylthiophosphate + 1 4-nitrophenol
+carb_degra-paraoxon_3.1.8.1_RXN-8746                                                                            : 1 paraoxon + 1 H2O --> 1 diethylphosphate + 1 4-nitrophenol
+carb_degra-pheac_1.14.13.149_RXN0-2042                                                                          : 1 oxygen + 1 NADPH + 1 phenylacetyl-CoA + 1 H+ --> 1 NADP+ + 1 H2O + 1 2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA
+carb_degra-pheac_5.3.3.18_RXN0-6510                                                                             : 1 2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA <=> 1 2-oxepin-2(3H)-ylideneacetyl-CoA
+carb_degra-pheac_3.3.2.12_RXNMETA-12671                                                                         : 1 2-oxepin-2(3H)-ylideneacetyl-CoA + 1 H2O --> 1 3-oxo-5,6-didehydrosuberyl-CoA_semialdehyde
+carb_degra-pheac_1.17.1.7_RXNMETA-12672                                                                         : 1 3-oxo-5,6-didehydrosuberyl-CoA_semialdehyde + 1 H2O + 1 NADP+ --> 1 H+ + 1 NADPH + 1 3-oxo-5,6-didehydrosuberyl-CoA
+carb_degra-pheac_2.3.1.223_RXN0-6512                                                                            : 1 2,3-didehydroadipyl-CoA + 1 acetyl-CoA <-- 1 coenzyme_A + 1 3-oxo-5,6-didehydrosuberyl-CoA
+carb_degra-pheac_4.2.1.17_RXN0-6513                                                                             : 1 3-hydroxyadipyl-CoA <=> 1 2,3-didehydroadipyl-CoA + 1 H2O
+carb_degra-pheac_1.1.1.35_RXN0-2044                                                                             : 1 NAD+ + 1 3-hydroxyadipyl-CoA <=> 1 NADH + 1 H+ + 1 3-oxoadipyl-CoA
+carb_degra-pheac_2.3.1.174_RXN-3641                                                                             : 1 succinyl-CoA + 1 acetyl-CoA <-- 1 coenzyme_A + 1 3-oxoadipyl-CoA
+carb_degra-phenol_1.14.13.7_BS375240                                                                            : 1 phenol + 1 NADH + 1 H+ + 1 oxygen <=> 1 catechol + 1 NAD+ + 1 H2O
+carb_degra-phenol_1.13.11.2_CATECHOL-23-DIOXYGENASE-RXN                                                         : 1 catechol + 1 oxygen --> 1 (2Z,4E)-2-hydroxy-6-oxohexa-2,4-dienoate
+carb_degra-phenol_3.7.1.9_3.7.1.9-RXN                                                                           : 1 (2Z,4E)-2-hydroxy-6-oxohexa-2,4-dienoate + 1 H2O --> 1 formate + 1 2-oxopent-4-enoate
+carb_degra-phenol_4.2.1.80_2-OXOPENT-4-ENOATE-HYDRATASE-RXN                                                     : 1 2-oxopent-4-enoate + 1 H2O <=> 1 4-hydroxy-2-oxopentanoate
+carb_degra-phenol_4.1.3.39_MHPELY-RXN                                                                           : 1 4-hydroxy-2-oxopentanoate <=> 1 acetaldehyde + 1 pyruvate
+carb_degra-hydroxypheac_1.14.14.9_RXN-8505                                                                      : 1 FADH2 + 1 4-hydroxyphenylacetate + 1 oxygen --> 1 3,4-dihydroxyphenylacetate + 1 H2O + 1 FAD
+carb_degra-hydroxypheac_4.1.1.68_CARBOXY-OXOHEPT-ENEDIOATE-DECARBOXY-RXN                                        : 1 5-carboxy-2-oxohept-3-enedioate --> 1 CO2 + 1 2-hydroxyhepta-2,4-dienedioate
+carb_degra-propanol_1.1.1.1_RXN-13198                                                                           : 1 n-propanol + 1 NAD+ <=> 1 propanal + 1 NADH + 1 H+
+carb_degra-propanol_1.2.1.3_BS189122                                                                            : 1 propanal + 1 NAD+ + 1 H2O <=> 1 propionate + 1 NADH + 1 H+
+carb_degra-propanol_6.2.1.1_R00925                                                                              : 1 ATP + 1 propionate + 1 coenzyme_A --> 1 AMP + 1 diphosphate + 1 propanoyl-CoA
+carb_degra-ribose_2.7.1.15_RIBOKIN-RXN                                                                          : 1 ATP + 1 alpha-D-ribofuranose --> 1 ADP + 1 D-ribose-5-phosphate
+carb_degra-ribose_5.4.99.-_RXN0-5304                                                                            : 1 beta-D-ribofuranose <=> 1 beta-D-ribopyranose
+carb_degra-toluene_1.14.13.-_TOLUENE-3-MONOOXYGENASE-RXN                                                        : 1 NADH + 1 oxygen + 1 H+ + 1 toluene --> 1 4-methylphenol + 1 NAD+ + 1 H2O
+carb_degra-toluene_1.14.13.-_M-CRESOL-METHYLCATECHOL-RXN                                                        : 1 4-methylphenol + 1 NADH + 1 oxygen + 1 H+ --> 1 4-methylcatechol + 1 NAD+ + 1 H2O
+carb_degra-toluene_RXN-8041                                                                                     : 1 4-methylcatechol + 1 oxygen --> 1 cis,cis-2-hydroxy-6-oxohepta-2,4-dienoate
+carb_degra-toluene_3.7.1.-_2-OH-6-OXOHEPTA-2-4-DIENOATE-HYDR-RXN                                                : 1 cis,cis-2-hydroxy-6-oxohepta-2,4-dienoate + 1 H2O --> 1 acetate + 1 2-oxopent-4-enoate
+carb_degra_1.2.1.26_R01752                                                                                      : 1 D-glyceraldehyde + 1 NADP+ + 1 H2O <=> 1 D-glycerate + 1 NADPH + 1 H+
+carb_degra_1.2.1.26_RXN66-3                                                                                     : 1 acetaldehyde + 1 NADP+ + 1 H2O --> 1 H+ + 1 acetate + 1 NADPH
+carb_degra_6.2.1.13_ACETATE--COA-LIGASE-ADP-FORMING-RXN                                                         : 1 acetate + 1 ATP + 1 coenzyme_A <-- 1 acetyl-CoA + 1 ADP + 1 phosphate
+carb_degra_6.2.1.13_PROPANOATECOA-LIGASE-RXN                                                                    : 1 ATP + 1 coenzyme_A + 1 propionate <=> 1 ADP + 1 phosphate + 1 propanoyl-CoA
+carb_degra_3-hydroxybutanoyl-CoA-hydrolysis_3.1.2.4_RXN-14251                                                   : 1 H2O + 1 (S)-3-hydroxybutanoyl-CoA --> 1 coenzyme_A + 1 (S)-3-hydroxybutanoate
+carb_degra-arg_ureacyc_3.5.3.6_ARGININE-DEIMINASE-RXN                                                           : 1 L-arginine + 1 H2O --> 1 ammonia + 1 L-citrulline
+carb_degra-arg_3.5.1.4_GUANIDINOBUTANAMIDE-NH3-RXN                                                              : 1 4-guanidinobutyramide + 1 H2O --> 1 ammonia + 1 4-guanidinobutyrate
+carb_degra-asn_3.5.1.1_ASPARAGHYD-RXN                                                                           : 1 L-asparagine + 1 H2O --> 1 ammonia + 1 L-aspartate
+carb_degra-asn_1.4.3.16_BS258998                                                                                : 1 L-aspartate + 1 H2O + 1 oxygen --> 1 oxaloacetate + 1 ammonia + 1 hydrogen_peroxide
+carb_degra-cys_thiamin_2.8.1.7_RXN0-308                                                                         : 1 L-cysteine + 1 |L-Cysteine-Desulfurases| --> 1 L-alanine + 1 |Persulfurated-L-cysteine-desulfurases|
+carb_degra-gln_1.4.1.13_GLUTAMATESYN-RXN                                                                        : 2 L-glutamate + 1 NADP+ <-- 1 2-oxoglutarate + 1 L-glutamine + 1 NADPH + 1 H+
+carb_degra-glu_2.6.1.19_GABATRANSAM-RXN                                                                         : 1 2-oxoglutarate + 1 4-aminobutyrate <=> 1 L-glutamate + 1 succinate_semialdehyde
+carb_degra-glu_1.1.1.95_BS187992                                                                                : 1 2-oxoglutarate + 1 NADH + 1 H+ <=> 1 2-hydroxyglutarate + 1 NAD+
+carb_degra-glu_2.8.3.12_RXN-1082                                                                                : 1 acetyl-CoA + 1 (R)-2-hydroxyglutarate --> 1 (R)-2-hydroxyglutaryl-CoA + 1 acetate
+carb_degra-glu_4.2.1.-_RXN-1083                                                                                 : 1 (R)-2-hydroxyglutaryl-CoA --> 1 (E)-glutaconyl-CoA + 1 H2O
+carb_degra-glu_4.1.1.70_GLUTACONYL-COA-DECARBOXYLASE-RXN                                                        : 1 (E)-glutaconyl-CoA --> 1 CO2 + 1 crotonyl-CoA
+carb_degra-gly_1.8.1.4_1.4.4.2_2.1.2.10_GCVMULTI-RXN                                                            : 1 NAD+ + 1 tetrahydrosulfopterin + 1 glycine --> 1 H+ + 1 5,10-methylenetetrahydrosulfopterin + 1 ammonium + 1 NADH + 1 CO2
+carb_degra-orn_4.3.1.12_ORNITHINE-CYCLODEAMINASE-RXN                                                            : 1 L-ornithine --> 1 ammonium + 1 L-proline
+carb_degra-thr_4.3.1.19_THREDEHYD-RXN                                                                           : 1 L-threonine --> 1 2-oxobutanoate + 1 ammonia
+carb_degra-shikimate_4.2.1.-_4.2.1.118_DHSHIKIMATE-DEHYDRO-RXN                                                  : 1 3-dehydroshikimate --> 1 protocatechuate + 1 H2O
+carb_degra-ser_2.6.1.51_SERINE--PYRUVATE-AMINOTRANSFERASE-RXN                                                   : 1 pyruvate + 1 L-serine --> 1 L-alanine + 1 hydroxypyruvate
+carb_degra-ser_1.1.1.26_R01388                                                                                  : 1 D-glycerate + 1 NAD+ <=> 1 hydroxypyruvate + 1 NADH + 1 H+
+carb_degra-lys_1.8.1.4_2-KETO-ADIPATE-DEHYDROG-RXN                                                              : 1 NAD+ + 1 2-oxoadipate + 1 coenzyme_A --> 1 H+ + 1 glutaryl-CoA + 1 NADH + 1 CO2
+carb_degra-lys_GLUTARYL-COA-DEHYDROG-RXN                                                                        : 1 FAD + 1 glutaryl-CoA <=> 1 (E)-glutaconyl-CoA + 1 FADH2
+carb_degra-val_1.2.1.25_1.2.1.25-RXN                                                                            : 1 2-oxoisovalerate + 1 coenzyme_A + 1 NAD+ --> 1 H+ + 1 NADH + 1 CO2 + 1 isobutanoyl-CoA
+carb_degra-val_1.3.8.-_MEPROPCOA-FAD-RXN                                                                        : 1 FAD + 1 isobutanoyl-CoA --> 1 methylacrylyl-CoA + 1 FADH2
+carb_degra-val_4.2.1.17_METHYLACYLYLCOA-HYDROXY-RXN                                                             : 1 (S)-3-hydroxy-isobutanoyl-CoA <=> 1 methylacrylyl-CoA + 1 H2O
+carb_degra-val_3.1.2.4_3-HYDROXYISOBUTYRYL-COA-HYDROLASE-RXN                                                    : 1 (S)-3-hydroxy-isobutanoyl-CoA + 1 H2O --> 1 (S)-3-hydroxy-isobutanoate + 1 coenzyme_A
+carb_degra-val_1.1.1.31_3-HYDROXYISOBUTYRATE-DEHYDROGENASE-RXN                                                  : 1 NAD+ + 1 (S)-3-hydroxy-isobutanoate --> 1 H+ + 1 (S)-methylmalonate-semialdehyde + 1 NADH
+carb_degra-val_1.2.1.27_RXN-11213                                                                               : 1 NAD+ + 1 coenzyme_A + 1 H2O + 1 (S)-methylmalonate-semialdehyde --> 1 hydrogen_carbonate + 1 propanoyl-CoA + 1 H+ + 1 NADH
+carb_degra-leu_1.2.1.-_2KETO-4METHYL-PENTANOATE-DEHYDROG-RXN                                                    : 1 NAD+ + 1 4-methyl-2-oxopentanoate + 1 coenzyme_A --> 1 H+ + 1 isovaleryl-CoA + 1 NADH + 1 CO2
+carb_degra-leu_1.3.8.7_RXN-14264                                                                                : 1 FAD + 1 isovaleryl-CoA <=> 1 3-methylcrotonyl-CoA + 1 FADH2
+carb_degra-leu_6.4.1.4_METHYLCROTONYL-COA-CARBOXYLASE-RXN                                                       : 1 3-methylcrotonyl-CoA + 1 hydrogen_carbonate + 1 ATP --> 1 ADP + 1 phosphate + 1 3-methylglutaconyl-CoA
+carb_degra-leu_4.2.1.18_METHYLGLUTACONYL-COA-HYDRATASE-RXN                                                      : 1 (S)-3-hydroxy-3-methylglutaryl-CoA <=> 1 3-methylglutaconyl-CoA + 1 H2O
+carb_degra-ile_1.2.1.-_2KETO-3METHYLVALERATE-RXN                                                                : 1 (S)-3-methyl-2-oxopentanoate + 1 NAD+ + 1 coenzyme_A --> 1 H+ + 1 NADH + 1 CO2 + 1 2-methylbutanoyl-CoA
+carb_degra-ile_1.3.8.5_2-METHYLACYL-COA-DEHYDROGENASE-RXN                                                       : 1 FAD + 1 2-methylbutanoyl-CoA <=> 1 (E)-2-methylcrotonoyl-CoA + 1 FADH2
+carb_degra-ile_4.2.1.17_TIGLYLCOA-HYDROXY-RXN                                                                   : 1 2-methyl-3-hydroxybutyryl-CoA <=> 1 (E)-2-methylcrotonoyl-CoA + 1 H2O
+carb_degra-ile_1.1.1.35_1.1.1.178-RXN                                                                           : 1 2-methyl-3-hydroxybutyryl-CoA + 1 NAD+ <=> 1 NADH + 1 H+ + 1 2-methylacetoacetyl-CoA
+carb_degra-ile_2.3.1.9_METHYLACETOACETYLCOATHIOL-RXN                                                            : 1 2-methylacetoacetyl-CoA + 1 coenzyme_A <=> 1 acetyl-CoA + 1 propanoyl-CoA
+spontaneous_H2O-dissociation                                                                                    : 1 H2O <=> 1 H+ + 1 OH-
+spontaneous_H2O-dissociation_ex                                                                                 : 1 H2O_ex <=> 1 H+_ex + 1 OH-_ex
+spontaneous_RXN-8315                                                                                            : 1 sulfite <=> 1 bisulfite
+spontaneous_RXN-11811                                                                                           : 1 ammonia + 1 H2O <=> 1 ammonium + 1 OH-
+spontaneous_RXN-11811-ex                                                                                        : 1 ammonia_ex + 1 H2O_ex <=> 1 ammonium_ex + 1 OH-_ex
+spontaneous_RXN-12753                                                                                           : 1 NADH + 1 H2O --> 1 (S)-NADHX
+spontaneous_RXN-12754                                                                                           : 1 NADH + 1 H2O --> 1 (R)-NADHX
+spontaneous_RXN-10639                                                                                           : 1 alpha-D-glucose_1-phosphate --> 1 beta-D-glucose_1-phosphate
+spontaneous_SPONTPRO-RXN                                                                                        : 1 L-glutamate_gamma-semialdehyde <=> 1 (S)-1-pyrroline-5-carboxylate + 1 H2O
+spontaneous_4.2.1.104_RXN0-5222                                                                                 : 1 carbamate --> 1 ammonia + 1 CO2
+spontaneous_5.1.3.3_ALDOSE-1-EPIMERASE-RXN                                                                      : 1 alpha-D-glucose <=> 1 beta-D-glucose
+spontaneous_5_5.4.99_RXN0-5305                                                                                  : 1 beta-D-ribofuranose <=> 1 alpha-D-ribofuranose
+spontaneous_biotin-carboxyl-carrier-protein-assembly_RXN-7101                                                   : 2 |BCCP-biotin-monomers| --> 1 |BCCP-dimers|
+spontaneous_formaldehyde-oxidation-II-(glutathione-dependent)_4.4.1.22_RXN-2961                                 : 1 S-hydroxymethylglutathione <=> 1 formaldehyde + 1 glutathione
+spontaneous_lactate-biosynthesis_3-dehydroquinate-biosynthesis_RXN-10054                                        : 1 enolaldehyde --> 1 methylglyoxal
+spontaneous_no-pathway_1.11.1.11_RXN-12440                                                                      : 1 L-ascorbate + 1 hydrogen_peroxide --> 1 L-dehydro-ascorbate + 2 H2O
+spontaneous_no-pathway_pyroglutamate-formation                                                                  : 1 L-glutamate --> 1 5-oxoproline + 1 H2O
+spontaneous_no-pathway_pyroglutamate-formation-ex                                                               : 1 L-glutamate_ex --> 1 5-oxoproline_ex + 1 H2O_ex
+spontaneous_no-pathway_RXN-12861                                                                                : 1 dehydroascorbate_(bicyclic_form) --> 1 2,3-dioxo-L-gulonate
+spontaneous_no-pathway_RXN-12862                                                                                : 1 H2O + 1 L-dehydro-ascorbate --> 1 dehydroascorbate_(bicyclic_form)
+spontaneous_no-pathway_RXN-12864                                                                                : 4 glutathione + 1 selenite --> 1 glutathione_disulfide + 3 H2O + 1 selenodiglutathione
+spontaneous_no-pathway_RXN-12869                                                                                : 1 dehydroascorbate_(bicyclic_form) --> 2 H+ + 1 cyclic-2,3-O-oxalyl-L-threonate
+spontaneous_no-pathway_RXN-12870                                                                                : 1 2,3-dioxo-L-gulonate --> 1 2-carboxy-L-xylonolactone
+spontaneous_no-pathway_RXN-12871                                                                                : 1 2-carboxy-L-xylonolactone + 1 H2O --> 1 2-carboxy-L-threo-pentonate
+spontaneous_no-pathway_RXN-12872                                                                                : 1 cyclic-2,3-O-oxalyl-L-threonate --> 1 cyclic-_3,4-O-oxalyl-L-threonate
+spontaneous_no-pathway_RXN-14056                                                                                : 1 (R)-methylmalonate-semialdehyde <=> 1 (S)-methylmalonate-semialdehyde
+spontaneous_no-pathway_RXN-14813                                                                                : 1 aldehydo-L-fucose <=> 1 L-fucose
+tRNA_6.1.1.1_TYROSINE--TRNA-LIGASE-RXN                                                                          : 1 ATP + 1 H+ + 1 L-tyrosine + 1 |TYR-tRNAs| --> 1 AMP + 1 diphosphate + 1 |Charged-TYR-tRNAs|
+tRNA_6.1.1.2_TRYPTOPHAN--TRNA-LIGASE-RXN                                                                        : 1 ATP + 1 H+ + 1 L-tryptophan + 1 |TRP-tRNAs| --> 1 AMP + 1 diphosphate + 1 |Charged-TRP-tRNAs|
+tRNA_6.1.1.3_THREONINE--TRNA-LIGASE-RXN                                                                         : 1 ATP + 1 H+ + 1 L-threonine + 1 |THR-tRNAs| --> 1 AMP + 1 diphosphate + 1 |Charged-THR-tRNAs|
+tRNA_6.1.1.4_LEUCINE--TRNA-LIGASE-RXN                                                                           : 1 ATP + 1 L-leucine + 1 H+ + 1 |LEU-tRNAs| --> 1 AMP + 1 diphosphate + 1 |Charged-LEU-tRNAs|
+tRNA_6.1.1.5_ISOLEUCINE--TRNA-LIGASE-RXN                                                                        : 1 ATP + 1 L-isoleucine + 1 H+ + 1 |ILE-tRNAs| --> 1 AMP + 1 diphosphate + 1 |Charged-ILE-tRNAs|
+tRNA_6.1.1.6_LYSINE--TRNA-LIGASE-RXN                                                                            : 1 ATP + 1 L-lysine + 1 H+ + 1 |LYS-tRNAs| --> 1 AMP + 1 diphosphate + 1 |Charged-LYS-tRNAs|
+tRNA_6.1.1.7_ALANINE--TRNA-LIGASE-RXN                                                                           : 1 ATP + 1 L-alanine + 1 H+ + 1 |ALA-tRNAs| --> 1 AMP + 1 diphosphate + 1 |Charged-ALA-tRNAs|
+tRNA_6.1.1.9_VALINE--TRNA-LIGASE-RXN                                                                            : 1 ATP + 1 H+ + 1 L-valine + 1 |VAL-tRNAs| --> 1 AMP + 1 diphosphate + 1 |Charged-VAL-tRNAs|
+tRNA_6.1.1.10_METHIONINE--TRNA-LIGASE-RXN                                                                       : 1 ATP + 1 L-methionine + 1 H+ + 1 |MET-tRNAs| --> 1 AMP + 1 diphosphate + 1 |Charged-MET-tRNAs|
+tRNA_6.1.1.11_SERINE--TRNA-LIGASE-RXN                                                                           : 1 ATP + 1 H+ + 1 L-serine + 1 |SER-tRNAs| --> 1 AMP + 1 diphosphate + 1 |Charged-SER-tRNAs|
+tRNA_6.1.1.12_ASPARTATE--TRNA-LIGASE-RXN                                                                        : 1 ATP + 1 L-aspartate + 1 H+ + 1 |ASP-tRNAs| --> 1 AMP + 1 diphosphate + 1 |Charged-ASP-tRNAs|
+tRNA_6.1.1.14_GLYCINE--TRNA-LIGASE-RXN                                                                          : 1 ATP + 1 glycine + 1 H+ + 1 |GLY-tRNAs| --> 1 AMP + 1 diphosphate + 1 |Charged-GLY-tRNAs|
+tRNA_6.1.1.15_PROLINE--TRNA-LIGASE-RXN                                                                          : 1 ATP + 1 L-proline + 1 H+ + 1 |PRO-tRNAs| --> 1 AMP + 1 diphosphate + 1 |Charged-PRO-tRNAs|
+tRNA_6.1.1.16_CYSTEINE--TRNA-LIGASE-RXN                                                                         : 1 ATP + 1 L-cysteine + 1 H+ + 1 |CYS-tRNAs| --> 1 AMP + 1 diphosphate + 1 |Charged-CYS-tRNAs|
+tRNA_6.1.1.18_GLUTAMINE--TRNA-LIGASE-RXN                                                                        : 1 ATP + 1 L-glutamine + 1 H+ + 1 |GLN-tRNAs| --> 1 AMP + 1 diphosphate + 1 |Charged-GLN-tRNAs|
+tRNA_6.1.1.19_ARGININE--TRNA-LIGASE-RXN                                                                         : 1 L-arginine + 1 ATP + 1 H+ + 1 |ARG-tRNAs| --> 1 AMP + 1 diphosphate + 1 |Charged-ARG-tRNAs|
+tRNA_6.1.1.20_PHENYLALANINE--TRNA-LIGASE-RXN                                                                    : 1 ATP + 1 L-phenylalanine + 1 H+ + 1 |PHE-tRNAs| --> 1 AMP + 1 diphosphate + 1 |Charged-PHE-tRNAs|
+tRNA_6.1.1.21_HISTIDINE--TRNA-LIGASE-RXN                                                                        : 1 ATP + 1 L-histidine + 1 H+ + 1 |HIS-tRNAs| --> 1 AMP + 1 diphosphate + 1 |Charged-HIS-tRNAs|
+other_lactate-biosynthesis_3-dehydroquinate-biosynthesis_RXN-8075                                               : 1 D-glyceraldehyde-3-phosphate --> 1 phosphate + 1 enolaldehyde
+other_phenylmercury-acetate-degradation_1.16.1.1_MERCURY-II-REDUCTASE-RXN                                       : 1 NADP+ + 1 H+ + 1 Hg0 <-- 1 Hg2+ + 1 NADPH
+other_no-pathway_3.6.1.7_BS165362                                                                               : 1 1,3-bisphospho-D-glycerate + 1 H2O --> 1 3-phospho-D-glycerate + 1 phosphate
+other_no-pathway_3.6.1.7_BS165360                                                                               : 1 acetylphosphate + 1 H2O --> 1 acetate + 1 phosphate
+other_no-pathway_3.6.1.7_BS93363                                                                                : 1 carbamoyl-phosphate + 1 H2O --> 1 carbamate + 1 phosphate
+other_multiple-pathways_1.1.1.22_UGD-RXN                                                                        : 2 NAD+ + 1 UDP-alpha-D-glucose + 1 H2O --> 2 H+ + 2 NADH + 1 UDP-D-glucuronate
+other_no-pathway_1.8.1.5_1.8.1.5-RXN                                                                            : 1 NADP+ + 1 acetoacetate + 1 coenzyme_M <=> 1 H+ + 1 2-oxopropyl-CoM + 1 NADPH + 1 CO2
+other_no-pathway_2.3.1.9_RXN-12561                                                                              : 1 acetyl-CoA + 1 propanoyl-CoA <=> 1 coenzyme_A + 1 beta-ketovaleryl-CoA
+other_no-pathway_3.2.1.127_3.2.1.127-RXN                                                                        : 1 |Immunoglobulin-G-Glycopeptides| <=> 1 L-fucopyranose + 1 |Immunoglobulin-G-Glycopeptides-fragments|
+other_no-pathway_2.7.8.23_RXN-10827                                                                             : 1 carboxyphosphonoenolpyruvate --> 1 carboxyphosphinopyruvate
+other_no-pathway_2.5.1.46_RXN-13414                                                                             : 1 spermidine + 1 NAD+ <=> 1 dehydrospermidine + 1 NADH + 1 H+
+other_no-pathway_2.3.1.48_HISTONE-ACETYLTRANSFERASE-RXN                                                         : 1 |Histones| + 1 acetyl-CoA <=> 1 coenzyme_A + 1 |Acetylated-histones|
+other_jasmonic-acid-biosynthesis_2.3.1.16_RXN-10701                                                             : 1 coenzyme_A + 1 OPC4-3-ketoacyl-CoA --> 1 acetyl-CoA + 1 jasmonoyl-CoA
+other_no-pathway_6.2.1.3_LINOLENOYL-RXN                                                                         : 1 linolenoyl-CoA + 1 H2O <=> 1 coenzyme_A + 1 alpha-linolenate
+other_no-pathway_6.2.1.3_RXN-13614                                                                              : 1 caprate + 1 ATP + 1 coenzyme_A --> 1 decanoyl-CoA + 1 AMP + 1 diphosphate
+other_no-pathway_6.2.1.3_RXN-9623                                                                               : 1 ATP + 1 coenzyme_A + 1 palmitate --> 1 AMP + 1 palmitoyl-CoA + 1 diphosphate
+other_no-pathway_6.2.1.3_RXN-9644                                                                               : 1 ATP + 1 coenzyme_A + 1 oleate --> 1 AMP + 1 oleoyl-CoA + 1 diphosphate
+other_no-pathway_6.2.1.3_RXN-9673                                                                               : 1 ATP + 1 coenzyme_A + 1 linoleate --> 1 AMP + 1 linoleoyl-CoA + 1 diphosphate
+other_no-pathway_6.2.1.3_RXN66-480                                                                              : 1 phytenate + 1 ATP + 1 coenzyme_A --> 1 phytenoyl-CoA + 1 AMP + 1 diphosphate
+other_no-pathway_6.2.1.3_RXN66-484                                                                              : 1 pristanate + 1 coenzyme_A + 1 ATP --> 1 pristanoyl-CoA + 1 diphosphate + 1 AMP
+other_octane-oxidation_6.2.1.3_R223-RXN                                                                         : 1 ATP + 1 coenzyme_A + 1 octanoate --> 1 AMP + 1 octanoyl-CoA + 1 diphosphate
+other_protocatechuate-degradation-II-(ortho-cleavage-pathway)_4.1.1.44_4-CARBOXYMUCONOLACTONE-DECARBOXYLASE-RXN : 1 2-carboxy-5-oxo-2,5-dihydrofuran-2-acetate --> 1 3-oxoadipate_enol_lactone + 1 CO2
+other_metabolism-of-degradation_3.5.1.87_BS189995                                                               : 1 N-carbamoyl-L-methionine + 1 H2O --> 1 L-methionine + 1 CO2 + 1 ammonia
+other_metabolism-of-degradation_3.5.1.87_BS389254                                                               : 1 N-carbamoyl-L-alanine + 1 H2O --> 1 L-alanine + 1 CO2 + 1 ammonia
+other_metabolism-of-degradation_3.5.1.14_BS140645                                                               : 1 N-Acetyl-L-aspartate + 1 H2O --> 1 acetate + 1 L-aspartate
+other_no-pathway_1.1.5.3_GLYC3PDEHYDROG-RXN                                                                     : 1 sn-glycerol-3-phosphate + 1 representative_quinone <=> 1 representative_quinol + 1 dihydroxyacetone_phosphate
+other_no-pathway_2.5.1.32_RXN1F-144                                                                             : 2 geranylgeranyl_diphosphate <=> 1 all-trans-phytoene + 2 diphosphate
+other_no-pathway_3.8.1.2_BS141612                                                                               : 1 chloroacetate + 1 H2O --> 1 glycolate + 1 HCl
+other_no-pathway_3.8.1.2_BS141613                                                                               : 1 bromoacetate + 1 H2O --> 1 glycolate + 1 HBr
+other_no-pathway_4.1.3.6_CITLY-RXN                                                                              : 1 citrate --> 1 acetate + 1 oxaloacetate
+other_no-pathway_1.1.3.15_BS257485                                                                              : 1 glycolate + 1 oxygen --> 1 glyoxylate + 1 hydrogen_peroxide
+other_no-pathway_5.3.4.1_BS368701                                                                               : 2 H+ + 1 L-dehydro-ascorbate <-- 1 L-ascorbate
+other_no-pathway_1.8.4.11_1.8.4.13-RXN                                                                          : 1 L-methionine + 1 |Ox-Thioredoxin| + 1 H2O <-- 1 |Red-Thioredoxin| + 1 L-methionine-(S)-S-oxide
+other_pyruvate-oxidation-pathway_1.2.5.1_RXN-11496                                                              : 1 pyruvate + 1 H2O + 1 representative_quinone --> 1 acetate + 1 CO2 + 1 representative_quinol
+other_no-pathway_3.2.1.51_ALPHA-L-FUCOSIDASE-RXN                                                                : 1 alpha-L-fucoside + 1 H2O --> 1 L-fucopyranose + 1 ethanol
+other_no-pathway_3.1.3.41_4-NITROPHENYLPHOSPHATASE-RXN                                                          : 1 4-nitrophenyl_phosphate + 1 H2O --> 1 4-nitrophenol + 1 phosphate
+other_photorespiration_3.1.3.18_GPH-RXN                                                                         : 1 2-phosphoglycolate + 1 H2O --> 1 glycolate + 1 phosphate
+other_no-pathway_3.1.1.45_CARBOXYMETHYLENEBUTENOLIDASE-RXN                                                      : 1 cis-dienelactone + 1 H2O --> 1 2-maleylacetate
+other_no-pathway_3.1.1.2_BS115376                                                                               : 1 4-nitrophenyl_butyrate + 1 H2O --> 1 4-nitrophenol + 1 n-butanoate
+other_no-pathway_3.1.1.2_BS12514                                                                                : 1 p-nitrophenyl_acetate + 1 H2O --> 1 4-nitrophenol + 1 acetate
+other_no-pathway_3.1.1.2_BS363949                                                                               : 1 tributyrin + 1 H2O <-- 1 dibutyrin + 1 n-butanoate
+other_multiple-pathways_3.1.1.1_BS321404                                                                        : 1 ethanol + 1 acetyl-CoA <=> 1 ethylacetate + 1 coenzyme_A
+other_thiosulfate-disproportionation-III-(rhodanese)_2.8.1.1_THIOSULFATE-SULFURTRANSFERASE-RXN                  : 1 hydrogen_cyanide + 1 thiosulfate --> 1 thiocyanate + 1 sulfite
+other_no-pathway_2.7.8.23_2.7.8.23-RXN                                                                          : 1 carboxyphosphonoenolpyruvate --> 1 phosphinopyruvate + 1 CO2
+other_no-pathway_2.7.8.23_RXN-10828                                                                             : 1 carboxyphosphinopyruvate --> 1 phosphinopyruvate + 1 CO2
+other_no-pathway_2.7.8.15_R05969                                                                                : 1 UDP-alpha-N-acetyl-D-glucosamine + 1 dolichyl_phosphate <=> 1 UMP + 1 N-acetyl-D-glucosaminyl-diphosphodolichol
+other_no-pathway_2.7.1.119_HYGROMYCIN-B-KINASE-RXN                                                              : 1 ATP + 1 hygromycin-B --> 1 7''-O-phosphohygromycin_B + 1 ADP
+other_no-pathway_2.4.1.83_2.4.1.83-RXN                                                                          : 1 dolichyl_phosphate + 1 GDP-alpha-D-mannose <=> 1 GDP + 1 dolichyl_beta-D-mannosyl_phosphate
+other_multiple-pathways_2.3.2.2_BS370350                                                                        : 1 N-(4-nitrophenyl)-L-alpha-glutamine + 1 glutathione <=> 1 4-nitroaniline + 1 5-L-glutamyl-glutathione
+other_multiple-pathways_2.3.2.2_R00494                                                                          : 1 glutathione + 1 H2O <=> 1 cysteinylglycine + 1 L-glutamate
+other_no-pathway_2.3.1.16_RXN-13617                                                                             : 1 octanoyl-CoA + 1 acetyl-CoA <=> 1 3-oxodecanoyl-CoA + 1 coenzyme_A
+other_no-pathway_2.3.1.16_RXN-14268                                                                             : 1 lauroyl-CoA + 1 acetyl-CoA <=> 1 3-oxo-myristoyl-CoA + 1 coenzyme-A-group
+other_no-pathway_2.3.1.16_RXN-14274                                                                             : 1 decanoyl-CoA + 1 acetyl-CoA <=> 1 3-oxododecanoyl-CoA + 1 coenzyme_A
+other_no-pathway_2.3.1.16_RXN-14277                                                                             : 1 hexanoyl-CoA + 1 acetyl-CoA <=> 1 3-oxooctanoyl-CoA + 1 coenzyme_A
+other_multiple-pathways_2.3.1.16_R00829                                                                         : 1 succinyl-CoA + 1 acetyl-CoA <=> 1 coenzyme_A + 1 3-oxoadipyl-CoA
+other_threonine-degradation-III-(to-methylglyoxal)_1.4.3.21_AMACETOXID-RXN                                      : 1 aminoacetone + 1 oxygen + 1 H2O --> 1 ammonia + 1 hydrogen_peroxide + 1 methylglyoxal
+other_multiple-pathways_1.4.3.21_BS259130                                                                       : 1 tyramine + 1 H2O + 1 oxygen --> 1 4-hydroxyaceto-phenone + 1 ammonia + 1 hydrogen_peroxide
+other_no-pathway_1.4.3.21_RXN-11784                                                                             : 1 cadaverine + 1 oxygen + 1 H2O --> 1 ammonia + 1 5-aminopentanal + 1 hydrogen_peroxide
+other_multiple-pathways_1.4.3.21_BS259107                                                                       : 1 benzylamine + 1 H2O + 1 oxygen --> 1 benzaldehyde + 1 ammonia + 1 hydrogen_peroxide
+other_phenylethylamine-degradation_phenylethanol-biosynthesis_1.4.3.21_AMINEPHEN-RXN                            : 1 oxygen + 1 2-phenylethylamine + 1 H2O --> 1 ammonia + 1 hydrogen_peroxide + 1 phenylacetaldehyde
+other_metabolism-of-degradation_1.3.1.32_MALEYLACETATE-REDUCTASE-RXN_NAD                                        : 1 3-oxoadipate + 1 NAD+ <-- 1 2-maleylacetate + 1 H+ + 1 NADH
+other_metabolism-of-degradation_1.3.1.32_MALEYLACETATE-REDUCTASE-RXN_NADP                                       : 1 3-oxoadipate + 1 NADP+ <-- 1 2-maleylacetate + 1 H+ + 1 NADPH
+other_no-pathway_1.2.7.8_1.2.7.8-RXN                                                                            : 1 coenzyme_A + 1 indole-3-pyruvate + 1 |Oxidized-ferredoxins| --> 2 H+ + 1 CO2 + 1 S-2-(indol-3_yl)acetyl-CoA + 1 |Reduced-ferredoxins|
+other_no-pathway_6.2.1.30_RXN-10819                                                                             : 1 ATP + 1 coenzyme_A + 1 phenylacetate --> 1 AMP + 1 phenylacetyl-CoA + 1 diphosphate
+other_nicotinate-degradation_5.2.1.1_MALEATE-ISOMERASE-RXN                                                      : 1 maleate --> 1 fumarate
+other_phenylalanine-degradation-I_4.2.1.96_RXN-7908                                                             : 1 4alpha-hydroxy-tetrahydrobiopterin --> 1 L-erythro-7,8-dihydrobiopterin + 1 H2O
+other_phenylalanine-degradation_4.2.1.96_BS2138                                                                 : 1 4a-hydroxytetrahydrobiopterin <=> 1 L-erythro-7,8-dihydrobiopterin + 1 H2O
+other_no-pathway_4.2.1.89_CARNDEHYDRA-RXN                                                                       : 1 L-carnitine <=> 1 crotono-betaine + 1 H2O
+other_D-galactarate-degradation_4.2.1.42_GALACTARDEHYDRA-RXN                                                    : 1 D-galactarate --> 1 5-dehydro-4-deoxy-D-glucarate + 1 H2O
+other_de-novo-biosynthesis-of-pyrimidine-deoxyribonucleotides_3.6.1.23_DUTP-PYROP-RXN                           : 1 dUTP + 1 H2O --> 1 dUMP + 1 diphosphate
+other_metabolism-of-degradation_3.5.1.87_BS386589                                                               : 1 N-carbamoyl-L-cysteine + 1 H2O --> 1 L-cysteine + 1 CO2 + 1 ammonia
+other_N-acetylglucosamine-degradation_3.5.1.25_NAG6PDEACET-RXN                                                  : 1 N-acetyl-D-glucosamine-6-phosphate + 1 H2O --> 1 acetate + 1 alpha-D-glucosamine-6-phosphate
+other_no-pathway_3.5.1.25_3.5.1.80-RXN                                                                          : 1 N-acetyl-D-galactosamine-6-phosphate + 1 H2O --> 1 acetate + 1 D-galactosamine-6-phosphate
+other_metabolism-of-degradation_3.5.1.14_BS370039                                                               : 1 H2O + 1 N-alpha-acetyl-L-methionine --> 1 L-methionine + 1 acetate
+other_L-idonate-degradation_1.1.1.69_GLUCONATE-5-DEHYDROGENASE-RXN_NAD                                          : 1 D-gluconate + 1 NAD+ <-- 1 5-dehydro-D-gluconate + 1 H+ + 1 NADH
+other_L-idonate-degradation_1.1.1.69_GLUCONATE-5-DEHYDROGENASE-RXN_NADP                                         : 1 D-gluconate + 1 NADP+ <-- 1 5-dehydro-D-gluconate + 1 H+ + 1 NADPH
+other_no-pathway_1.97.1.9_BS375300                                                                              : 1 selenate + 1 H2 <=> 1 selenite + 1 H2O
+other_adenosylcobalamin-biosynthesis-II-(late-cobalt-incorporation)_2.1.1.132_2.1.1.132-RXN                     : 1 precorrin-6B + 2 S-adenosyl-L-methionine --> 2 S-adenosyl-L-homocysteine + 1 CO2 + 1 precorrin-8x
+other_no-pathway_2.4.1.117_2.4.1.117-RXN                                                                        : 1 UDP-alpha-D-glucose + 1 dolichyl_phosphate <=> 1 UDP + 1 dolichyl_beta-D-glucosyl_phosphate
+other_no-pathway_2.5.1.32_2.5.1.32-RXN                                                                          : 2 geranylgeranyl_diphosphate --> 1 prephytoene_diphosphate + 1 diphosphate
+other_no-pathway_2.8.3.16_RXN0-1382                                                                             : 1 formyl-CoA + 1 oxalate --> 1 formate + 1 oxalyl-CoA
+other_no-pathway_3.3.2.1_ISOCHORMAT-RXN                                                                         : 1 isochorismate + 1 H2O --> 1 2,3-dihydroxy-2,3-dihydrobenzoate + 1 pyruvate
+other_no-pathway_3.5.99.2_THIAMINASE-RXN                                                                        : 1 thiamin + 1 H2O --> 1 hydroxymethylpyrimidine + 1 H+ + 1 4-methyl-5-(beta-hydroxyethyl)thiazole
+other_no-pathway_3.8.1.2_BS141614                                                                               : 1 iodoacetate + 1 H2O --> 1 glycolate + 1 iodide
+other_beta-D-glucuronide-and-D-glucuronate-degradation_3.2.1.31_BS410988                                        : 1 retinyl-beta-glucuronide + 1 H2O --> 1 all-trans-retinol + 1 D-glucuronide
+other_multiple-pathways_3.5.1.4_NICOTINAMID-RXN                                                                 : 1 nicotinamide + 1 H2O --> 1 ammonia + 1 nicotinate
+other_no-pathway_1.2.1.24_RXN0-5293_NAD                                                                         : 1 succinate_semialdehyde + 1 H2O + 1 NAD+ --> 1 H+ + 1 succinate + 1 NADH
+other_no-pathway_1.2.1.79_RXN0-5293_NADP                                                                        : 1 succinate_semialdehyde + 1 H2O + 1 NADP+ --> 1 H+ + 1 succinate + 1 NADPH
+other_galactose-degradation-I_3.1.1.25_GALACTONOLACTONASE-RXN                                                   : 1 D-galactono-1,4-lactone + 1 H2O --> 1 D-galactonate
+other_no-pathway_1.1.1.14_L-IDITOL-2-DEHYDROGENASE-RXN                                                          : 1 L-iditol + 1 NAD+ <=> 1 H+ + 1 L-sorbose + 1 NADH
+other_no-pathway_1.1.1.14_RXN-7971                                                                              : 1 NADP+ + 1 D-arabitol <=> 1 NADPH + 1 H+ + 1 D-xylulose
+other_multiple-pathways_3.5.5.1_BS141120                                                                        : 2 H2O + 1 Benzonitrile --> 1 benzoate + 1 ammonia
+other_indole-glucosinolate-breakdown_indole-3-acetate-biosynthesis_3.5.5.1_R07855                               : 1 phenylacetonitrile + 2 H2O --> 1 ammonia + 1 phenylacetate
+other_adenosine-5'-monophosphate-recycling_5.3.1.29_RXN-8801                                                    : 1 ribose-1,5-bisphosphate --> 1 D-ribulose-1,5-bisphosphate
+other_2,4-dinitrotoluene-degradation_valine-degradation_1.2.1.27_BR29389                                        : 1 malonate_semialdehyde + 1 coenzyme_A + 1 NADP+ --> 1 acetyl-CoA + 1 CO2 + 1 NADPH + 1 H+
+other_2,4-dinitrotoluene-degradation_valine-degradation_1.2.1.27_BS189112                                       : 1 methylmalonate_semialdehyde + 1 coenzyme_A + 1 NAD+ --> 1 H+ + 1 propanoyl-CoA + 1 CO2 + 1 NADH
+other_homoserine-lactone_2.5.1.4_ADENOSYLMETHIONINE-CYCLOTRANSFERASE-RXN                                        : 1 S-adenosyl-L-methionine <=> 1 S-methyl-5'-thioadenosine + 1 L-homoserine_lactone
