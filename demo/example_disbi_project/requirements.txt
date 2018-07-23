@@ -6,3 +6,4 @@ more-itertools
 psycopg2-binary
 django-admin-view-permission
 gunicorn
+whitenoise
