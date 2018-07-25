@@ -11,9 +11,9 @@ services:
     restart: always
 
   web:
-    build: ./example_disbi_project
+    build: .
     ports:
-      - 8000:8000
+      - 80:80
     env_file: .env    
     depends_on:
       - db
