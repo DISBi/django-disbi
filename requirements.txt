@@ -4,3 +4,6 @@ numpy>=1.11.0
 matplotlib>=1.5.1,<2
 more-itertools
 psycopg2-binary
+django-admin-view-permission
+gunicorn
+whitenoise

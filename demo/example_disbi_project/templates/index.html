@@ -3,6 +3,18 @@
 {% block content %}
 <div class="grid grid-pad">
   <h1 class="col-1-1">Welcome to DISBI!</h1>
+  <p>
+    DISBi integrates systems biology! It is a flexible framework for creating a data integration system that exactly 
+    fits your systems biology project. The source code and extensive documentation is freely available on 
+    <a href="https://github.com/DISBi/django-disbi">GitHub</a>.
+    This demo app contains transciptome, metabolome and simulated data for <i>Sulfolobus solfataricus</i>
+    from this <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/mmi.13498">paper</a>. Explore the data by clicking on "Go"! If you 
+    You can also explore the <a href="/admin">admin</a>, where you can login in with the credentials
+  </p>
+  <p>
+    Username: visitor<br/>
+    Password: justvisiting<br/>
+  </p>
   <form class="col-1-2" action="go_to_org/" method="get">
     <span class="col-1-1">Choose your organism</span>
       <select name="organism" class="col-1-3">>
