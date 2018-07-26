@@ -17,6 +17,10 @@ DISBi
 DISBi is a framework to build Django apps for managing and integrating 
 Systems Biology data.
 
+A demo application can be found at `disbi.org <http://www.disbi.org/>`_.
+
 Detailed documentation is available on `Read the Docs`_.
+
+I am happy to support you as much as you can if you are interested in using the system. Feel free to reach out to me via email or open an issue!
 
 .. _Read the Docs: http://django-disbi.readthedocs.io/en/latest/
