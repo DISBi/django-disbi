@@ -5,7 +5,33 @@ Setting up the production environment
 Once you have successfully set up your DISBi application and verified that
 everything works as intended, you will want to make DISBi available to all people 
 from your Systems Biology project. To do this, you need to move from the development
-to a `production environment <https://docs.djangoproject.com/en/1.10/howto/deployment/>`_.
+to a `production environment <https://docs.djangoproject.com/en/1.11/howto/deployment/>`_.
+
+Going into production with Docker (recommended)
+-----------------------------------------------
+
+In the root of the ``django-disbi`` repository you find a ``docker-compose.yml`` that
+should serve as a good starting point for a production ready container system. Basically,
+you should only have to adapt the ``entry.sh`` to run your app instead of the demo app.
+
+You will also have to adapt the ``settings.py`` file for production:
+
+.. code-block:: python
+
+    DEBUG = False
+    ALLOWED_HOSTS = ['www.myhost.org']
+
+    # Enable whitenoise for serving static files.
+    MIDDLEWARE_CLASSES = [
+    'whitenoise.middleware.WhiteNoiseMiddleware',
+    # 'django.middleware.security.SecurityMiddleware',
+    ...
+    ]
+
+
+Going into production with Apache
+---------------------------------
+ 
 This is a guide for using `Apache Server <https://httpd.apache.org/>`_ on Debian/Ubuntu as a production server.  
 Any other production environment or server recommended by the Django documentation will
 do as well.

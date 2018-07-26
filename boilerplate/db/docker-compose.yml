@@ -1,0 +1,18 @@
+version: "3.1"
+services:
+  db:
+    image: postgres:10
+    restart: always
+    env_file: .env
+    expose:
+      - 5432
+    ports:
+      - "127.0.0.1:5432:5432"
+    restart: always
+
+  adminer:
+    image: adminer
+    ports:
+      - "127.0.0.1:8080:8080"
+    restart: always
+
