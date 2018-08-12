@@ -16,7 +16,7 @@ DISBi
 
 DISBi is a framework to build Django apps for managing and integrating 
 systems biology data. It supports data analysis capabilites and data export 
-in vairous file formats directly in the browser.
+in various file formats directly in the browser.
 
 Documentation
 =============
