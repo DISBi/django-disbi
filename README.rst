@@ -33,5 +33,8 @@ Support
 
 I am happy to support you as much as you can if you are interested in using the system. Feel free to reach out to me via email or open an issue!
 
+Acknowledgements
+================
+The logo was kindly designed by `Lisa Starke <https://lisastarke.myportfolio.com/>`_.
 
 .. _Read the Docs: http://django-disbi.readthedocs.io/en/latest/
