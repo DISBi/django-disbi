@@ -1,7 +1,3 @@
-=====
-DISBi
-=====
-
 .. image:: https://img.shields.io/pypi/v/django-disbi.svg
    :target: https://pypi.python.org/pypi/django-disbi
    :alt: Current version on PyPi
@@ -13,6 +9,10 @@ DISBi
 .. image:: https://travis-ci.org/DISBi/django-disbi.svg?branch=master
    :target: https://travis-ci.org/DISBi/django-disbi
    :alt: Build status on Travis-CI
+
+.. image:: docs/source/_static/images/logo.svg
+   :width: 400px
+   :alt: DISBi Logo
 
 DISBi is a framework to build Django apps for managing and integrating 
 systems biology data. It supports data analysis capabilites and data export 
