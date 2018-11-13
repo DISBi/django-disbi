@@ -14,6 +14,8 @@ DISBi
    :target: https://travis-ci.org/DISBi/django-disbi
    :alt: Build status on Travis-CI
 
+.. image:: docs/source/_static/images/logo.svg
+
 DISBi is a framework to build Django apps for managing and integrating 
 systems biology data. It supports data analysis capabilites and data export 
 in various file formats directly in the browser.
