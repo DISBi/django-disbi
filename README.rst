@@ -31,7 +31,7 @@ A demo application can be found at `disbi.org <http://www.disbi.org/>`_.
 Support
 =======
 
-I am happy to support you as much as you can if you are interested in using the system. Feel free to reach out to me via email or open an issue!
+I am happy to support you as much as I can if you are interested in using DISBi. Feel free to reach out to me via email or open an issue!
 
 Acknowledgements
 ================
