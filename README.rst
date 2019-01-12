@@ -33,6 +33,13 @@ Support
 
 I am happy to support you as much as I can if you are interested in using DISBi. Feel free to reach out to me via email or open an issue!
 
+Reference
+=========
+If you find DISBi useful in your work, please consider citing:
+
+`Busche R., Dannheim H., Schomburg D. (2019) DISBi: A Flexible Framework for Integrating Systems Biology Data. In: Auer S., Vidal ME. (eds) Data Integration in the Life Sciences. DILS 2018. Lecture Notes in Computer Science, vol 11371. Springer, Cham <https://link.springer.com/chapter/10.1007%2F978-3-030-06016-9_10>`_
+
+
 Acknowledgements
 ================
 The logo was kindly designed by `Lisa Starke <https://lisastarke.myportfolio.com/>`_.
