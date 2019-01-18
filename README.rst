@@ -10,6 +10,9 @@
    :target: https://travis-ci.org/DISBi/django-disbi
    :alt: Build status on Travis-CI
 
+|
+|
+
 .. image:: docs/source/_static/images/logo.svg
    :width: 400px
    :alt: DISBi Logo
